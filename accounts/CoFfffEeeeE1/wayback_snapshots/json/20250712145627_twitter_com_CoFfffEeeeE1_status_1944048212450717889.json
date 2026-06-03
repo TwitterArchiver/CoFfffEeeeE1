@@ -1,0 +1,310 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596719791661715458",
+    "conversation_id": "1943852902873018532",
+    "created_at": "2025-07-12T14:56:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-12T15:56:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1944048212450717889"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1256063118595129344",
+          "start": 0,
+          "username": "JF1213952A"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1944048212450717889",
+    "in_reply_to_user_id": "1256063118595129344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1943852902873018532",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JF1213952A 牛蕃茄是什麽蕃茄，就是普通蕃茄吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_1943852696202571776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvnzumzW8AAf4Sp.jpg",
+        "width": 2304
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596719791661715458",
+        "conversation_id": "1943852902873018532",
+        "created_at": "2025-07-12T14:56:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-12T15:56:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944048212450717889"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1256063118595129344",
+              "start": 0,
+              "username": "JF1213952A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944048212450717889",
+        "in_reply_to_user_id": "1256063118595129344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943852902873018532",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JF1213952A 牛蕃茄是什麽蕃茄，就是普通蕃茄吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1943852696202571776"
+          ]
+        },
+        "author_id": "1256063118595129344",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cooking/Baking",
+              "id": "831530561680191490",
+              "name": "Cooking"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Appliances",
+              "id": "864912523077615616",
+              "name": "Appliances"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Cooking Products",
+              "id": "831535030379835392",
+              "name": "Cooking Products"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cooking/Baking",
+              "id": "831530561680191490",
+              "name": "Cooking"
+            }
+          }
+        ],
+        "conversation_id": "1943852902873018532",
+        "created_at": "2025-07-12T02:00:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-12T03:00:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1943852902873018532"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3J5qYYnS8q",
+              "end": 162,
+              "expanded_url": "https://x.com/JF1213952A/status/1943852902873018532/photo/1",
+              "media_key": "3_1943852696202571776",
+              "start": 139,
+              "url": "https://t.co/3J5qYYnS8q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943852902873018532",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 192,
+          "impression_count": 35912,
+          "like_count": 636,
+          "quote_count": 9,
+          "reply_count": 25,
+          "retweet_count": 46
+        },
+        "reply_settings": "everyone",
+        "text": "在某音上面看到一個日本人煮「無水咖哩」而且是那種超簡單無腦煮法，牛蕃茄、茄子、金針菇、牛絞肉加上咖哩粉，順序放在深鍋中，蓋上蓋子就好了。\n我考慮到小孩不吃茄子，所以就是牛蕃茄、洋蔥、杏鮑菇、紅蘿蔔、節瓜、牛絞肉，無腦丟進鍋中，等待全部軟化出水之後，再加咖哩粉與白味噌。等著瞧。 https://t.co/3J5qYYnS8q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-27T04:17:31.000Z",
+        "description": "⚧️青蛙/咖啡/代词是She或单数They \n🏳️‍⚧️MtX/Pan/酷儿/雌激素服用中\n💍天下第一喜欢@shudesu00\n👽商科/数学/编程\n💤Overdose\n🧠边缘型人格障碍\n🍥04年生/17年hrt\n⚠️血图/裸图\n🗞️汉语/English/français\n✋顺直男退散",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "shudesu00"
+              }
+            ]
+          }
+        },
+        "id": "1596719791661715458",
+        "name": "CoFfffEeeeE",
+        "pinned_tweet_id": "1906345611391373747",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863941997414977537/NOGgaInd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 455,
+          "following_count": 747,
+          "like_count": 17399,
+          "listed_count": 0,
+          "media_count": 933,
+          "tweet_count": 5067
+        },
+        "username": "CoFfffEeeeE1",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-01T03:29:31.000Z",
+        "description": "據說是INTJ人累。淦林老斯，我是已婚老男人。 當你跟所有傻逼吵架都贏了，你將會得到傻逼王的稱號。 上帝給了人腦子，推特給了你封鎖的功能，不要怪別人封鎖你，也不要不好意思封鎖我。 #貓帳",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 93,
+                "start": 90,
+                "tag": "貓帳"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/a68ftepu?r=nam…",
+                "end": 23,
+                "expanded_url": "https://instagram.com/a68ftepu?r=nametag",
+                "start": 0,
+                "url": "https://t.co/D9fpafLu8t"
+              }
+            ]
+          }
+        },
+        "id": "1256063118595129344",
+        "name": "JF/小鳥一人",
+        "pinned_tweet_id": "1589917833869213697",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821810711271780353/Sl5PL9ua_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 261,
+          "following_count": 514,
+          "like_count": 159031,
+          "listed_count": 1,
+          "media_count": 3946,
+          "tweet_count": 30707
+        },
+        "url": "https://t.co/D9fpafLu8t",
+        "username": "JF1213952A",
+        "verified": false
+      }
+    ]
+  }
+}

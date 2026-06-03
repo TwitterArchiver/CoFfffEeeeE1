@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596719791661715458",
+    "conversation_id": "1861766572723114106",
+    "created_at": "2024-11-27T14:07:34.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-27T15:07:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1861773865585873118"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1339446920511569920",
+          "start": 0,
+          "username": "shudesu00"
+        },
+        {
+          "end": 23,
+          "id": "1583317300152651776",
+          "start": 11,
+          "username": "Tsuki_NekoY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1861773865585873118",
+    "in_reply_to_user_id": "1339446920511569920",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1861766572723114106",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shudesu00 @Tsuki_NekoY 好幸福吖"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596719791661715458",
+        "conversation_id": "1861766572723114106",
+        "created_at": "2024-11-27T14:07:34.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-27T15:07:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1861773865585873118"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1339446920511569920",
+              "start": 0,
+              "username": "shudesu00"
+            },
+            {
+              "end": 23,
+              "id": "1583317300152651776",
+              "start": 11,
+              "username": "Tsuki_NekoY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1861773865585873118",
+        "in_reply_to_user_id": "1339446920511569920",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1861766572723114106",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shudesu00 @Tsuki_NekoY 好幸福吖"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1861766570101579776"
+          ]
+        },
+        "author_id": "1339446920511569920",
+        "conversation_id": "1861766572723114106",
+        "created_at": "2024-11-27T13:38:35.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-27T14:38:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1861766572723114106"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 82,
+              "id": "1583317300152651776",
+              "start": 70,
+              "username": "Tsuki_NekoY"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KlJO08hf06",
+              "end": 106,
+              "expanded_url": "https://x.com/shudesu00/status/1861766572723114106/photo/1",
+              "media_key": "3_1861766570101579776",
+              "start": 83,
+              "url": "https://t.co/KlJO08hf06"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1861766572723114106",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 76,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "特别好的rikana宝宝主动给我写的，好冷它还帮我写，当时超级的感动，现在还是超级开心，看着图片心里就暖暖的，感觉被在意的，超级好宝宝喵喵 @Tsuki_NekoY https://t.co/KlJO08hf06"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-27T04:17:31.000Z",
+        "description": "⚧️青蛙/咖啡/代词是She或单数They \n🏳️‍⚧️MtX/Pan/酷儿/雌激素服用中\n💍天下第一喜欢@shudesu00\n👽商科/数学/编程\n💤Overdose\n🧠边缘型人格障碍\n🍥04年生/17年hrt/19年断药/20年二周目\n⚠️血图/裸图\n🛸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "shudesu00"
+              }
+            ]
+          }
+        },
+        "id": "1596719791661715458",
+        "name": "CoFfffEeeeE",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1856389216047116288/T0Q91ZGq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 465,
+          "following_count": 783,
+          "like_count": 15455,
+          "listed_count": 0,
+          "tweet_count": 4544
+        },
+        "username": "CoFfffEeeeE1",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-17T05:46:58.000Z",
+        "description": "Ftx_aspd_intp_习惯性点赞_宇宙最萌小青蛙💍@CoFfffEeeeE1✚各类一次性75-100+元。悦刻五代180r、悦刻五代原厂弹90/80/75r一盒包邮。纸外烟代，散拼：1包起发/邮费15、10包邮，买烟请私信✚🔮塔罗占卜30/50/120r不准可以爆我头",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 28,
+                "username": "CoFfffEeeeE1"
+              }
+            ]
+          }
+        },
+        "id": "1339446920511569920",
+        "name": "小树（电/外烟代）",
+        "pinned_tweet_id": "1792758274967953516",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1856388703163428869/saHUwYgw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3704,
+          "following_count": 2171,
+          "like_count": 118862,
+          "listed_count": 5,
+          "tweet_count": 14845
+        },
+        "username": "shudesu00",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-21T04:40:54.000Z",
+        "description": "転載禁止/陰キャ/⚓️/精神障害/無性別/Sakuraの猫猫/日本語/裏@SakuraNekosama",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 36,
+                "username": "SakuraNekosama"
+              }
+            ]
+          }
+        },
+        "id": "1583317300152651776",
+        "location": "東京  🚪88/150/520   私信只回口令红包",
+        "name": "Rikanaちゃん",
+        "pinned_tweet_id": "1846531641117941988",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1856000292158062592/JQ-hbA8J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1273,
+          "following_count": 55,
+          "like_count": 1150,
+          "listed_count": 2,
+          "tweet_count": 1582
+        },
+        "username": "Tsuki_NekoY",
+        "verified": false
+      }
+    ]
+  }
+}

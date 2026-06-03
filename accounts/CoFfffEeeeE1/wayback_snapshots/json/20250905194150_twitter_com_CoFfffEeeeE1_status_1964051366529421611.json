@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596719791661715458",
+    "conversation_id": "1964020890150326651",
+    "created_at": "2025-09-05T19:41:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-05T20:41:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1964051366529421611"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1421851995355369477",
+          "start": 0,
+          "username": "Aichijiandanxyz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1964051366529421611",
+    "in_reply_to_user_id": "1421851995355369477",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1964020890150326651",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Aichijiandanxyz 好饿阿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596719791661715458",
+        "conversation_id": "1964020890150326651",
+        "created_at": "2025-09-05T19:41:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-05T20:41:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964051366529421611"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1421851995355369477",
+              "start": 0,
+              "username": "Aichijiandanxyz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964051366529421611",
+        "in_reply_to_user_id": "1421851995355369477",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1964020890150326651",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aichijiandanxyz 好饿阿"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1421851995355369477",
+        "conversation_id": "1964020890150326651",
+        "created_at": "2025-09-05T17:40:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-05T18:40:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1964020890150326651"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1964020890150326651",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 327,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好饿啊最近好容易饿"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-27T04:17:31.000Z",
+        "description": "⚧️青蛙/咖啡/代词是She或单数They \n🏳️‍⚧️MtX/Pan/酷儿/雌激素服用中\n💍天下第一喜欢@shudesu00\n👽商科/数学/编程\n💤Overdose\n🧠边缘型人格障碍\n🍥04年生/17年hrt\n⚠️血图/裸图\n🗞️汉语/English/français\n✋顺直男退散",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "shudesu00"
+              }
+            ]
+          }
+        },
+        "id": "1596719791661715458",
+        "name": "CoFfffEeeeE",
+        "pinned_tweet_id": "1906345611391373747",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863941997414977537/NOGgaInd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 462,
+          "following_count": 748,
+          "like_count": 17696,
+          "listed_count": 1,
+          "media_count": 937,
+          "tweet_count": 5259
+        },
+        "username": "CoFfffEeeeE1",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-01T15:15:33.000Z",
+        "description": "思维补丁，本体是🥚\n@eggyyybaby\n#煎蛋不想说话就唱歌吧",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 33,
+                "start": 22,
+                "tag": "煎蛋不想说话就唱歌吧"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 21,
+                "start": 10,
+                "username": "eggyyybaby"
+              }
+            ]
+          }
+        },
+        "id": "1421851995355369477",
+        "location": "🍳",
+        "name": "煎蛋棉被",
+        "pinned_tweet_id": "1844974218825400809",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922277650879676418/p7_qBFWA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18946,
+          "following_count": 373,
+          "like_count": 157492,
+          "listed_count": 58,
+          "media_count": 7190,
+          "tweet_count": 71094
+        },
+        "username": "Aichijiandanxyz",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,317 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596719791661715458",
+    "conversation_id": "1868313817857536490",
+    "created_at": "2024-12-15T19:01:47.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-15T20:01:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1868370890737713303"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1702581699803021312",
+          "start": 0,
+          "username": "brown_25261"
+        },
+        {
+          "end": 29,
+          "id": "1421851995355369477",
+          "start": 13,
+          "username": "Aichijiandanxyz"
+        },
+        {
+          "end": 44,
+          "id": "1491241752816422914",
+          "start": 30,
+          "username": "windsleeping_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1868370890737713303",
+    "in_reply_to_user_id": "1702581699803021312",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1868335553353335267",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@brown_25261 @Aichijiandanxyz @windsleeping_ 为他人感受负责才是现代人该做的，想着到处冒犯别人脑子到底是怎么回事"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596719791661715458",
+        "conversation_id": "1868313817857536490",
+        "created_at": "2024-12-15T19:01:47.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-15T20:01:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1868370890737713303"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1702581699803021312",
+              "start": 0,
+              "username": "brown_25261"
+            },
+            {
+              "end": 29,
+              "id": "1421851995355369477",
+              "start": 13,
+              "username": "Aichijiandanxyz"
+            },
+            {
+              "end": 44,
+              "id": "1491241752816422914",
+              "start": 30,
+              "username": "windsleeping_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1868370890737713303",
+        "in_reply_to_user_id": "1702581699803021312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1868335553353335267",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@brown_25261 @Aichijiandanxyz @windsleeping_ 为他人感受负责才是现代人该做的，想着到处冒犯别人脑子到底是怎么回事"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1702581699803021312",
+        "conversation_id": "1868313817857536490",
+        "created_at": "2024-12-15T16:41:22.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-15T17:41:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1868335553353335267"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1421851995355369477",
+              "start": 0,
+              "username": "Aichijiandanxyz"
+            },
+            {
+              "end": 31,
+              "id": "1491241752816422914",
+              "start": 17,
+              "username": "windsleeping_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1868335553353335267",
+        "in_reply_to_user_id": "1421851995355369477",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1868326648019550352",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aichijiandanxyz @windsleeping_ 巨婴总觉得互联网上每个人都要为你的感觉负责\n抱歉，就当我就是来冒犯你的好了\n在你未来卑微的人生中 还会有无数次这样的机会😄"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-27T04:17:31.000Z",
+        "description": "⚧️青蛙/咖啡/代词是She或单数They \n🏳️‍⚧️MtX/Pan/酷儿/雌激素服用中\n💍天下第一喜欢@shudesu00\n👽商科/数学/编程\n💤Overdose\n🧠边缘型人格障碍\n🍥04年生/17年hrt/19年断药/20年二周目\n⚠️血图/裸图\n🛸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "shudesu00"
+              }
+            ]
+          }
+        },
+        "id": "1596719791661715458",
+        "name": "CoFfffEeeeE",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863941997414977537/NOGgaInd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 468,
+          "following_count": 783,
+          "like_count": 15962,
+          "listed_count": 0,
+          "media_count": 803,
+          "tweet_count": 4669
+        },
+        "username": "CoFfffEeeeE1",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-15T07:15:06.000Z",
+        "description": "aptx",
+        "id": "1702581699803021312",
+        "name": "Aptx Smith",
+        "pinned_tweet_id": "1864521406727250183",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1702581795298914304/qCECyIUQ_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 710,
+          "following_count": 1176,
+          "like_count": 11883,
+          "listed_count": 6,
+          "media_count": 0,
+          "tweet_count": 15233
+        },
+        "username": "brown_25261",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-01T15:15:33.000Z",
+        "description": "贱人更是滚开！\n@eggyyybaby\nvpn⬇️\n#煎蛋不想说话就唱歌吧",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 37,
+                "start": 26,
+                "tag": "煎蛋不想说话就唱歌吧"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 19,
+                "start": 8,
+                "username": "eggyyybaby"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tw01.damoplane.one/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://tw01.damoplane.one/#/register?code=3NzovwUX",
+                "start": 0,
+                "url": "https://t.co/j01PssLVAB"
+              }
+            ]
+          }
+        },
+        "id": "1421851995355369477",
+        "location": "🍳",
+        "name": "煎蛋棉被",
+        "pinned_tweet_id": "1844974218825400809",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1773734861385453568/RauNYdco_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18860,
+          "following_count": 389,
+          "like_count": 141281,
+          "listed_count": 66,
+          "media_count": 5636,
+          "tweet_count": 61083
+        },
+        "url": "https://t.co/j01PssLVAB",
+        "username": "Aichijiandanxyz",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-09T02:45:25.000Z",
+        "description": "世界的词语是森林",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "get.suzi04.xyz/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://get.suzi04.xyz/#/register?code=TbkaKLXJ",
+                "start": 0,
+                "url": "https://t.co/ThrZd8oTcl"
+              }
+            ]
+          }
+        },
+        "id": "1491241752816422914",
+        "location": "自用vpn→",
+        "name": "无垠小手",
+        "pinned_tweet_id": "1826284043299918150",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1609579073432612865/3pg7fZ-O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29610,
+          "following_count": 216,
+          "like_count": 10048,
+          "listed_count": 53,
+          "media_count": 174,
+          "tweet_count": 4716
+        },
+        "url": "https://t.co/ThrZd8oTcl",
+        "username": "windsleeping_",
+        "verified": false
+      }
+    ]
+  }
+}

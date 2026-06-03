@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596719791661715458",
+    "conversation_id": "1951291078587589070",
+    "created_at": "2025-08-02T16:24:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-02T17:24:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1951680583496618140"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1894249306422689792",
+          "start": 0,
+          "username": "yuejkk110591"
+        },
+        {
+          "end": 26,
+          "id": "1672989064985714695",
+          "start": 14,
+          "username": "kokomiovo33"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1951680583496618140",
+    "in_reply_to_user_id": "1894249306422689792",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 2,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1951313317273776463",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuejkk110591 @kokomiovo33 哈人，，"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596719791661715458",
+        "conversation_id": "1951291078587589070",
+        "created_at": "2025-08-02T16:24:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-02T17:24:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1951680583496618140"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1894249306422689792",
+              "start": 0,
+              "username": "yuejkk110591"
+            },
+            {
+              "end": 26,
+              "id": "1672989064985714695",
+              "start": 14,
+              "username": "kokomiovo33"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951680583496618140",
+        "in_reply_to_user_id": "1894249306422689792",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951313317273776463",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuejkk110591 @kokomiovo33 哈人，，"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894249306422689792",
+        "conversation_id": "1951291078587589070",
+        "created_at": "2025-08-01T16:05:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-01T17:05:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1951313317273776463"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1672989064985714695",
+              "start": 0,
+              "username": "kokomiovo33"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951313317273776463",
+        "in_reply_to_user_id": "1672989064985714695",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 7649,
+          "like_count": 183,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951291078587589070",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kokomiovo33 麻麻咪们亲过宝宝的小🐔🐔吗\n哈哈😆😆我忍不住偷笑了！而且笑得停不下来..今天中午吃了饭之后，儿子拉了粑粑，洗了屁屁，换尿不湿时，觉得我儿子可爱死了，越看越爱，爱的心窝窝里.接下来⋯嘿嘿😁你们猜到了吗？\n我居然哇的一口亲了小东西...还亲了两下，宝宝开心的哟，哈哈哈，亲妈额，"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-27T04:17:31.000Z",
+        "description": "⚧️青蛙/咖啡/代词是She或单数They \n🏳️‍⚧️MtX/Pan/酷儿/雌激素服用中\n💍天下第一喜欢@shudesu00\n👽商科/数学/编程\n💤Overdose\n🧠边缘型人格障碍\n🍥04年生/17年hrt\n⚠️血图/裸图\n🗞️汉语/English/français\n✋顺直男退散",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "shudesu00"
+              }
+            ]
+          }
+        },
+        "id": "1596719791661715458",
+        "name": "CoFfffEeeeE",
+        "pinned_tweet_id": "1906345611391373747",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863941997414977537/NOGgaInd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 455,
+          "following_count": 748,
+          "like_count": 17253,
+          "listed_count": 0,
+          "media_count": 935,
+          "tweet_count": 5167
+        },
+        "username": "CoFfffEeeeE1",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-25T04:53:59.000Z",
+        "description": "enfp. （sub？？",
+        "id": "1894249306422689792",
+        "location": "有🚪",
+        "name": "8岁性感后妈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946208020750372864/e8Q5ErAa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 317,
+          "following_count": 43,
+          "like_count": 595,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 1129
+        },
+        "username": "yuejkk110591",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-25T15:24:28.000Z",
+        "description": "我发誓不会再爱上🚪哥/‼️置顶推广自辨‼️关评推广不是本人，别乱点‼️‼️自用vpn：https://t.co/XmALWSICVr",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "so.sulink.life/#/register?cod…",
+                "end": 66,
+                "expanded_url": "https://so.sulink.life/#/register?code=10G6JBh5",
+                "start": 43,
+                "url": "https://t.co/XmALWSICVr"
+              }
+            ]
+          }
+        },
+        "id": "1672989064985714695",
+        "location": "纯绿绿绿绿🚪288/520/1314（不回非🚪私信",
+        "name": "小睡补药睡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888008977717383168/KgIFaKDx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30665,
+          "following_count": 147,
+          "like_count": 3866,
+          "listed_count": 48,
+          "media_count": 52,
+          "tweet_count": 2737
+        },
+        "username": "kokomiovo33",
+        "verified": false
+      }
+    ]
+  }
+}

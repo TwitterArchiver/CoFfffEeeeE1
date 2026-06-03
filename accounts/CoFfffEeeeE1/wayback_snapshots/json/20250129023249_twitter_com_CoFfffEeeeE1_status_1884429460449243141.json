@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596719791661715458",
+    "conversation_id": "1884135889472979007",
+    "created_at": "2025-01-29T02:32:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-29T03:32:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1884429460449243141"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1251033624222158849",
+          "start": 0,
+          "username": "baozou0121"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1884429460449243141",
+    "in_reply_to_user_id": "1251033624222158849",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1884419085091618825",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@baozou0121 你现在中文真好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596719791661715458",
+        "conversation_id": "1884135889472979007",
+        "created_at": "2025-01-29T02:32:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-29T03:32:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1884429460449243141"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1251033624222158849",
+              "start": 0,
+              "username": "baozou0121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884429460449243141",
+        "in_reply_to_user_id": "1251033624222158849",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1884419085091618825",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@baozou0121 你现在中文真好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1251033624222158849",
+        "conversation_id": "1884135889472979007",
+        "created_at": "2025-01-29T01:51:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-29T02:51:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1884419085091618825"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1884419085091618825",
+        "in_reply_to_user_id": "1251033624222158849",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 350,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1884256232430788950",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我们还互相叫姐姐妹妹🥹不照弟弟叫我冷血无情的坏人吗！还互相看fb和ig虽然其他家人都拉黑我\n我再也去不了他们家了，但下次我去台湾有可能找姐姐两个人吃饭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-27T04:17:31.000Z",
+        "description": "⚧️青蛙/咖啡/代词是She或单数They \n🏳️‍⚧️MtX/Pan/酷儿/雌激素服用中\n💍天下第一喜欢@shudesu00\n👽商科/数学/编程\n💤Overdose\n🧠边缘型人格障碍\n🍥04年生/17年hrt/19年断药/20年二周目\n⚠️血图/裸图\n🗞️汉语/English/français\n🛸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "shudesu00"
+              }
+            ]
+          }
+        },
+        "id": "1596719791661715458",
+        "name": "CoFfffEeeeE",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863941997414977537/NOGgaInd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 464,
+          "following_count": 780,
+          "like_count": 16403,
+          "listed_count": 0,
+          "media_count": 840,
+          "tweet_count": 4815
+        },
+        "username": "CoFfffEeeeE1",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-17T06:24:04.000Z",
+        "description": "同志们好！我是日本人喜欢学习汉语、中国文化、和奇怪的知识！如果我的中文错了，请告诉我！今天也用力踩下油门🩵 #王洪文迷你比基尼社团\n🚫请勿转载🚫请勿在我的评论区发歧视性言论、政治宣传、骚扰、吵架。违反了就给你看排泄癖好小说\n🔞: @baozouR18\n接稿 https://t.co/E75CSTtbRx",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 65,
+                "start": 54,
+                "tag": "王洪文迷你比基尼社团"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 125,
+                "start": 115,
+                "username": "baozouR18"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "skeb.jp/@baozou0121",
+                "end": 152,
+                "expanded_url": "https://skeb.jp/@baozou0121",
+                "start": 129,
+                "url": "https://t.co/E75CSTtbRx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/1159370376",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/1159370376",
+                "start": 0,
+                "url": "https://t.co/2z547YWi9M"
+              }
+            ]
+          }
+        },
+        "id": "1251033624222158849",
+        "location": "🇯🇵",
+        "name": "暴走半島",
+        "pinned_tweet_id": "1731493071790232033",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1474259239279665156/KN7ImQ0G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22157,
+          "following_count": 329,
+          "like_count": 69738,
+          "listed_count": 44,
+          "media_count": 1291,
+          "tweet_count": 8412
+        },
+        "url": "https://t.co/2z547YWi9M",
+        "username": "baozou0121",
+        "verified": true
+      }
+    ]
+  }
+}

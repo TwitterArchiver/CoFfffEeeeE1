@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596719791661715458",
+    "conversation_id": "1833438541822759118",
+    "created_at": "2024-09-10T10:13:59.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-10T11:13:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1833448829846524252"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1482630034280321028",
+          "start": 0,
+          "username": "wuyumolisha7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1833448829846524252",
+    "in_reply_to_user_id": "1482630034280321028",
+    "lang": "qme",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1833447932919775655",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wuyumolisha7 😭😭😭😭😭😭😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596719791661715458",
+        "conversation_id": "1833438541822759118",
+        "created_at": "2024-09-10T10:13:59.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-10T11:13:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1833448829846524252"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1482630034280321028",
+              "start": 0,
+              "username": "wuyumolisha7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1833448829846524252",
+        "in_reply_to_user_id": "1482630034280321028",
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1833447932919775655",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wuyumolisha7 😭😭😭😭😭😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1482630034280321028",
+        "conversation_id": "1833438541822759118",
+        "created_at": "2024-09-10T10:10:25.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-10T11:10:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1833447932919775655"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1596719791661715458",
+              "start": 0,
+              "username": "CoFfffEeeeE1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1833447932919775655",
+        "in_reply_to_user_id": "1596719791661715458",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1833438541822759118",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CoFfffEeeeE1 草"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-27T04:17:31.000Z",
+        "description": "⚧️青蛙/咖啡/代词是She或单数They \n🏳️‍⚧️MtF/Pan/酷儿/雌激素服用中\n🥰天下第一喜欢@shudesu00\n👽商科/数学/编程\n💤Overdose\n😨边缘型人格障碍\n🍥04年生/17年hrt/19年断药/20年二周目\n⚠️血图/裸图\n🛸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "shudesu00"
+              }
+            ]
+          }
+        },
+        "id": "1596719791661715458",
+        "name": "CoFfffEeeeE",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1833443600757362688/WLmVr9SG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 436,
+          "following_count": 773,
+          "like_count": 12610,
+          "listed_count": 0,
+          "tweet_count": 3527
+        },
+        "username": "CoFfffEeeeE1",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-16T08:25:48.000Z",
+        "description": "///在脆莎的世界里感受情绪的漩涡 | 思考自我、社会与生活的意义 | 寻找交流和互动的温暖 | 对药物和自残等话题存在矛盾探索/// hrt 24.5.4/代称any/mtx/半性恋/overdose/self-harm/边缘型/成分回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+Kef4dfPEoR0xZ…",
+                "end": 23,
+                "expanded_url": "https://t.me/+Kef4dfPEoR0xZWNl",
+                "start": 0,
+                "url": "https://t.co/NBjU3u5sJG"
+              }
+            ]
+          }
+        },
+        "id": "1482630034280321028",
+        "location": "脆莎の研究所",
+        "name": "💚脆脆莎✟雨✟🦈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1799812568107921408/jCbFmQFt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 238,
+          "following_count": 374,
+          "like_count": 8248,
+          "listed_count": 1,
+          "tweet_count": 3462
+        },
+        "url": "https://t.co/NBjU3u5sJG",
+        "username": "wuyumolisha7",
+        "verified": false
+      }
+    ]
+  }
+}

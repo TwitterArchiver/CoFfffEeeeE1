@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596719791661715458",
+    "conversation_id": "1841370210869371043",
+    "created_at": "2024-10-03T05:10:38.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-03T06:10:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1841707411155067252"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1339446920511569920",
+          "start": 0,
+          "username": "shudesu00"
+        },
+        {
+          "end": 27,
+          "id": "1682782420196790277",
+          "start": 11,
+          "username": "PlaceableMonarc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1841707411155067252",
+    "in_reply_to_user_id": "1339446920511569920",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1841706769774412126",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shudesu00 @PlaceableMonarc pr干的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596719791661715458",
+        "conversation_id": "1841370210869371043",
+        "created_at": "2024-10-03T05:10:38.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-03T06:10:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1841707411155067252"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1339446920511569920",
+              "start": 0,
+              "username": "shudesu00"
+            },
+            {
+              "end": 27,
+              "id": "1682782420196790277",
+              "start": 11,
+              "username": "PlaceableMonarc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1841707411155067252",
+        "in_reply_to_user_id": "1339446920511569920",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1841706769774412126",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shudesu00 @PlaceableMonarc pr干的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1339446920511569920",
+        "conversation_id": "1841370210869371043",
+        "created_at": "2024-10-03T05:08:05.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-03T06:08:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1841706769774412126"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1682782420196790277",
+              "start": 0,
+              "username": "PlaceableMonarc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1841706769774412126",
+        "in_reply_to_user_id": "1682782420196790277",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1841706608482787824",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PlaceableMonarc 普锐"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-27T04:17:31.000Z",
+        "description": "⚧️青蛙/咖啡/代词是She或单数They \n🏳️‍⚧️MtF/Pan/酷儿/雌激素服用中\n🥰天下第一喜欢@shudesu00\n👽商科/数学/编程\n💤Overdose\n😨边缘型人格障碍\n🍥04年生/17年hrt/19年断药/20年二周目\n⚠️血图/裸图\n🛸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "shudesu00"
+              }
+            ]
+          }
+        },
+        "id": "1596719791661715458",
+        "name": "CoFfffEeeeE",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1833443600757362688/WLmVr9SG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 441,
+          "following_count": 770,
+          "like_count": 13173,
+          "listed_count": 0,
+          "tweet_count": 3719
+        },
+        "username": "CoFfffEeeeE1",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-17T05:46:58.000Z",
+        "description": "Ftx_intp_双相_aspd_习惯性点赞_同成分互fo请直来💍 蛙宝重度依赖@CoFfffEeeeE1 【一次性电子烟80-85r包邮、悦刻五代180r、悦刻五代弹90r一盒包邮，两盒起按80r一盒。纸外烟代，散拼：1包起发/邮费15、散拼10盒/成条包邮单独报价，买烟请私信",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 40,
+                "username": "CoFfffEeeeE1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tw03.damoplane1.com/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://tw03.damoplane1.com/#/register?code=A0cvDYLN",
+                "start": 0,
+                "url": "https://t.co/6LL8mOeDud"
+              }
+            ]
+          }
+        },
+        "id": "1339446920511569920",
+        "location": "自用vpn➡️",
+        "name": "小树（电子烟/外烟代）",
+        "pinned_tweet_id": "1792758274967953516",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1818517642342457344/W-xtl8gN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3317,
+          "following_count": 2087,
+          "like_count": 103509,
+          "listed_count": 2,
+          "tweet_count": 12687
+        },
+        "url": "https://t.co/6LL8mOeDud",
+        "username": "shudesu00",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-22T15:59:36.000Z",
+        "description": "β̝oːʂˈɹːtɕiŋːtɕiŋːja˞",
+        "id": "1682782420196790277",
+        "location": "Los Angeles, CA",
+        "name": "청청",
+        "pinned_tweet_id": "1725164890170458541",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1841541531095990276/ozZUe1z2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 519,
+          "following_count": 3214,
+          "like_count": 73931,
+          "listed_count": 4,
+          "tweet_count": 11699
+        },
+        "username": "PlaceableMonarc",
+        "verified": false
+      }
+    ]
+  }
+}

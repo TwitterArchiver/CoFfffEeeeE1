@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596719791661715458",
+    "conversation_id": "1949432818389459153",
+    "created_at": "2025-07-27T11:45:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-27T12:45:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1949435915073728839"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1069968408",
+          "start": 0,
+          "username": "acidvaccine"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949435915073728839",
+    "in_reply_to_user_id": "1069968408",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949432818389459153",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@acidvaccine 世事各有代价"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596719791661715458",
+        "conversation_id": "1949432818389459153",
+        "created_at": "2025-07-27T11:45:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-27T12:45:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949435915073728839"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1069968408",
+              "start": 0,
+              "username": "acidvaccine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949435915073728839",
+        "in_reply_to_user_id": "1069968408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949432818389459153",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@acidvaccine 世事各有代价"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1069968408",
+        "conversation_id": "1949432818389459153",
+        "created_at": "2025-07-27T11:32:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-27T12:32:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1949432818389459153"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1949432818389459153",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 50,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "曾经认为自己莫名其妙就掉下来了，但现在看到了原来因为别人这么渺小的念头，将我人生产生这么大的改变。痛苦和悲伤把我滋养，孤独和绝望，家暴鞭打，我变成灵性巫女，有时通灵，我的亲妹妹在安全的环境长大变成普通的麻瓜。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-27T04:17:31.000Z",
+        "description": "⚧️青蛙/咖啡/代词是She或单数They \n🏳️‍⚧️MtX/Pan/酷儿/雌激素服用中\n💍天下第一喜欢@shudesu00\n👽商科/数学/编程\n💤Overdose\n🧠边缘型人格障碍\n🍥04年生/17年hrt\n⚠️血图/裸图\n🗞️汉语/English/français\n✋顺直男退散",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "shudesu00"
+              }
+            ]
+          }
+        },
+        "id": "1596719791661715458",
+        "name": "CoFfffEeeeE",
+        "pinned_tweet_id": "1906345611391373747",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863941997414977537/NOGgaInd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 454,
+          "following_count": 749,
+          "like_count": 17539,
+          "listed_count": 0,
+          "media_count": 935,
+          "tweet_count": 5128
+        },
+        "username": "CoFfffEeeeE1",
+        "verified": false
+      },
+      {
+        "created_at": "2013-01-08T04:37:06.000Z",
+        "description": "@SickG33024\n\nalone the last one standing is left with nothing but time to think\n\nthe memories i cant recall even if i wanted to forget them that unresolved",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 0,
+                "username": "SickG33024"
+              }
+            ]
+          }
+        },
+        "id": "1069968408",
+        "location": "Blue Earth",
+        "name": "酸疫瞄Acid Vaccineु⁾⁾ ༘☼ฅ˒˒ ｡・ﾟ",
+        "pinned_tweet_id": "1935165087310037266",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886433088034725888/F02djWYC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10422,
+          "following_count": 511,
+          "like_count": 1521,
+          "listed_count": 28,
+          "media_count": 920,
+          "tweet_count": 2024
+        },
+        "username": "acidvaccine",
+        "verified": false
+      }
+    ]
+  }
+}

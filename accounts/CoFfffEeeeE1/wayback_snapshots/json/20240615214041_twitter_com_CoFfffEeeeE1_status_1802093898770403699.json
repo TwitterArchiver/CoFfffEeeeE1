@@ -1,0 +1,220 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1596719791661715458",
+    "conversation_id": "1802065645041066117",
+    "created_at": "2024-06-15T21:40:41.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-15T22:40:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1802093898770403699"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 25,
+          "normalized_text": "美沙芬那",
+          "probability": 0.5514,
+          "start": 22,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1694437145035816960",
+          "start": 0,
+          "username": "theLostCypress"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1802093898770403699",
+    "in_reply_to_user_id": "1694437145035816960",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1802065645041066117",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@theLostCypress 可能真不如右美沙芬那心境改善"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1596719791661715458",
+        "conversation_id": "1802065645041066117",
+        "created_at": "2024-06-15T21:40:41.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-15T22:40:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1802093898770403699"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 25,
+              "normalized_text": "美沙芬那",
+              "probability": 0.5514,
+              "start": 22,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1694437145035816960",
+              "start": 0,
+              "username": "theLostCypress"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1802093898770403699",
+        "in_reply_to_user_id": "1694437145035816960",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1802065645041066117",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@theLostCypress 可能真不如右美沙芬那心境改善"
+      },
+      {
+        "attachments": {},
+        "author_id": "1694437145035816960",
+        "conversation_id": "1802065645041066117",
+        "created_at": "2024-06-15T19:48:25.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-15T20:48:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1802065645041066117"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1802065645041066117",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 79,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "使用小剂量兴奋剂毒品（如甲基苯丙胺）是否可以达到抗抑郁的效果？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-27T04:17:31.000Z",
+        "description": "⚧️青蛙/咖啡/代词是She或单数They \n🏳️‍⚧️MtF/Pan/酷儿/雌激素服用中\n🥰天下第一喜欢@shudesu00\n👽商科/数学/编程\n💤Overdose\n😨边缘型人格障碍\n🍥04年生/17年hrt/19年断药/20年二周目\n⚠️血图/裸图\n🛸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "shudesu00"
+              }
+            ]
+          }
+        },
+        "id": "1596719791661715458",
+        "name": "CoFfffEeeeE",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1596720023166685185/UoIN_u73_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 385,
+          "following_count": 794,
+          "like_count": 10815,
+          "listed_count": 1,
+          "tweet_count": 3058
+        },
+        "username": "CoFfffEeeeE1",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-23T19:51:33.000Z",
+        "description": "取关请双取谢谢|17岁|INFJ-5w6-tritype593-sp/so|无性别&无性恋，双性浪漫，代词随意|精神分裂患者脑子有病|阿斯伯格倾向|抑郁状态|大概率回fo|屏蔽必回敬|点赞不代表本人观点|欢迎理性讨论别来犯贱|第二人格@theDarkCypress|EN: @Cypress_Albert",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 132,
+                "start": 117,
+                "username": "theDarkCypress"
+              },
+              {
+                "end": 152,
+                "start": 137,
+                "username": "Cypress_Albert"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Cypress_Albert",
+                "end": 23,
+                "expanded_url": "https://t.me/Cypress_Albert",
+                "start": 0,
+                "url": "https://t.co/JSs8D5a7Jw"
+              }
+            ]
+          }
+        },
+        "id": "1694437145035816960",
+        "location": "我才知道星期八的真名叫作schizophrenia",
+        "name": "住在星期八的柏树🏳‍⚧️🏳️‍🌈（屏蔽必回）",
+        "pinned_tweet_id": "1801938866359955880",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1767246062312386560/lPNw_-Qt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1327,
+          "following_count": 1148,
+          "like_count": 15236,
+          "listed_count": 3,
+          "tweet_count": 4360
+        },
+        "url": "https://t.co/JSs8D5a7Jw",
+        "username": "theLostCypress",
+        "verified": false
+      }
+    ]
+  }
+}

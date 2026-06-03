@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596719791661715458",
+    "conversation_id": "1949509806022349219",
+    "created_at": "2025-07-28T06:12:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-28T07:12:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1949714531812626622"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1616306294851514368",
+          "start": 0,
+          "username": "UccelliACN"
+        },
+        {
+          "end": 24,
+          "id": "822715997081583618",
+          "start": 12,
+          "username": "yinchao_qaq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949714531812626622",
+    "in_reply_to_user_id": "1616306294851514368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949581476879823116",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@UccelliACN @yinchao_qaq 允许国家杀人，希望天降什麽力量去剥夺生命的人还不残忍吗。还老幻想来几个杀人犯把废死者家人杀了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596719791661715458",
+        "conversation_id": "1949509806022349219",
+        "created_at": "2025-07-28T06:12:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-28T07:12:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949714531812626622"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1616306294851514368",
+              "start": 0,
+              "username": "UccelliACN"
+            },
+            {
+              "end": 24,
+              "id": "822715997081583618",
+              "start": 12,
+              "username": "yinchao_qaq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949714531812626622",
+        "in_reply_to_user_id": "1616306294851514368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949581476879823116",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@UccelliACN @yinchao_qaq 允许国家杀人，希望天降什麽力量去剥夺生命的人还不残忍吗。还老幻想来几个杀人犯把废死者家人杀了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1616306294851514368",
+        "conversation_id": "1949509806022349219",
+        "created_at": "2025-07-27T21:23:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-27T22:23:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949581476879823116"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "822715997081583618",
+              "start": 0,
+              "username": "yinchao_qaq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949581476879823116",
+        "in_reply_to_user_id": "822715997081583618",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3259,
+          "like_count": 33,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949509806022349219",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yinchao_qaq 支持恢复枪决和酷刑的人可能多少有些想当然认定自己一定一辈子都是“遵纪守法的正常人”，渴望秩序和权力替自己惩罚“异端”。他们不一定都残忍，相反可能不少都是心地善良“见不得恶事”的人，才会渴望用极端手段去惩戒那些在他们看来丧心病狂的存在。但是对法和权力被滥用缺乏认知或想象。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-27T04:17:31.000Z",
+        "description": "⚧️青蛙/咖啡/代词是She或单数They \n🏳️‍⚧️MtX/Pan/酷儿/雌激素服用中\n💍天下第一喜欢@shudesu00\n👽商科/数学/编程\n💤Overdose\n🧠边缘型人格障碍\n🍥04年生/17年hrt\n⚠️血图/裸图\n🗞️汉语/English/français\n✋顺直男退散",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "shudesu00"
+              }
+            ]
+          }
+        },
+        "id": "1596719791661715458",
+        "name": "CoFfffEeeeE",
+        "pinned_tweet_id": "1906345611391373747",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863941997414977537/NOGgaInd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 454,
+          "following_count": 748,
+          "like_count": 17554,
+          "listed_count": 0,
+          "media_count": 935,
+          "tweet_count": 5145
+        },
+        "username": "CoFfffEeeeE1",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-20T05:27:13.000Z",
+        "description": "真紅大好き💕中文🇨🇳/日本語🇯🇵/EN🇬🇧。INFJ。中国人です、Twitterで日本人の皆様ともっと仲良くしてほしいです。まだ日本語勉強中なのですが、不自然なところがあったらすみません。どうぞよろしくお願いいたします！",
+        "id": "1616306294851514368",
+        "location": "China",
+        "name": "藤原アスカ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759319328405807104/mq0j2ygb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 1224,
+          "like_count": 4428,
+          "listed_count": 1,
+          "media_count": 14,
+          "tweet_count": 1560
+        },
+        "username": "UccelliACN",
+        "verified": false
+      },
+      {
+        "created_at": "2017-01-21T08:02:33.000Z",
+        "description": "🚪68r 两杯奶茶～（私号128r）｜杭州/不要键政/she/her/残忍变性女巫｜🦋@yinchao-qaq.com｜一个人也要好好地活着｜⚠️不是男娘伪娘CD⚠️讨厌露阴癖⚠️谁跟你是同好了？",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 43,
+                "username": "yinchao"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/ychqaq",
+                "end": 23,
+                "expanded_url": "https://t.me/ychqaq",
+                "start": 0,
+                "url": "https://t.co/PJk4FY9AJx"
+              }
+            ]
+          }
+        },
+        "id": "822715997081583618",
+        "name": "隐潮🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1776790104377602048/jQ2yJmrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5082,
+          "following_count": 1135,
+          "like_count": 9669,
+          "listed_count": 10,
+          "media_count": 1027,
+          "tweet_count": 7065
+        },
+        "url": "https://t.co/PJk4FY9AJx",
+        "username": "yinchao_qaq",
+        "verified": false
+      }
+    ]
+  }
+}

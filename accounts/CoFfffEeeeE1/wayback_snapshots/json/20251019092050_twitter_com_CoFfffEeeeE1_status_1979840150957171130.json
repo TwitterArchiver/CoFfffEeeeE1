@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596719791661715458",
+    "conversation_id": "1967220240833810717",
+    "created_at": "2025-10-19T09:20:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-19T10:20:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979840150957171130"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1487311693021544451",
+          "start": 0,
+          "username": "Miekoudesu"
+        },
+        {
+          "end": 22,
+          "id": "1339446920511569920",
+          "start": 12,
+          "username": "shudesu00"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979840150957171130",
+    "in_reply_to_user_id": "1487311693021544451",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969355369815429548",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Miekoudesu @shudesu00 它上不了推，它梯子没续费，没流量了上不来"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1864,
+        "media_key": "3_1969355360109805568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1SORBPbQAAsGfB.jpg",
+        "width": 1319
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596719791661715458",
+        "conversation_id": "1967220240833810717",
+        "created_at": "2025-10-19T09:20:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-19T10:20:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979840150957171130"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1487311693021544451",
+              "start": 0,
+              "username": "Miekoudesu"
+            },
+            {
+              "end": 22,
+              "id": "1339446920511569920",
+              "start": 12,
+              "username": "shudesu00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979840150957171130",
+        "in_reply_to_user_id": "1487311693021544451",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969355369815429548",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Miekoudesu @shudesu00 它上不了推，它梯子没续费，没流量了上不来"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1969355360109805568"
+          ]
+        },
+        "author_id": "1487311693021544451",
+        "conversation_id": "1967220240833810717",
+        "created_at": "2025-09-20T10:58:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-20T11:58:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969355369815429548"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1339446920511569920",
+              "start": 0,
+              "username": "shudesu00"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DUufNeI4rx",
+              "end": 65,
+              "expanded_url": "https://x.com/Miekoudesu/status/1969355369815429548/photo/1",
+              "media_key": "3_1969355360109805568",
+              "start": 42,
+              "url": "https://t.co/DUufNeI4rx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969355369815429548",
+        "in_reply_to_user_id": "1339446920511569920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 390,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967220240833810717",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shudesu00 小树住院了 封闭病房 在之前或者现在需要找小树买烟的请看这里 https://t.co/DUufNeI4rx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-27T04:17:31.000Z",
+        "description": "⚧️青蛙/咖啡/代词是She或单数They \n🏳️‍⚧️MtX/Pan/酷儿/雌激素服用中\n💍天下第一喜欢@shudesu00\n👽商科/数学/编程\n💤Overdose\n🧠边缘型人格障碍\n🍥04年生/17年hrt\n⚠️血图/裸图\n🗞️汉语/English/français\n✋顺直男退散",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "shudesu00"
+              }
+            ]
+          }
+        },
+        "id": "1596719791661715458",
+        "name": "CoFfffEeeeE",
+        "pinned_tweet_id": "1906345611391373747",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863941997414977537/NOGgaInd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 464,
+          "following_count": 743,
+          "like_count": 17878,
+          "listed_count": 1,
+          "media_count": 938,
+          "tweet_count": 5300
+        },
+        "username": "CoFfffEeeeE1",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-29T06:28:45.000Z",
+        "description": "163/80/infp/泛性恋/sub/@qwq_shark 想对我说的话在https://t.co/S3HRT8XKH2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 20,
+                "username": "qwq_shark"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/im_not_fine1",
+                "end": 61,
+                "expanded_url": "https://ngl.link/im_not_fine1",
+                "start": 38,
+                "url": "https://t.co/S3HRT8XKH2"
+              }
+            ]
+          }
+        },
+        "id": "1487311693021544451",
+        "location": "🚪288/520",
+        "name": "めいこ",
+        "pinned_tweet_id": "1969462843172143126",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859720200263991296/s0X0R96c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 673,
+          "following_count": 341,
+          "like_count": 3163,
+          "listed_count": 2,
+          "media_count": 242,
+          "tweet_count": 3519
+        },
+        "username": "Miekoudesu",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-17T05:46:58.000Z",
+        "description": "ftx_hrt中_They/it_习惯性点赞_过量_aspd_愛🩵＠CoFfffEeeeE1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 33,
+                "username": "CoFfffEeeeE1"
+              }
+            ]
+          }
+        },
+        "id": "1339446920511569920",
+        "name": "小树",
+        "pinned_tweet_id": "1792758274967953516",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932288019887001600/qzDa0LNU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4218,
+          "following_count": 2204,
+          "like_count": 118459,
+          "listed_count": 7,
+          "media_count": 1652,
+          "tweet_count": 17569
+        },
+        "username": "shudesu00",
+        "verified": false
+      }
+    ]
+  }
+}

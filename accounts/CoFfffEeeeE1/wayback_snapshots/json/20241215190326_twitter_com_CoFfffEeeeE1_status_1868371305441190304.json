@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596719791661715458",
+    "conversation_id": "1868358522532213090",
+    "created_at": "2024-12-15T19:03:26.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-15T20:03:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1868371305441190304"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1069968408",
+          "start": 0,
+          "username": "acidvaccine"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1868371305441190304",
+    "in_reply_to_user_id": "1069968408",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1868358522532213090",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@acidvaccine 天才"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596719791661715458",
+        "conversation_id": "1868358522532213090",
+        "created_at": "2024-12-15T19:03:26.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-15T20:03:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1868371305441190304"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1069968408",
+              "start": 0,
+              "username": "acidvaccine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1868371305441190304",
+        "in_reply_to_user_id": "1069968408",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1868358522532213090",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@acidvaccine 天才"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1868358298048835584",
+            "16_1868358344895021056",
+            "16_1868358384690601984",
+            "16_1868358453724643328"
+          ]
+        },
+        "author_id": "1069968408",
+        "conversation_id": "1868358522532213090",
+        "created_at": "2024-12-15T18:12:38.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-15T19:12:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1868358522532213090"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HxELHxZLWu",
+              "end": 26,
+              "expanded_url": "https://x.com/acidvaccine/status/1868358522532213090/photo/1",
+              "media_key": "16_1868358298048835584",
+              "start": 3,
+              "url": "https://t.co/HxELHxZLWu"
+            },
+            {
+              "display_url": "pic.x.com/HxELHxZLWu",
+              "end": 26,
+              "expanded_url": "https://x.com/acidvaccine/status/1868358522532213090/photo/1",
+              "media_key": "16_1868358344895021056",
+              "start": 3,
+              "url": "https://t.co/HxELHxZLWu"
+            },
+            {
+              "display_url": "pic.x.com/HxELHxZLWu",
+              "end": 26,
+              "expanded_url": "https://x.com/acidvaccine/status/1868358522532213090/photo/1",
+              "media_key": "16_1868358384690601984",
+              "start": 3,
+              "url": "https://t.co/HxELHxZLWu"
+            },
+            {
+              "display_url": "pic.x.com/HxELHxZLWu",
+              "end": 26,
+              "expanded_url": "https://x.com/acidvaccine/status/1868358522532213090/photo/1",
+              "media_key": "16_1868358453724643328",
+              "start": 3,
+              "url": "https://t.co/HxELHxZLWu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1868358522532213090",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 124,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "自燃 https://t.co/HxELHxZLWu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-27T04:17:31.000Z",
+        "description": "⚧️青蛙/咖啡/代词是She或单数They \n🏳️‍⚧️MtX/Pan/酷儿/雌激素服用中\n💍天下第一喜欢@shudesu00\n👽商科/数学/编程\n💤Overdose\n🧠边缘型人格障碍\n🍥04年生/17年hrt/19年断药/20年二周目\n⚠️血图/裸图\n🛸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "shudesu00"
+              }
+            ]
+          }
+        },
+        "id": "1596719791661715458",
+        "name": "CoFfffEeeeE",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863941997414977537/NOGgaInd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 468,
+          "following_count": 783,
+          "like_count": 15964,
+          "listed_count": 0,
+          "media_count": 803,
+          "tweet_count": 4670
+        },
+        "username": "CoFfffEeeeE1",
+        "verified": false
+      },
+      {
+        "created_at": "2013-01-08T04:37:06.000Z",
+        "description": "𖡗  @SickG33024",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 3,
+                "username": "SickG33024"
+              }
+            ]
+          }
+        },
+        "id": "1069968408",
+        "location": "Blue Earth",
+        "name": "𖦹 𖦹 𖦹",
+        "pinned_tweet_id": "1777873016585670665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1727520579006394368/Kz2UouYL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9415,
+          "following_count": 368,
+          "like_count": 816,
+          "listed_count": 25,
+          "media_count": 687,
+          "tweet_count": 1438
+        },
+        "username": "acidvaccine",
+        "verified": false
+      }
+    ]
+  }
+}

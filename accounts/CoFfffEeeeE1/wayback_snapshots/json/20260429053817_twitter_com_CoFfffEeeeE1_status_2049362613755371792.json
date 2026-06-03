@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596719791661715458",
+    "conversation_id": "2049296771155968323",
+    "created_at": "2026-04-29T05:38:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T06:38:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049362613755371792"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2010357366466990080",
+          "start": 0,
+          "username": "Kyanu_tut"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049362613755371792",
+    "in_reply_to_user_id": "2010357366466990080",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049296771155968323",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kyanu_tut 我不行了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596719791661715458",
+        "conversation_id": "2049296771155968323",
+        "created_at": "2026-04-29T05:38:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T06:38:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049362613755371792"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2010357366466990080",
+              "start": 0,
+              "username": "Kyanu_tut"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049362613755371792",
+        "in_reply_to_user_id": "2010357366466990080",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049296771155968323",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kyanu_tut 我不行了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2010357366466990080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2049296771155968323",
+        "created_at": "2026-04-29T01:16:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T02:16:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049296771155968323"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2049296771155968323",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 669,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "排泄物里有大量细菌和寄生虫，吃了会严重拉肚子、生病，非常不卫生也伤害身体，绝对不能吃哦，咱们要好好吃饭～不能乱讲这种不健康的啦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-27T04:17:31.000Z",
+        "description": "⚧️青蛙/咖啡/代词是She或单数They \n🏳️‍⚧️MtX/Pan/酷儿/雌激素服用中\n💍\n👽商科/数学/编程\n💤\n🧠边缘型人格障碍\n🍥04年生/17年hrt\n⚠️血图/裸图\n🗞️汉语/English/français\n✋顺直男退散",
+        "id": "1596719791661715458",
+        "name": "CoFfffEeeeE",
+        "pinned_tweet_id": "1906345611391373747",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026209866541604864/gGLpjUl4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 474,
+          "following_count": 727,
+          "like_count": 20308,
+          "listed_count": 1,
+          "media_count": 977,
+          "tweet_count": 5774
+        },
+        "username": "CoFfffEeeeE1",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "这个精神病 表面上看起来 软软萌萌的 还用些萌不拉叽叽的头像 实际上是个暴力份子 谁敢相信？",
+        "id": "2010357366466990080",
+        "name": "精神病",
+        "pinned_tweet_id": "2044984983928881623",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045722962678931456/2z1GHw2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1084,
+          "following_count": 368,
+          "like_count": 638,
+          "listed_count": 1,
+          "media_count": 272,
+          "tweet_count": 1732
+        },
+        "username": "Kyanu_tut",
+        "verified": false
+      }
+    ]
+  }
+}

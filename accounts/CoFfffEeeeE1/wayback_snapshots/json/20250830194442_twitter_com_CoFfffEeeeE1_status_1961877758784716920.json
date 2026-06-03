@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596719791661715458",
+    "conversation_id": "1961711051021447197",
+    "created_at": "2025-08-30T19:44:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-30T20:44:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1961877758784716920"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1444139109513973760",
+          "start": 0,
+          "username": "DinGzzz258"
+        },
+        {
+          "end": 28,
+          "id": "1238831198513831938",
+          "start": 12,
+          "username": "CAPy9iUiGOJqqFG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1961877758784716920",
+    "in_reply_to_user_id": "1444139109513973760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1961856668427559237",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DinGzzz258 @CAPy9iUiGOJqqFG 官方个鸡毛，官方也性压抑😆"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596719791661715458",
+        "conversation_id": "1961711051021447197",
+        "created_at": "2025-08-30T19:44:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-30T20:44:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961877758784716920"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1444139109513973760",
+              "start": 0,
+              "username": "DinGzzz258"
+            },
+            {
+              "end": 28,
+              "id": "1238831198513831938",
+              "start": 12,
+              "username": "CAPy9iUiGOJqqFG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961877758784716920",
+        "in_reply_to_user_id": "1444139109513973760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961856668427559237",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DinGzzz258 @CAPy9iUiGOJqqFG 官方个鸡毛，官方也性压抑😆"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1444139109513973760",
+        "conversation_id": "1961711051021447197",
+        "created_at": "2025-08-30T18:20:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-30T19:20:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961856668427559237"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1238831198513831938",
+              "start": 0,
+              "username": "CAPy9iUiGOJqqFG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961856668427559237",
+        "in_reply_to_user_id": "1238831198513831938",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 224,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961711051021447197",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CAPy9iUiGOJqqFG 这数据来源是哪儿的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-27T04:17:31.000Z",
+        "description": "⚧️青蛙/咖啡/代词是She或单数They \n🏳️‍⚧️MtX/Pan/酷儿/雌激素服用中\n💍天下第一喜欢@shudesu00\n👽商科/数学/编程\n💤Overdose\n🧠边缘型人格障碍\n🍥04年生/17年hrt\n⚠️血图/裸图\n🗞️汉语/English/français\n✋顺直男退散",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "shudesu00"
+              }
+            ]
+          }
+        },
+        "id": "1596719791661715458",
+        "name": "CoFfffEeeeE",
+        "pinned_tweet_id": "1906345611391373747",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863941997414977537/NOGgaInd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 459,
+          "following_count": 749,
+          "like_count": 17581,
+          "listed_count": 0,
+          "media_count": 937,
+          "tweet_count": 5219
+        },
+        "username": "CoFfffEeeeE1",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-02T03:17:15.000Z",
+        "description": "桃李春风一杯酒 江湖夜雨十年灯",
+        "id": "1444139109513973760",
+        "location": "理塘",
+        "name": "重庆十六中",
+        "pinned_tweet_id": "1452819518401646592",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1582780507217006592/OmanW8v3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12758,
+          "following_count": 1323,
+          "like_count": 24171,
+          "listed_count": 75,
+          "media_count": 6432,
+          "tweet_count": 16297
+        },
+        "username": "DinGzzz258",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-14T14:17:29.000Z",
+        "description": "",
+        "id": "1238831198513831938",
+        "name": "黄浦记忆",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1238845248471617536/JaffI3RC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59873,
+          "following_count": 863,
+          "like_count": 22704,
+          "listed_count": 216,
+          "media_count": 13928,
+          "tweet_count": 17170
+        },
+        "username": "CAPy9iUiGOJqqFG",
+        "verified": false
+      }
+    ]
+  }
+}

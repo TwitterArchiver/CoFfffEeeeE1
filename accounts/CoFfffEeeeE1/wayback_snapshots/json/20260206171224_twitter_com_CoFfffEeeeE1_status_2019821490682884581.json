@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2019821484152373249"
+      ]
+    },
+    "author_id": "1596719791661715458",
+    "conversation_id": "2019821490682884581",
+    "created_at": "2026-02-06T17:12:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-06T18:12:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2019821490682884581"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 4,
+          "start": 0,
+          "tag": "新头像"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/AISqtjOEj7",
+          "end": 28,
+          "expanded_url": "https://x.com/CoFfffEeeeE1/status/2019821490682884581/photo/1",
+          "media_key": "3_2019821484152373249",
+          "start": 5,
+          "url": "https://t.co/AISqtjOEj7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019821490682884581",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "#新头像 https://t.co/AISqtjOEj7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1180,
+        "media_key": "3_2019821484152373249",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAfY8DiawAEwCJU.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2019821484152373249"
+          ]
+        },
+        "author_id": "1596719791661715458",
+        "conversation_id": "2019821490682884581",
+        "created_at": "2026-02-06T17:12:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T18:12:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019821490682884581"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 4,
+              "start": 0,
+              "tag": "新头像"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AISqtjOEj7",
+              "end": 28,
+              "expanded_url": "https://x.com/CoFfffEeeeE1/status/2019821490682884581/photo/1",
+              "media_key": "3_2019821484152373249",
+              "start": 5,
+              "url": "https://t.co/AISqtjOEj7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019821490682884581",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#新头像 https://t.co/AISqtjOEj7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-27T04:17:31.000Z",
+        "description": "⚧️青蛙/咖啡/代词是She或单数They \n🏳️‍⚧️MtX/Pan/酷儿/雌激素服用中\n💍天下第一喜欢 @shudesu00\n👽商科/数学/编程\n💤Overdose\n🧠边缘型人格障碍\n🍥04年生/17年hrt\n⚠️血图/裸图\n🗞️汉语/English/français\n✋顺直男退散",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 54,
+                "username": "shudesu00"
+              }
+            ]
+          }
+        },
+        "id": "1596719791661715458",
+        "name": "CoFfffEeeeE",
+        "pinned_tweet_id": "1906345611391373747",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019821460827910144/GxCgBfQ7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 460,
+          "following_count": 723,
+          "like_count": 18305,
+          "listed_count": 1,
+          "media_count": 944,
+          "tweet_count": 5342
+        },
+        "username": "CoFfffEeeeE1",
+        "verified": false
+      }
+    ]
+  }
+}

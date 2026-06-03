@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596719791661715458",
+    "conversation_id": "2027258965659398362",
+    "created_at": "2026-02-27T11:59:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T12:59:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027352900775874561"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1487311693021544451",
+          "start": 0,
+          "username": "Miekoudesu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027352900775874561",
+    "in_reply_to_user_id": "1487311693021544451",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027258965659398362",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Miekoudesu 开始画就完了，创造力受伤了也可以先模仿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596719791661715458",
+        "conversation_id": "2027258965659398362",
+        "created_at": "2026-02-27T11:59:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T12:59:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027352900775874561"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1487311693021544451",
+              "start": 0,
+              "username": "Miekoudesu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027352900775874561",
+        "in_reply_to_user_id": "1487311693021544451",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027258965659398362",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Miekoudesu 开始画就完了，创造力受伤了也可以先模仿"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1487311693021544451",
+        "conversation_id": "2027258965659398362",
+        "created_at": "2026-02-27T05:46:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T06:46:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027258965659398362"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2027258965659398362",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 64,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "画画到底要怎么学我有好多想画的东西但是我画不出来"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-27T04:17:31.000Z",
+        "description": "⚧️青蛙/咖啡/代词是She或单数They \n🏳️‍⚧️MtX/Pan/酷儿/雌激素服用中\n💍天下第一喜欢 @shudesu00\n👽商科/数学/编程\n💤Overdose\n🧠边缘型人格障碍\n🍥04年生/17年hrt\n⚠️血图/裸图\n🗞️汉语/English/français\n✋顺直男退散",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 54,
+                "username": "shudesu00"
+              }
+            ]
+          }
+        },
+        "id": "1596719791661715458",
+        "name": "CoFfffEeeeE",
+        "pinned_tweet_id": "1906345611391373747",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026209866541604864/gGLpjUl4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 471,
+          "following_count": 727,
+          "like_count": 18804,
+          "listed_count": 1,
+          "media_count": 957,
+          "tweet_count": 5476
+        },
+        "username": "CoFfffEeeeE1",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-29T06:28:45.000Z",
+        "description": "163/infp/泛性恋/sub/@qwq_shark @shudesu00想对我说的话在https://t.co/MB9vcDBAyD",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 17,
+                "username": "qwq_shark"
+              },
+              {
+                "end": 38,
+                "start": 28,
+                "username": "shudesu00"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/meikodesu71207",
+                "end": 68,
+                "expanded_url": "https://ngl.link/meikodesu71207",
+                "start": 45,
+                "url": "https://t.co/MB9vcDBAyD"
+              }
+            ]
+          }
+        },
+        "id": "1487311693021544451",
+        "location": "🚪288/520",
+        "name": "めいこ",
+        "pinned_tweet_id": "2026217183358095743",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859720200263991296/s0X0R96c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 744,
+          "following_count": 373,
+          "like_count": 3692,
+          "listed_count": 0,
+          "media_count": 304,
+          "tweet_count": 3983
+        },
+        "username": "Miekoudesu",
+        "verified": false
+      }
+    ]
+  }
+}

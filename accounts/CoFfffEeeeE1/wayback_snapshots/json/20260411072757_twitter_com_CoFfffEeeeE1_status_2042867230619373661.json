@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596719791661715458",
+    "conversation_id": "2042661124223496357",
+    "created_at": "2026-04-11T07:27:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T08:27:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042867230619373661"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "796795156330610689",
+          "start": 0,
+          "username": "H6RR6RSH6W"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042867230619373661",
+    "in_reply_to_user_id": "796795156330610689",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042661124223496357",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@H6RR6RSH6W 别让奶子看这些"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 20656,
+        "height": 1080,
+        "media_key": "7_1738937646406115328",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1738937646406115328/pu/img/mQ81I-yj-w7SiS1_.jpg",
+        "public_metrics": {
+          "view_count": 92603
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1738937646406115328/pu/vid/avc1/480x270/I-zM_BdeUhXmD6su.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1738937646406115328/pu/vid/avc1/640x360/97AbVjIBILrNuaeW.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1738937646406115328/pu/vid/avc1/1280x720/XKNTIP1Dhzpug5Wq.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1738937646406115328/pu/pl/68VAnrQJ82yvQNhN.m3u8?tag=12"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596719791661715458",
+        "conversation_id": "2042661124223496357",
+        "created_at": "2026-04-11T07:27:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T08:27:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042867230619373661"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "796795156330610689",
+              "start": 0,
+              "username": "H6RR6RSH6W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042867230619373661",
+        "in_reply_to_user_id": "796795156330610689",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042661124223496357",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@H6RR6RSH6W 别让奶子看这些"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1738937646406115328"
+          ],
+          "media_source_tweet_id": [
+            "1738937939285971256"
+          ]
+        },
+        "author_id": "796795156330610689",
+        "conversation_id": "2042661124223496357",
+        "created_at": "2026-04-10T17:48:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T18:48:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042661124223496357"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RSWYRZu0mG",
+              "end": 23,
+              "expanded_url": "https://x.com/CutieElfie/status/1738937939285971256/video/1",
+              "media_key": "7_1738937646406115328",
+              "start": 0,
+              "url": "https://t.co/RSWYRZu0mG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042661124223496357",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 410,
+          "impression_count": 14599,
+          "like_count": 744,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/RSWYRZu0mG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-27T04:17:31.000Z",
+        "description": "⚧️青蛙/咖啡/代词是She或单数They \n🏳️‍⚧️MtX/Pan/酷儿/雌激素服用中\n💍天下第一喜欢 @shudesu00\n👽商科/数学/编程\n💤Overdose\n🧠边缘型人格障碍\n🍥04年生/17年hrt\n⚠️血图/裸图\n🗞️汉语/English/français\n✋顺直男退散",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 54,
+                "username": "shudesu00"
+              }
+            ]
+          }
+        },
+        "id": "1596719791661715458",
+        "name": "CoFfffEeeeE",
+        "pinned_tweet_id": "1906345611391373747",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026209866541604864/gGLpjUl4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 465,
+          "following_count": 721,
+          "like_count": 19897,
+          "listed_count": 1,
+          "media_count": 972,
+          "tweet_count": 5669
+        },
+        "username": "CoFfffEeeeE1",
+        "verified": false
+      },
+      {
+        "created_at": "2016-11-10T19:22:23.000Z",
+        "description": "Is it better for a man to have chosen evil than to have good imposed upon him?",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "a.co/d/0e8fVLdL",
+                "end": 23,
+                "expanded_url": "https://a.co/d/0e8fVLdL",
+                "start": 0,
+                "url": "https://t.co/9DSnMaa0X7"
+              }
+            ]
+          }
+        },
+        "id": "796795156330610689",
+        "location": "  ",
+        "name": "𝕳𝟔𝖗𝖗𝟔𝖗𝖘𝖍𝟔𝖜",
+        "pinned_tweet_id": "2042661124223496357",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1485333205439987714/DlVt2vJm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112060,
+          "following_count": 6509,
+          "like_count": 45434,
+          "listed_count": 721,
+          "media_count": 68871,
+          "tweet_count": 81580
+        },
+        "url": "https://t.co/9DSnMaa0X7",
+        "username": "H6RR6RSH6W",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596719791661715458",
+    "conversation_id": "1898650606224712147",
+    "created_at": "2025-03-09T14:34:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-09T15:34:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1898744096371691789"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "797439291752378368",
+          "start": 0,
+          "username": "lover_ning"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1898744096371691789",
+    "in_reply_to_user_id": "797439291752378368",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1898650606224712147",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lover_ning 呱"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5876,
+        "height": 536,
+        "media_key": "13_1898650593255944193",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1898650593255944193/img/_IWYHKL3hPuUFQN7.jpg",
+        "public_metrics": {
+          "view_count": 6998
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1898650593255944193/vid/avc1/444x270/3Y2ACbH2-kvfIpkD.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1898650593255944193/vid/avc1/592x360/WmvN8AUrcp1wzA_N.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1898650593255944193/vid/avc1/884x536/HLRQ1tRhJncQKfbR.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1898650593255944193/pl/A42spviKkXtF594i.m3u8?tag=14"
+          }
+        ],
+        "width": 884
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596719791661715458",
+        "conversation_id": "1898650606224712147",
+        "created_at": "2025-03-09T14:34:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-09T15:34:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1898744096371691789"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "797439291752378368",
+              "start": 0,
+              "username": "lover_ning"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898744096371691789",
+        "in_reply_to_user_id": "797439291752378368",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1898650606224712147",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lover_ning 呱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1898650593255944193"
+          ]
+        },
+        "author_id": "797439291752378368",
+        "conversation_id": "1898650606224712147",
+        "created_at": "2025-03-09T08:22:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-09T09:22:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1898650606224712147"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/59Uw98vsFc",
+              "end": 23,
+              "expanded_url": "https://x.com/lover_ning/status/1898650606224712147/video/1",
+              "media_key": "13_1898650593255944193",
+              "start": 0,
+              "url": "https://t.co/59Uw98vsFc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898650606224712147",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 17396,
+          "like_count": 148,
+          "quote_count": 4,
+          "reply_count": 26,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/59Uw98vsFc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-27T04:17:31.000Z",
+        "description": "⚧️青蛙/咖啡/代词是She或单数They \n🏳️‍⚧️MtX/Pan/酷儿/雌激素服用中\n💍天下第一喜欢@shudesu00\n👽商科/数学/编程\n💤Overdose\n🧠边缘型人格障碍\n🍥04年生/17年hrt/19年断药/20年二周目\n⚠️血图/裸图\n🗞️汉语/English/français\n🛸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "shudesu00"
+              }
+            ]
+          }
+        },
+        "id": "1596719791661715458",
+        "name": "CoFfffEeeeE",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863941997414977537/NOGgaInd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 461,
+          "following_count": 774,
+          "like_count": 16643,
+          "listed_count": 0,
+          "media_count": 883,
+          "tweet_count": 4880
+        },
+        "username": "CoFfffEeeeE1",
+        "verified": false
+      },
+      {
+        "created_at": "2016-11-12T14:01:57.000Z",
+        "description": "本号偏猎奇向，谨慎关注 / 日常号@SUZUdesu111",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 17,
+                "username": "SUZUdesu111"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "onion03.vip/?channelid=145…",
+                "end": 23,
+                "expanded_url": "https://onion03.vip?channelid=14532&tid=562324&type=7&system=1",
+                "start": 0,
+                "url": "https://t.co/V6J2FWCXht"
+              }
+            ]
+          }
+        },
+        "id": "797439291752378368",
+        "location": "免费VPN👉🏼",
+        "name": "SUZU",
+        "pinned_tweet_id": "1634790114093154304",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1746648879364501505/tSGXif8I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 186485,
+          "following_count": 108,
+          "like_count": 34681,
+          "listed_count": 365,
+          "media_count": 2824,
+          "tweet_count": 27695
+        },
+        "url": "https://t.co/V6J2FWCXht",
+        "username": "lover_ning",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596719791661715458",
+    "conversation_id": "1903970902095888441",
+    "created_at": "2025-03-24T00:43:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-24T01:43:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1903970902095888441"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/shudesu00/stat…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/shudesu00/status/1903964253679460539",
+          "start": 4,
+          "url": "https://t.co/UFSlFwNYBm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1903970902095888441",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1903964253679460539",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我干的 https://t.co/UFSlFwNYBm"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596719791661715458",
+        "conversation_id": "1903970902095888441",
+        "created_at": "2025-03-24T00:43:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-24T01:43:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1903970902095888441"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/shudesu00/stat…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/shudesu00/status/1903964253679460539",
+              "start": 4,
+              "url": "https://t.co/UFSlFwNYBm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903970902095888441",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1903964253679460539",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我干的 https://t.co/UFSlFwNYBm"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1339446920511569920",
+        "conversation_id": "1903964253679460539",
+        "created_at": "2025-03-24T00:17:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-24T01:17:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1903964253679460539"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1903964253679460539",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 41,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的爱要爆出来了，呃，她种在我心里，长出了修长巨大的怪兽，我们一起抚养，我们一起变坏，当坏孩子，只保护我们自己就好"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-27T04:17:31.000Z",
+        "description": "⚧️青蛙/咖啡/代词是She或单数They \n🏳️‍⚧️MtX/Pan/酷儿/雌激素服用中\n💍天下第一喜欢@shudesu00\n👽商科/数学/编程\n💤Overdose\n🧠边缘型人格障碍\n🍥04年生/17年hrt\n⚠️血图/裸图\n🗞️汉语/English/français\n✋顺直男退散\n🛰️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "shudesu00"
+              }
+            ]
+          }
+        },
+        "id": "1596719791661715458",
+        "name": "CoFfffEeeeE",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863941997414977537/NOGgaInd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 459,
+          "following_count": 775,
+          "like_count": 16742,
+          "listed_count": 0,
+          "media_count": 898,
+          "tweet_count": 4911
+        },
+        "username": "CoFfffEeeeE1",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-17T05:46:58.000Z",
+        "description": "🐱💊🐸🌲Ftx_aspd_intp_习惯性点赞💍❤️我的主人：@CoFfffEeeeE1 ✚各类一次性齐全75-100+元。悦刻五六代正品or其他杆子♦110-200r♦纸外烟代，全国无禁区，散拼：1包起发/邮费15、10盒起包邮。诚信第一♦最近不接占卜，牌不在身边",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 31,
+                "username": "CoFfffEeeeE1"
+              }
+            ]
+          }
+        },
+        "id": "1339446920511569920",
+        "name": "小树（电/外烟代）",
+        "pinned_tweet_id": "1792758274967953516",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894901825498644480/Ix9mLFco_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3945,
+          "following_count": 2137,
+          "like_count": 121218,
+          "listed_count": 7,
+          "media_count": 1530,
+          "tweet_count": 16089
+        },
+        "username": "shudesu00",
+        "verified": false
+      }
+    ]
+  }
+}

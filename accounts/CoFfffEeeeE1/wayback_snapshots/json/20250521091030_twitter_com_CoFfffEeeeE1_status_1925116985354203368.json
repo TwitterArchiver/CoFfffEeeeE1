@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596719791661715458",
+    "conversation_id": "1924638708231503948",
+    "created_at": "2025-05-21T09:10:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-21T10:10:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1925116985354203368"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1239436070292320257",
+          "start": 0,
+          "username": "0427SMtieshou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1925116985354203368",
+    "in_reply_to_user_id": "1239436070292320257",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1924638708231503948",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0427SMtieshou 是不是没学过排列组合"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 900,
+        "media_key": "3_1922814945525194752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gq82AWTXYAAXlPm.jpg",
+        "width": 822
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596719791661715458",
+        "conversation_id": "1924638708231503948",
+        "created_at": "2025-05-21T09:10:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-21T10:10:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1925116985354203368"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1239436070292320257",
+              "start": 0,
+              "username": "0427SMtieshou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925116985354203368",
+        "in_reply_to_user_id": "1239436070292320257",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1924638708231503948",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0427SMtieshou 是不是没学过排列组合"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1922814945525194752"
+          ]
+        },
+        "author_id": "1239436070292320257",
+        "conversation_id": "1924638708231503948",
+        "created_at": "2025-05-20T01:30:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-20T02:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1924638708231503948"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6cEOVSw1Si",
+              "end": 32,
+              "expanded_url": "https://x.com/0427SMtieshou/status/1924638708231503948/photo/1",
+              "media_key": "3_1922814945525194752",
+              "start": 9,
+              "url": "https://t.co/6cEOVSw1Si"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924638708231503948",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 981,
+          "impression_count": 1061756,
+          "like_count": 2936,
+          "quote_count": 33,
+          "reply_count": 125,
+          "retweet_count": 382
+        },
+        "reply_settings": "everyone",
+        "text": "卧槽！！！！！！ https://t.co/6cEOVSw1Si"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-27T04:17:31.000Z",
+        "description": "⚧️青蛙/咖啡/代词是She或单数They \n🏳️‍⚧️MtX/Pan/酷儿/雌激素服用中\n💍天下第一喜欢@shudesu00\n👽商科/数学/编程\n💤Overdose\n🧠边缘型人格障碍\n🍥04年生/17年hrt\n⚠️血图/裸图\n🗞️汉语/English/français\n✋顺直男退散",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "shudesu00"
+              }
+            ]
+          }
+        },
+        "id": "1596719791661715458",
+        "name": "CoFfffEeeeE",
+        "pinned_tweet_id": "1906345611391373747",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863941997414977537/NOGgaInd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 465,
+          "following_count": 764,
+          "like_count": 17128,
+          "listed_count": 0,
+          "media_count": 923,
+          "tweet_count": 4995
+        },
+        "username": "CoFfffEeeeE1",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-16T06:19:34.000Z",
+        "description": "日精进，得开悟。",
+        "id": "1239436070292320257",
+        "name": "铁手",
+        "pinned_tweet_id": "1715194439558418777",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789838049024839680/vHqASedi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61944,
+          "following_count": 941,
+          "like_count": 15355,
+          "listed_count": 358,
+          "media_count": 613,
+          "tweet_count": 4007
+        },
+        "username": "0427SMtieshou",
+        "verified": false
+      }
+    ]
+  }
+}

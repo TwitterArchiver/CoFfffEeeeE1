@@ -1,0 +1,356 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1596719791661715458",
+    "conversation_id": "1816181924437844298",
+    "created_at": "2024-07-25T09:35:15.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-25T10:35:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1816406851715534985"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1693349510246780928",
+          "start": 0,
+          "username": "YouwoLin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1816406851715534985",
+    "in_reply_to_user_id": "1693349510246780928",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1816181924437844298",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YouwoLin 不买近年国内新安卓系统能用的一大把（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1596719791661715458",
+        "conversation_id": "1816181924437844298",
+        "created_at": "2024-07-25T09:35:15.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-25T10:35:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1816406851715534985"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1693349510246780928",
+              "start": 0,
+              "username": "YouwoLin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1816406851715534985",
+        "in_reply_to_user_id": "1693349510246780928",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1816181924437844298",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YouwoLin 不买近年国内新安卓系统能用的一大把（"
+      },
+      {
+        "attachments": {},
+        "author_id": "1693349510246780928",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029382357",
+              "name": "YouTube"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029382357",
+              "name": "YouTube"
+            }
+          }
+        ],
+        "conversation_id": "1816181924437844298",
+        "created_at": "2024-07-24T18:41:28.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-24T19:41:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1816181924437844298"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1816181924437844298",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 147,
+          "impression_count": 9473,
+          "like_count": 95,
+          "quote_count": 0,
+          "reply_count": 33,
+          "retweet_count": 28
+        },
+        "reply_settings": "everyone",
+        "text": "求助首页姊妹：我妹今年9月将开始在国内上大学，需要上YouTube学德语和英语，以及使用google、ChatGPT等网站学习，去年姊妹们推荐过的VPN我刚刚试了下几乎都不再能用，所以蹲个姊妹们目前在国内还能使用的VPN软件分享，最好手机和电脑端都能用，提前谢谢姊妹们了！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-27T04:17:31.000Z",
+        "description": "⚧️青蛙/咖啡/代词是She或单数They \n🏳️‍⚧️MtF/Pan/酷儿/雌激素服用中\n🥰天下第一喜欢@shudesu00\n👽商科/数学/编程\n💤Overdose\n😨边缘型人格障碍\n🍥04年生/17年hrt/19年断药/20年二周目\n⚠️血图/裸图\n🛸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "shudesu00"
+              }
+            ]
+          }
+        },
+        "id": "1596719791661715458",
+        "name": "CoFfffEeeeE",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1814031845924745216/CGZcvd50_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 423,
+          "following_count": 786,
+          "like_count": 11878,
+          "listed_count": 0,
+          "tweet_count": 3303
+        },
+        "username": "CoFfffEeeeE1",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-20T19:49:26.000Z",
+        "description": "Feminist｜中文｜English｜Deutsch｜法语A1学习中 | 在德重读计算机本科｜播客《知晓由我》主播",
+        "id": "1693349510246780928",
+        "name": "林由我",
+        "pinned_tweet_id": "1695553978254115049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1693956116869246976/ouK0APK8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7122,
+          "following_count": 64,
+          "like_count": 570,
+          "listed_count": 31,
+          "tweet_count": 1155
+        },
+        "username": "YouwoLin",
+        "verified": false
+      }
+    ]
+  }
+}

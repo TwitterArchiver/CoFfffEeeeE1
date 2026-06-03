@@ -1,0 +1,116 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1793241519240998912",
+        "3_1793241519232593920"
+      ]
+    },
+    "author_id": "1596719791661715458",
+    "conversation_id": "1793241557283328315",
+    "created_at": "2024-05-22T11:24:38.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-22T12:24:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1793241557283328315"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/komiNn9zQu",
+          "end": 39,
+          "expanded_url": "https://twitter.com/CoFfffEeeeE1/status/1793241557283328315/photo/1",
+          "media_key": "3_1793241519240998912",
+          "start": 16,
+          "url": "https://t.co/komiNn9zQu"
+        },
+        {
+          "display_url": "pic.twitter.com/komiNn9zQu",
+          "end": 39,
+          "expanded_url": "https://twitter.com/CoFfffEeeeE1/status/1793241557283328315/photo/1",
+          "media_key": "3_1793241519232593920",
+          "start": 16,
+          "url": "https://t.co/komiNn9zQu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1793241557283328315",
+    "lang": "zh",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "树树给我割的🥺💕💕💕💕🤤🤤🤤🤤 https://t.co/komiNn9zQu"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1793241557283328315].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1793241557283328315",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1793241557283328315"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1793241519240998912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GOLfqSbXcAA837h.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1793241519232593920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GOLfqSZXMAA1IbY.jpg",
+        "width": 2048
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-27T04:17:31.000Z",
+        "description": "⚧️青蛙/咖啡/代词是She或单数They \n🏳️‍⚧️MtF/Pan/酷儿/雌激素服用中\n🥰天下第一喜欢@shudesu00\n👽商科/数学/编程\n💤Overdose\n😨边缘型人格障碍\n🍥04年生/17年hrt/19年断药/20年二周目\n⚠️血图/裸图\n🛸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "shudesu00"
+              }
+            ]
+          }
+        },
+        "id": "1596719791661715458",
+        "name": "CoFfffEeeeE",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1596720023166685185/UoIN_u73_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 366,
+          "following_count": 801,
+          "like_count": 9803,
+          "listed_count": 1,
+          "tweet_count": 2904
+        },
+        "username": "CoFfffEeeeE1",
+        "verified": false
+      }
+    ]
+  }
+}

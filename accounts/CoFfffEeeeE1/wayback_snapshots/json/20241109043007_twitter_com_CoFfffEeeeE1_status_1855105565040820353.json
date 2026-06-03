@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596719791661715458",
+    "conversation_id": "1855104883084435529",
+    "created_at": "2024-11-09T04:30:07.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-09T05:30:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1855105565040820353"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1854415411451949056",
+          "start": 0,
+          "username": "SexyAngelRIP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1855105565040820353",
+    "in_reply_to_user_id": "1854415411451949056",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1855104883084435529",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SexyAngelRIP 好o"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596719791661715458",
+        "conversation_id": "1855104883084435529",
+        "created_at": "2024-11-09T04:30:07.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-09T05:30:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1855105565040820353"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1854415411451949056",
+              "start": 0,
+              "username": "SexyAngelRIP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1855105565040820353",
+        "in_reply_to_user_id": "1854415411451949056",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1855104883084435529",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SexyAngelRIP 好o"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1855104872288600064"
+          ]
+        },
+        "author_id": "1854415411451949056",
+        "conversation_id": "1855104883084435529",
+        "created_at": "2024-11-09T04:27:24.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-09T05:27:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1855104883084435529"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 15,
+              "start": 12,
+              "tag": "鸭o"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FpjuxN5Sbe",
+              "end": 39,
+              "expanded_url": "https://x.com/SexyAngelRIP/status/1855104883084435529/photo/1",
+              "media_key": "3_1855104872288600064",
+              "start": 16,
+              "url": "https://t.co/FpjuxN5Sbe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1855104883084435529",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "来点 去泡泳池～舒服捏\n#鸭o https://t.co/FpjuxN5Sbe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-27T04:17:31.000Z",
+        "description": "⚧️青蛙/咖啡/代词是She或单数They \n🏳️‍⚧️MtX/Pan/酷儿/雌激素服用中\n🥰天下第一喜欢@shudesu00\n👽商科/数学/编程\n💤Overdose\n😨边缘型人格障碍\n🍥04年生/17年hrt/19年断药/20年二周目\n⚠️血图/裸图\n🛸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "shudesu00"
+              }
+            ]
+          }
+        },
+        "id": "1596719791661715458",
+        "name": "CoFfffEeeeE",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1833443600757362688/WLmVr9SG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 460,
+          "following_count": 786,
+          "like_count": 14802,
+          "listed_count": 0,
+          "tweet_count": 4328
+        },
+        "username": "CoFfffEeeeE1",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-07T06:47:53.000Z",
+        "description": "XtX🏳️‍⚧️enby｜学生 艺术家 手针纹身师 DJ｜此号关于性 药 血和爱｜🚪52/100/200/520（口令）",
+        "id": "1854415411451949056",
+        "name": "安德莉鸭鸭🏳️‍⚧️（重生版）",
+        "pinned_tweet_id": "1854469484469481609",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854415595095339008/0kpC-tXi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 76,
+          "like_count": 177,
+          "listed_count": 0,
+          "tweet_count": 67
+        },
+        "username": "SexyAngelRIP",
+        "verified": false
+      }
+    ]
+  }
+}

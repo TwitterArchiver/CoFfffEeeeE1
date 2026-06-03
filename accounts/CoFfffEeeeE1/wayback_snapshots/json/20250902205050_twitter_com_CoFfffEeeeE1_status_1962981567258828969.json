@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596719791661715458",
+    "conversation_id": "1962725828086898870",
+    "created_at": "2025-09-02T20:50:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-02T21:50:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962981567258828969"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1417022559397113859",
+          "start": 0,
+          "username": "TsurumiKagura"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962981567258828969",
+    "in_reply_to_user_id": "1417022559397113859",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1962725828086898870",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TsurumiKagura 你说的日本是哪个日本"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596719791661715458",
+        "conversation_id": "1962725828086898870",
+        "created_at": "2025-09-02T20:50:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-02T21:50:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962981567258828969"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1417022559397113859",
+              "start": 0,
+              "username": "TsurumiKagura"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962981567258828969",
+        "in_reply_to_user_id": "1417022559397113859",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962725828086898870",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TsurumiKagura 你说的日本是哪个日本"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1417022559397113859",
+        "conversation_id": "1962725828086898870",
+        "created_at": "2025-09-02T03:54:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-02T04:54:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962725828086898870"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1962725828086898870",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 21,
+          "impression_count": 21633,
+          "like_count": 290,
+          "quote_count": 2,
+          "reply_count": 30,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "这么多日本人到底是受了什么教育才会觉得这个世界上的国家只分为“亲日国家”和“反日国家”两种\n这和拉着几个动物朋友说我们是正义联盟的某些人是一回事"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-27T04:17:31.000Z",
+        "description": "⚧️青蛙/咖啡/代词是She或单数They \n🏳️‍⚧️MtX/Pan/酷儿/雌激素服用中\n💍天下第一喜欢@shudesu00\n👽商科/数学/编程\n💤Overdose\n🧠边缘型人格障碍\n🍥04年生/17年hrt\n⚠️血图/裸图\n🗞️汉语/English/français\n✋顺直男退散",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "shudesu00"
+              }
+            ]
+          }
+        },
+        "id": "1596719791661715458",
+        "name": "CoFfffEeeeE",
+        "pinned_tweet_id": "1906345611391373747",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863941997414977537/NOGgaInd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 459,
+          "following_count": 749,
+          "like_count": 17638,
+          "listed_count": 1,
+          "media_count": 937,
+          "tweet_count": 5239
+        },
+        "username": "CoFfffEeeeE1",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-19T07:24:49.000Z",
+        "description": "Σ（・□・；）広東から上京した田舎民/一限飛び界隈 ⚽️(INT/マリノス) +Anime+スバリスト //Deutsch Lerner 不定期分享无聊观点 @boc_official_ @inter @bang_dream_gbp @subaru_sti_ms",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 79,
+                "username": "boc_official_"
+              },
+              {
+                "end": 100,
+                "start": 94,
+                "username": "inter"
+              },
+              {
+                "end": 116,
+                "start": 101,
+                "username": "bang_dream_gbp"
+              },
+              {
+                "end": 131,
+                "start": 117,
+                "username": "subaru_sti_ms"
+              }
+            ]
+          }
+        },
+        "id": "1417022559397113859",
+        "location": "北宇治高校吹奏楽部",
+        "name": "Vertinナカ！",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1605531702473789440/KyYRmtHN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1140,
+          "following_count": 1330,
+          "like_count": 42665,
+          "listed_count": 13,
+          "media_count": 620,
+          "tweet_count": 12892
+        },
+        "username": "TsurumiKagura",
+        "verified": false
+      }
+    ]
+  }
+}

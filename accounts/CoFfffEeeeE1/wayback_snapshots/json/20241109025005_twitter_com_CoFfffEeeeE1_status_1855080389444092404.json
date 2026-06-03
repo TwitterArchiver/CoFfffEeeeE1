@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596719791661715458",
+    "conversation_id": "1854754303560630566",
+    "created_at": "2024-11-09T02:50:05.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-09T03:50:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1855080389444092404"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1527308255927492609",
+          "start": 0,
+          "username": "love1027w"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1855080389444092404",
+    "in_reply_to_user_id": "1527308255927492609",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1854754303560630566",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@love1027w 游离世外"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596719791661715458",
+        "conversation_id": "1854754303560630566",
+        "created_at": "2024-11-09T02:50:05.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-09T03:50:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1855080389444092404"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1527308255927492609",
+              "start": 0,
+              "username": "love1027w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1855080389444092404",
+        "in_reply_to_user_id": "1527308255927492609",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1854754303560630566",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@love1027w 游离世外"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1527308255927492609",
+        "conversation_id": "1854754303560630566",
+        "created_at": "2024-11-08T05:14:20.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-08T06:14:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1854754303560630566"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1854754303560630566",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2673,
+          "like_count": 52,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感觉我现在的状态比以前好太多了（？\n治疗方式就是尽量不刷社交媒体，不看新闻，也不看文艺作品，只看萌宠美食视频。少尝试少努力多放弃，不看朋友圈，不了解任何同学近况，不出门或者出门后不看别人不和别人交流。尽量用更短效、无幻觉、损害认知较少的方式代替od（比如抽烟喝酒暴饮暴食自慰（？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-27T04:17:31.000Z",
+        "description": "⚧️青蛙/咖啡/代词是She或单数They \n🏳️‍⚧️MtX/Pan/酷儿/雌激素服用中\n🥰天下第一喜欢@shudesu00\n👽商科/数学/编程\n💤Overdose\n😨边缘型人格障碍\n🍥04年生/17年hrt/19年断药/20年二周目\n⚠️血图/裸图\n🛸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "shudesu00"
+              }
+            ]
+          }
+        },
+        "id": "1596719791661715458",
+        "name": "CoFfffEeeeE",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1833443600757362688/WLmVr9SG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 458,
+          "following_count": 784,
+          "like_count": 14778,
+          "listed_count": 0,
+          "tweet_count": 4311
+        },
+        "username": "CoFfffEeeeE1",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-19T15:20:47.000Z",
+        "description": "⚠️‼️无敏感血图/OD/负能量，注意避雷，善用屏蔽，谨慎关注，被误b可联系@Yuzumi0211 👉原味购买频道https://t.co/RoBp3fyJyl",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 38,
+                "username": "Yuzumi0211"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/Yuzumi_1027w",
+                "end": 80,
+                "expanded_url": "https://t.me/Yuzumi_1027w",
+                "start": 57,
+                "url": "https://t.co/RoBp3fyJyl"
+              }
+            ]
+          }
+        },
+        "id": "1527308255927492609",
+        "location": "白云山制药厂",
+        "name": "兮柚用西柚在吸右",
+        "pinned_tweet_id": "1832125547960471576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1765012568337432576/CKVTZuPC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11705,
+          "following_count": 476,
+          "like_count": 40445,
+          "listed_count": 14,
+          "tweet_count": 22478
+        },
+        "username": "love1027w",
+        "verified": false
+      }
+    ]
+  }
+}

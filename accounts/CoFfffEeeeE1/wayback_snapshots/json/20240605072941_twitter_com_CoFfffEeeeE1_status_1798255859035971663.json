@@ -1,0 +1,174 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1596719791661715458",
+    "conversation_id": "1798213610151485688",
+    "created_at": "2024-06-05T07:29:41.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-05T08:29:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1798255859035971663"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1597296649386139648",
+          "start": 0,
+          "username": "jsunjzjziji1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1798255859035971663",
+    "in_reply_to_user_id": "1597296649386139648",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1798213610151485688",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jsunjzjziji1 你现在就能养个号买点粉有男的会信的，，，"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1596719791661715458",
+        "conversation_id": "1798213610151485688",
+        "created_at": "2024-06-05T07:29:41.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-05T08:29:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1798255859035971663"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1597296649386139648",
+              "start": 0,
+              "username": "jsunjzjziji1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1798255859035971663",
+        "in_reply_to_user_id": "1597296649386139648",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1798213610151485688",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jsunjzjziji1 你现在就能养个号买点粉有男的会信的，，，"
+      },
+      {
+        "attachments": {},
+        "author_id": "1597296649386139648",
+        "conversation_id": "1798213610151485688",
+        "created_at": "2024-06-05T04:41:48.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-05T05:41:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1798213610151485688"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1798213610151485688",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 43,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "是不是我要是考出来了也能在推特上立反差律师人设卖批平时再打打官司然后就出国读书了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-27T04:17:31.000Z",
+        "description": "⚧️青蛙/咖啡/代词是She或单数They \n🏳️‍⚧️MtF/Pan/酷儿/雌激素服用中\n🥰天下第一喜欢@shudesu00\n👽商科/数学/编程\n💤Overdose\n😨边缘型人格障碍\n🍥04年生/17年hrt/19年断药/20年二周目\n⚠️血图/裸图\n🛸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "shudesu00"
+              }
+            ]
+          }
+        },
+        "id": "1596719791661715458",
+        "name": "CoFfffEeeeE",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1596720023166685185/UoIN_u73_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 380,
+          "following_count": 800,
+          "like_count": 10475,
+          "listed_count": 1,
+          "tweet_count": 3004
+        },
+        "username": "CoFfffEeeeE1",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-28T18:29:42.000Z",
+        "description": "",
+        "id": "1597296649386139648",
+        "location": "世界的虚无。",
+        "name": "计算机自己在家",
+        "pinned_tweet_id": "1779365091135393871",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1597296810359341057/UY7vHxdh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 142,
+          "following_count": 121,
+          "like_count": 4154,
+          "listed_count": 0,
+          "tweet_count": 3948
+        },
+        "username": "jsunjzjziji1",
+        "verified": false
+      }
+    ]
+  }
+}

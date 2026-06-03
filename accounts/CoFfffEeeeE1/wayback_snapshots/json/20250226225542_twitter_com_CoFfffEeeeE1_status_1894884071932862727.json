@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596719791661715458",
+    "conversation_id": "1894884071932862727",
+    "created_at": "2025-02-26T22:55:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-26T23:55:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1894884071932862727"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/shudesu00/stat…",
+          "end": 44,
+          "expanded_url": "https://twitter.com/shudesu00/status/1894830956441411809",
+          "start": 21,
+          "url": "https://t.co/ezmvTYiAbM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1894884071932862727",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1894830956441411809",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "老公对不起，我知错了，下次你能早点叫醒我 https://t.co/ezmvTYiAbM"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596719791661715458",
+        "conversation_id": "1894884071932862727",
+        "created_at": "2025-02-26T22:55:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-26T23:55:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1894884071932862727"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/shudesu00/stat…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/shudesu00/status/1894830956441411809",
+              "start": 21,
+              "url": "https://t.co/ezmvTYiAbM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1894884071932862727",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1894830956441411809",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "老公对不起，我知错了，下次你能早点叫醒我 https://t.co/ezmvTYiAbM"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1339446920511569920",
+        "conversation_id": "1894830956441411809",
+        "created_at": "2025-02-26T19:24:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-26T20:24:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1894830956441411809"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1894830956441411809",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 125,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "老婆睡着了 懵逼啊懵逼 我干啥 不知道 无助无助"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-27T04:17:31.000Z",
+        "description": "⚧️青蛙/咖啡/代词是She或单数They \n🏳️‍⚧️MtX/Pan/酷儿/雌激素服用中\n💍天下第一喜欢@shudesu00\n👽商科/数学/编程\n💤Overdose\n🧠边缘型人格障碍\n🍥04年生/17年hrt/19年断药/20年二周目\n⚠️血图/裸图\n🗞️汉语/English/français\n🛸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "shudesu00"
+              }
+            ]
+          }
+        },
+        "id": "1596719791661715458",
+        "name": "CoFfffEeeeE",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863941997414977537/NOGgaInd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 463,
+          "following_count": 780,
+          "like_count": 16622,
+          "listed_count": 0,
+          "media_count": 865,
+          "tweet_count": 4856
+        },
+        "username": "CoFfffEeeeE1",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-17T05:46:58.000Z",
+        "description": "🐱💊🐸🌲Ftx_aspd_intp_习惯性点赞💍❤️我的主人：@CoFfffEeeeE1 ✚各类一次性齐全75-100+元。悦刻五六代正品or其他杆子♦110-200r♦纸外烟代，全国无禁区，散拼：1包起发/邮费15、10盒起包邮。诚信第一♦最近不接占卜，牌不在身边",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 31,
+                "username": "CoFfffEeeeE1"
+              }
+            ]
+          }
+        },
+        "id": "1339446920511569920",
+        "name": "小树（电/外烟代）",
+        "pinned_tweet_id": "1792758274967953516",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1871856751559188480/8U1aKXTC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3804,
+          "following_count": 2172,
+          "like_count": 121665,
+          "listed_count": 7,
+          "media_count": 1515,
+          "tweet_count": 15969
+        },
+        "username": "shudesu00",
+        "verified": false
+      }
+    ]
+  }
+}

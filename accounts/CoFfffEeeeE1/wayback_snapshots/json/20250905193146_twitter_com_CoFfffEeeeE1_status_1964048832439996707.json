@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596719791661715458",
+    "conversation_id": "1964032239622377552",
+    "created_at": "2025-09-05T19:31:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-05T20:31:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1964048832439996707"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1540315386931204098",
+          "start": 0,
+          "username": "kyouka_charming"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1964048832439996707",
+    "in_reply_to_user_id": "1540315386931204098",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1964032239622377552",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kyouka_charming 不把人当成人，什么道理？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596719791661715458",
+        "conversation_id": "1964032239622377552",
+        "created_at": "2025-09-05T19:31:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-05T20:31:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964048832439996707"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1540315386931204098",
+              "start": 0,
+              "username": "kyouka_charming"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964048832439996707",
+        "in_reply_to_user_id": "1540315386931204098",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1964032239622377552",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kyouka_charming 不把人当成人，什么道理？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1540315386931204098",
+        "conversation_id": "1964032239622377552",
+        "created_at": "2025-09-05T18:25:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-05T19:25:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1964032239622377552"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/04177_realname…",
+              "end": 159,
+              "expanded_url": "https://twitter.com/04177_realname/status/1963989660872417370",
+              "start": 136,
+              "url": "https://t.co/e7AlABPdjg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964032239622377552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 52,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963989660872417370",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有的婊子做援交是霸凌别人，有的婊子援交是被人霸凌\n\n有的人除了婊子什么都做不了，有的婊子卖春是去社交\n\n有的人会同意所有人的邀请，然后被甩一沓钱。有的人则会拒绝所有人都邀请，除非给这个婊子一沓钱\n\n别把婊子都当成一个样子的人\n\n但别把婊子当成人，婊子自己都不把自己当成人 https://t.co/e7AlABPdjg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-27T04:17:31.000Z",
+        "description": "⚧️青蛙/咖啡/代词是She或单数They \n🏳️‍⚧️MtX/Pan/酷儿/雌激素服用中\n💍天下第一喜欢@shudesu00\n👽商科/数学/编程\n💤Overdose\n🧠边缘型人格障碍\n🍥04年生/17年hrt\n⚠️血图/裸图\n🗞️汉语/English/français\n✋顺直男退散",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "shudesu00"
+              }
+            ]
+          }
+        },
+        "id": "1596719791661715458",
+        "name": "CoFfffEeeeE",
+        "pinned_tweet_id": "1906345611391373747",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863941997414977537/NOGgaInd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 462,
+          "following_count": 748,
+          "like_count": 17696,
+          "listed_count": 1,
+          "media_count": 937,
+          "tweet_count": 5256
+        },
+        "username": "CoFfffEeeeE1",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-24T12:46:39.000Z",
+        "description": "物知らずの悪役令嬢です、日本語/華语OK。元日本高校生",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/kyuuka129?igsh…",
+                "end": 23,
+                "expanded_url": "https://instagram.com/kyuuka129?igshid=OGQ5ZDc2ODk2ZA==",
+                "start": 0,
+                "url": "https://t.co/RiMq5GSEJ2"
+              }
+            ]
+          }
+        },
+        "id": "1540315386931204098",
+        "location": "繭の部屋",
+        "name": "西園寺🪞京香🌸🤍❄️",
+        "pinned_tweet_id": "1897988161843945674",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948586229387460608/KHqR5ekq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 640,
+          "following_count": 1071,
+          "like_count": 9249,
+          "listed_count": 0,
+          "media_count": 760,
+          "tweet_count": 7176
+        },
+        "url": "https://t.co/RiMq5GSEJ2",
+        "username": "kyouka_charming",
+        "verified": false
+      }
+    ]
+  }
+}

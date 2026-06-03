@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596719791661715458",
+    "conversation_id": "1906556816596844929",
+    "created_at": "2025-09-04T14:15:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-04T15:15:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1963606831357727003"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1726552185033441280",
+          "start": 0,
+          "username": "AntonAmber13110"
+        },
+        {
+          "end": 33,
+          "id": "1634026666518519808",
+          "start": 17,
+          "username": "Ansel_Flipradio"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1963606831357727003",
+    "in_reply_to_user_id": "1726552185033441280",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1906658042684555512",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AntonAmber13110 @Ansel_Flipradio 人权在前，民俗可以改变，你不能给整个民族给否定了，认为你汉你共先进无敌"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596719791661715458",
+        "conversation_id": "1906556816596844929",
+        "created_at": "2025-09-04T14:15:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-04T15:15:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963606831357727003"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1726552185033441280",
+              "start": 0,
+              "username": "AntonAmber13110"
+            },
+            {
+              "end": 33,
+              "id": "1634026666518519808",
+              "start": 17,
+              "username": "Ansel_Flipradio"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963606831357727003",
+        "in_reply_to_user_id": "1726552185033441280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1906658042684555512",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AntonAmber13110 @Ansel_Flipradio 人权在前，民俗可以改变，你不能给整个民族给否定了，认为你汉你共先进无敌"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726552185033441280",
+        "conversation_id": "1906556816596844929",
+        "created_at": "2025-03-31T10:41:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-31T11:41:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1906658042684555512"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1634026666518519808",
+              "start": 0,
+              "username": "Ansel_Flipradio"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906658042684555512",
+        "in_reply_to_user_id": "1634026666518519808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1224,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1906556816596844929",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ansel_Flipradio 李老师你这有一个悖论啊。我告诉你之前南疆的维吾尔人家暴非常严重 ，把女人当牲畜养，可是后来共产党来了之后，强制提升女性地位还出现了维族大爷给维族大妈洗脚的活动。\n那我问你是要保护女性的权利呢还是要保留少数民族的民俗呢？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-27T04:17:31.000Z",
+        "description": "⚧️青蛙/咖啡/代词是She或单数They \n🏳️‍⚧️MtX/Pan/酷儿/雌激素服用中\n💍天下第一喜欢@shudesu00\n👽商科/数学/编程\n💤Overdose\n🧠边缘型人格障碍\n🍥04年生/17年hrt\n⚠️血图/裸图\n🗞️汉语/English/français\n✋顺直男退散",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "shudesu00"
+              }
+            ]
+          }
+        },
+        "id": "1596719791661715458",
+        "name": "CoFfffEeeeE",
+        "pinned_tweet_id": "1906345611391373747",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863941997414977537/NOGgaInd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 462,
+          "following_count": 748,
+          "like_count": 17690,
+          "listed_count": 1,
+          "media_count": 937,
+          "tweet_count": 5252
+        },
+        "username": "CoFfffEeeeE1",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-20T10:45:06.000Z",
+        "description": "",
+        "id": "1726552185033441280",
+        "name": "Amber Anton",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 223,
+          "following_count": 285,
+          "like_count": 11638,
+          "listed_count": 5,
+          "media_count": 12,
+          "tweet_count": 5531
+        },
+        "username": "AntonAmber13110",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-10T03:01:42.000Z",
+        "description": "打算在Twitter尽量述而不做，更多提供事实（twitter上可能最缺乏的东西）\nCHINA OSINT\n欢迎关注Youtube视频频道：https://t.co/qX3eju8LqY\n查看所有服務：https://t.co/eoNiTaFr5N",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tinyurl.com/muutakes",
+                "end": 93,
+                "expanded_url": "https://tinyurl.com/muutakes",
+                "start": 70,
+                "url": "https://t.co/qX3eju8LqY"
+              },
+              {
+                "display_url": "linktr.ee/fr_fn",
+                "end": 124,
+                "expanded_url": "https://linktr.ee/fr_fn",
+                "start": 101,
+                "url": "https://t.co/eoNiTaFr5N"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fearnation.club",
+                "end": 23,
+                "expanded_url": "http://fearnation.club",
+                "start": 0,
+                "url": "https://t.co/tWyih4F4gJ"
+              }
+            ]
+          }
+        },
+        "id": "1634026666518519808",
+        "name": "Fear_Nation_世界苦茶",
+        "pinned_tweet_id": "1860888559739343022",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1634026807367458817/g30XvyQh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14718,
+          "following_count": 160,
+          "like_count": 75,
+          "listed_count": 43,
+          "media_count": 1336,
+          "tweet_count": 4319
+        },
+        "url": "https://t.co/tWyih4F4gJ",
+        "username": "Ansel_Flipradio",
+        "verified": true
+      }
+    ]
+  }
+}

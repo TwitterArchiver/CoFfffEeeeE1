@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596719791661715458",
+    "conversation_id": "1863604212581773550",
+    "created_at": "2025-07-27T11:35:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-27T12:35:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1949433387024077296"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1588362906483101696",
+          "start": 0,
+          "username": "jkdghalf411"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949433387024077296",
+    "in_reply_to_user_id": "1588362906483101696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1863604212581773550",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jkdghalf411 多少年前的东西了，，"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596719791661715458",
+        "conversation_id": "1863604212581773550",
+        "created_at": "2025-07-27T11:35:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-27T12:35:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949433387024077296"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1588362906483101696",
+              "start": 0,
+              "username": "jkdghalf411"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949433387024077296",
+        "in_reply_to_user_id": "1588362906483101696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1863604212581773550",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jkdghalf411 多少年前的东西了，，"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1588362906483101696",
+        "conversation_id": "1863604212581773550",
+        "created_at": "2024-12-02T15:20:43.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-02T16:20:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1863604212581773550"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1863604212581773550",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3397,
+          "like_count": 52,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "od厕真的疯了……怎么一堆人在研究甘草片哮喘片n2o啊……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-27T04:17:31.000Z",
+        "description": "⚧️青蛙/咖啡/代词是She或单数They \n🏳️‍⚧️MtX/Pan/酷儿/雌激素服用中\n💍天下第一喜欢@shudesu00\n👽商科/数学/编程\n💤Overdose\n🧠边缘型人格障碍\n🍥04年生/17年hrt\n⚠️血图/裸图\n🗞️汉语/English/français\n✋顺直男退散",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "shudesu00"
+              }
+            ]
+          }
+        },
+        "id": "1596719791661715458",
+        "name": "CoFfffEeeeE",
+        "pinned_tweet_id": "1906345611391373747",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863941997414977537/NOGgaInd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 454,
+          "following_count": 749,
+          "like_count": 17538,
+          "listed_count": 0,
+          "media_count": 935,
+          "tweet_count": 5127
+        },
+        "username": "CoFfffEeeeE1",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-04T02:50:08.000Z",
+        "description": "“汝，相信神之爱吗？” ｜是女大｜报菜名：抑郁焦虑睡眠障碍bpd cptsd ed半清除 od 戒zc｜🚪188 随缘接bbh",
+        "id": "1588362906483101696",
+        "location": "电子眼一直在看着你",
+        "name": "電子幽靈Aca-411（低浮上）",
+        "pinned_tweet_id": "1934583576529637866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946396975097622528/kB1Wy4mF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5538,
+          "following_count": 625,
+          "like_count": 10383,
+          "listed_count": 14,
+          "media_count": 2137,
+          "tweet_count": 14284
+        },
+        "username": "jkdghalf411",
+        "verified": false
+      }
+    ]
+  }
+}

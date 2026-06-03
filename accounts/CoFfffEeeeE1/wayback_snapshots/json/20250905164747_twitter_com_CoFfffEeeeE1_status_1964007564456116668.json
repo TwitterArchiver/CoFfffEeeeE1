@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596719791661715458",
+    "conversation_id": "1963859503893319909",
+    "created_at": "2025-09-05T16:47:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-05T17:47:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1964007564456116668"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1884627325398212611",
+          "start": 0,
+          "username": "Revive_Meink"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1964007564456116668",
+    "in_reply_to_user_id": "1884627325398212611",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1963859503893319909",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Revive_Meink 夸你还有意见"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596719791661715458",
+        "conversation_id": "1963859503893319909",
+        "created_at": "2025-09-05T16:47:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-05T17:47:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964007564456116668"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1884627325398212611",
+              "start": 0,
+              "username": "Revive_Meink"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964007564456116668",
+        "in_reply_to_user_id": "1884627325398212611",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963859503893319909",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Revive_Meink 夸你还有意见"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1884627325398212611",
+        "conversation_id": "1963859503893319909",
+        "created_at": "2025-09-05T06:59:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-05T07:59:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1963859503893319909"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1963859503893319909",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 12158,
+          "like_count": 159,
+          "quote_count": 7,
+          "reply_count": 51,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "你们这些女生之间为什么总是要互夸啊？毫无意义的那种互夸。。。一直都无法理解"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-27T04:17:31.000Z",
+        "description": "⚧️青蛙/咖啡/代词是She或单数They \n🏳️‍⚧️MtX/Pan/酷儿/雌激素服用中\n💍天下第一喜欢@shudesu00\n👽商科/数学/编程\n💤Overdose\n🧠边缘型人格障碍\n🍥04年生/17年hrt\n⚠️血图/裸图\n🗞️汉语/English/français\n✋顺直男退散",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "shudesu00"
+              }
+            ]
+          }
+        },
+        "id": "1596719791661715458",
+        "name": "CoFfffEeeeE",
+        "pinned_tweet_id": "1906345611391373747",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863941997414977537/NOGgaInd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 462,
+          "following_count": 748,
+          "like_count": 17696,
+          "listed_count": 1,
+          "media_count": 937,
+          "tweet_count": 5254
+        },
+        "username": "CoFfffEeeeE1",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-29T15:39:13.000Z",
+        "description": "二十二月系统\n\n男的\n\n里推：@knimaisey\n（包括但不限于 崩溃、吐苦水、扭曲病态三观、暴论）\n\n乱涂乱画：@Victimized_P\n（百年一更，画技是坨屎。）\n———\n你好':3 \n我是一个永远八岁的小孩 :D \n梦想是当一辈子长不大的小孩！你的梦想是什么？\n———\n点一下这个？\n｜\nV",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "knimaisey"
+              },
+              {
+                "end": 71,
+                "start": 58,
+                "username": "Victimized_P"
+              }
+            ]
+          }
+        },
+        "id": "1884627325398212611",
+        "location": "SilverLawn",
+        "name": "铭",
+        "pinned_tweet_id": "1959905881497247937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960065486793650177/G2OaOR4l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 765,
+          "following_count": 251,
+          "like_count": 8882,
+          "listed_count": 3,
+          "media_count": 724,
+          "tweet_count": 4276
+        },
+        "username": "Revive_Meink",
+        "verified": false
+      }
+    ]
+  }
+}

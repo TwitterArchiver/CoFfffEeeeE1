@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596719791661715458",
+    "conversation_id": "1868192034231853333",
+    "created_at": "2024-12-16T23:13:57.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-17T00:13:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1868796736199966735"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1756622580394659840",
+          "start": 0,
+          "username": "vincent123789"
+        },
+        {
+          "end": 28,
+          "id": "1782932905419046912",
+          "start": 15,
+          "username": "ratshelprats"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1868796736199966735",
+    "in_reply_to_user_id": "1756622580394659840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1868284110256619999",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@vincent123789 @ratshelprats 这是给收外卖的人看的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596719791661715458",
+        "conversation_id": "1868192034231853333",
+        "created_at": "2024-12-16T23:13:57.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-17T00:13:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1868796736199966735"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1756622580394659840",
+              "start": 0,
+              "username": "vincent123789"
+            },
+            {
+              "end": 28,
+              "id": "1782932905419046912",
+              "start": 15,
+              "username": "ratshelprats"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1868796736199966735",
+        "in_reply_to_user_id": "1756622580394659840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1868284110256619999",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@vincent123789 @ratshelprats 这是给收外卖的人看的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1756622580394659840",
+        "conversation_id": "1868192034231853333",
+        "created_at": "2024-12-15T13:16:57.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-15T14:16:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1868284110256619999"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1782932905419046912",
+              "start": 0,
+              "username": "ratshelprats"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1868284110256619999",
+        "in_reply_to_user_id": "1782932905419046912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30139,
+          "like_count": 28,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1868192034231853333",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ratshelprats 為什麼一定是這個送餐員收到信息呢？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-27T04:17:31.000Z",
+        "description": "⚧️青蛙/咖啡/代词是She或单数They \n🏳️‍⚧️MtX/Pan/酷儿/雌激素服用中\n💍天下第一喜欢@shudesu00\n👽商科/数学/编程\n💤Overdose\n🧠边缘型人格障碍\n🍥04年生/17年hrt/19年断药/20年二周目\n⚠️血图/裸图\n🛸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "shudesu00"
+              }
+            ]
+          }
+        },
+        "id": "1596719791661715458",
+        "name": "CoFfffEeeeE",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863941997414977537/NOGgaInd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 468,
+          "following_count": 784,
+          "like_count": 15983,
+          "listed_count": 0,
+          "media_count": 806,
+          "tweet_count": 4683
+        },
+        "username": "CoFfffEeeeE1",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-11T10:14:12.000Z",
+        "description": "台獨頑固份子🇯🇵🇰🇷🇹🇼🇺🇦🇮🇱🇺🇸🇬🇧屠支大佐",
+        "id": "1756622580394659840",
+        "name": "立花宗茂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1834220662069825536/QWQzirTa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 170,
+          "like_count": 132,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 694
+        },
+        "username": "vincent123789",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-24T00:41:54.000Z",
+        "description": "大鼠王（老鼠国王）",
+        "id": "1782932905419046912",
+        "name": "老鼠帮助老鼠🐭☝️",
+        "pinned_tweet_id": "1862271802019590557",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822487372774494208/h_lDDH_u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42403,
+          "following_count": 403,
+          "like_count": 30680,
+          "listed_count": 62,
+          "media_count": 417,
+          "tweet_count": 864
+        },
+        "username": "ratshelprats",
+        "verified": true
+      }
+    ]
+  }
+}

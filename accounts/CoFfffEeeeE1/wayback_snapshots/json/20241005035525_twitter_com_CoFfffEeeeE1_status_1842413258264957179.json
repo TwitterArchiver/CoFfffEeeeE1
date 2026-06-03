@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596719791661715458",
+    "conversation_id": "1842374407597236697",
+    "created_at": "2024-10-05T03:55:25.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-05T04:55:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1842413258264957179"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1810962908987396096",
+          "start": 0,
+          "username": "SelunaAiko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1842413258264957179",
+    "in_reply_to_user_id": "1810962908987396096",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1842374407597236697",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SelunaAiko 支持"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596719791661715458",
+        "conversation_id": "1842374407597236697",
+        "created_at": "2024-10-05T03:55:25.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-05T04:55:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1842413258264957179"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1810962908987396096",
+              "start": 0,
+              "username": "SelunaAiko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1842413258264957179",
+        "in_reply_to_user_id": "1810962908987396096",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1842374407597236697",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SelunaAiko 支持"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1810962908987396096",
+        "conversation_id": "1842374407597236697",
+        "created_at": "2024-10-05T01:21:03.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-05T02:21:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1842374407597236697"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Poetry_Luna/st…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/Poetry_Luna/status/1841878197782343747",
+              "start": 18,
+              "url": "https://t.co/a0he8pSrR5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1842374407597236697",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 70,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1841878197782343747",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "然后我们发现事情比想象中简单多了（ https://t.co/a0he8pSrR5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-27T04:17:31.000Z",
+        "description": "⚧️青蛙/咖啡/代词是She或单数They \n🏳️‍⚧️MtF/Pan/酷儿/雌激素服用中\n🥰天下第一喜欢@shudesu00\n👽商科/数学/编程\n💤Overdose\n😨边缘型人格障碍\n🍥04年生/17年hrt/19年断药/20年二周目\n⚠️血图/裸图\n🛸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "shudesu00"
+              }
+            ]
+          }
+        },
+        "id": "1596719791661715458",
+        "name": "CoFfffEeeeE",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1833443600757362688/WLmVr9SG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 439,
+          "following_count": 769,
+          "like_count": 13284,
+          "listed_count": 0,
+          "tweet_count": 3737
+        },
+        "username": "CoFfffEeeeE1",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-10T09:03:21.000Z",
+        "description": "HRT🏳️‍⚧️⚧️/Menhera/双相 重郁中焦  bpd ADHD ENFP 749\n\n武德充沛的友安社民看起來很安🚩🏴但真的只是羅盤左下↙️小角落的社民🥺\n🟥🟨🟦⬜⬛\nLee(Teng-hui)lism\n💊🔞🈚",
+        "id": "1810962908987396096",
+        "location": "Silverymoon",
+        "name": "Selûna Aiko",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1810963006744055809/1geyFQzt_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 35,
+          "like_count": 1497,
+          "listed_count": 0,
+          "tweet_count": 235
+        },
+        "username": "SelunaAiko",
+        "verified": false
+      }
+    ]
+  }
+}

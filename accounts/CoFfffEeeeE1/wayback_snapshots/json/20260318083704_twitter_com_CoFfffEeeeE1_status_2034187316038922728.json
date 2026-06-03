@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596719791661715458",
+    "conversation_id": "2034059024602456116",
+    "created_at": "2026-03-18T08:37:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-18T09:37:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034187316038922728"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1339446920511569920",
+          "start": 0,
+          "username": "shudesu00"
+        },
+        {
+          "end": 24,
+          "id": "2009488009180401667",
+          "start": 11,
+          "username": "asabakasaiko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034187316038922728",
+    "in_reply_to_user_id": "1339446920511569920",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034186709467054439",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shudesu00 @asabakasaiko 加上我呗，这个杯子还没接收我的洗礼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596719791661715458",
+        "conversation_id": "2034059024602456116",
+        "created_at": "2026-03-18T08:37:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T09:37:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034187316038922728"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1339446920511569920",
+              "start": 0,
+              "username": "shudesu00"
+            },
+            {
+              "end": 24,
+              "id": "2009488009180401667",
+              "start": 11,
+              "username": "asabakasaiko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034187316038922728",
+        "in_reply_to_user_id": "1339446920511569920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034186709467054439",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shudesu00 @asabakasaiko 加上我呗，这个杯子还没接收我的洗礼"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1339446920511569920",
+        "conversation_id": "2034059024602456116",
+        "created_at": "2026-03-18T08:34:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T09:34:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034186709467054439"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2009488009180401667",
+              "start": 0,
+              "username": "asabakasaiko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034186709467054439",
+        "in_reply_to_user_id": "2009488009180401667",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034150745688445409",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@asabakasaiko 我们三个用一个好吗？三个和尚挑水吃。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-27T04:17:31.000Z",
+        "description": "⚧️青蛙/咖啡/代词是She或单数They \n🏳️‍⚧️MtX/Pan/酷儿/雌激素服用中\n💍天下第一喜欢 @shudesu00\n👽商科/数学/编程\n💤Overdose\n🧠边缘型人格障碍\n🍥04年生/17年hrt\n⚠️血图/裸图\n🗞️汉语/English/français\n✋顺直男退散",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 54,
+                "username": "shudesu00"
+              }
+            ]
+          }
+        },
+        "id": "1596719791661715458",
+        "name": "CoFfffEeeeE",
+        "pinned_tweet_id": "1906345611391373747",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026209866541604864/gGLpjUl4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 466,
+          "following_count": 722,
+          "like_count": 19314,
+          "listed_count": 1,
+          "media_count": 961,
+          "tweet_count": 5565
+        },
+        "username": "CoFfffEeeeE1",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-17T05:46:58.000Z",
+        "description": "ftx__They/He/it_习惯性点赞_强迫症_bp-过量_aspd/ADHD_别来说教易爆炸_👾…🐱愛🩵👭 💕✝️@CoFfffEeeeE1 @Miekoudesu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 73,
+                "start": 60,
+                "username": "CoFfffEeeeE1"
+              },
+              {
+                "end": 85,
+                "start": 74,
+                "username": "Miekoudesu"
+              }
+            ]
+          }
+        },
+        "id": "1339446920511569920",
+        "name": "小树🌲_MaruyamaTachiki",
+        "pinned_tweet_id": "1792758274967953516",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031122814372294656/GXY7w6V2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4641,
+          "following_count": 2281,
+          "like_count": 116220,
+          "listed_count": 9,
+          "media_count": 1868,
+          "tweet_count": 19076
+        },
+        "username": "shudesu00",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-09T04:51:10.000Z",
+        "description": "我是🐟，很无辜很好看也很想死，🚪58，88其实同类真的不用给❤️，什么事都可以来私我🤔，免费的用药指导和和陪玩🥺，主营美白和致幻剂💊和pcp，原味内衣，再也不爱任何人（真的吗？？？",
+        "id": "2009488009180401667",
+        "location": "香港",
+        "name": "三崎笠井子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011710429840752640/TVZQw9bs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 671,
+          "following_count": 393,
+          "like_count": 7174,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 1455
+        },
+        "username": "asabakasaiko",
+        "verified": false
+      }
+    ]
+  }
+}

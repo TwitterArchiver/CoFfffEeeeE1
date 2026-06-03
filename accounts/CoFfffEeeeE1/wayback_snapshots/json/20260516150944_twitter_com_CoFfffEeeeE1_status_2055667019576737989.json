@@ -1,0 +1,388 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596719791661715458",
+    "conversation_id": "2055667019576737989",
+    "created_at": "2026-05-16T15:09:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T16:09:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055667019576737989"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 12,
+          "start": 5,
+          "tag": "femboy"
+        },
+        {
+          "end": 17,
+          "start": 13,
+          "tag": "mtx"
+        },
+        {
+          "end": 21,
+          "start": 18,
+          "tag": "ts"
+        },
+        {
+          "end": 28,
+          "start": 22,
+          "tag": "trans"
+        },
+        {
+          "end": 35,
+          "start": 29,
+          "tag": "tgirl"
+        },
+        {
+          "end": 41,
+          "start": 36,
+          "tag": "nsfw"
+        },
+        {
+          "end": 46,
+          "start": 42,
+          "tag": "非二元"
+        },
+        {
+          "end": 52,
+          "start": 47,
+          "tag": "小男女孩"
+        },
+        {
+          "end": 57,
+          "start": 53,
+          "tag": "木桶饭"
+        },
+        {
+          "end": 61,
+          "start": 58,
+          "tag": "药娘"
+        },
+        {
+          "end": 66,
+          "start": 63,
+          "tag": "酷儿"
+        },
+        {
+          "end": 72,
+          "start": 69,
+          "tag": "裸体"
+        },
+        {
+          "end": 76,
+          "start": 73,
+          "tag": "阴茎"
+        },
+        {
+          "end": 80,
+          "start": 77,
+          "tag": "体毛"
+        },
+        {
+          "end": 84,
+          "start": 81,
+          "tag": "阴毛"
+        },
+        {
+          "end": 89,
+          "start": 85,
+          "tag": "暴露癖"
+        },
+        {
+          "end": 93,
+          "start": 90,
+          "tag": "女大"
+        },
+        {
+          "end": 97,
+          "start": 94,
+          "tag": "宿舍"
+        },
+        {
+          "end": 100,
+          "start": 98,
+          "tag": "腿"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/CoFfffEeeeE1/s…",
+          "end": 124,
+          "expanded_url": "https://twitter.com/CoFfffEeeeE1/status/1851668824048963915",
+          "start": 101,
+          "url": "https://t.co/r5dGDaTCve"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055667019576737989",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1851668824048963915",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "（炒冷饭\n#femboy #mtx #ts #trans #tgirl #nsfw #非二元 #小男女孩 #木桶饭 #药娘  #酷儿   #裸体 #阴茎 #体毛 #阴毛 #暴露癖 #女大 #宿舍 #腿 https://t.co/r5dGDaTCve"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1851668810253869056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GbJy-OzaIAA2rDU.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596719791661715458",
+        "conversation_id": "2055667019576737989",
+        "created_at": "2026-05-16T15:09:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T16:09:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055667019576737989"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 12,
+              "start": 5,
+              "tag": "femboy"
+            },
+            {
+              "end": 17,
+              "start": 13,
+              "tag": "mtx"
+            },
+            {
+              "end": 21,
+              "start": 18,
+              "tag": "ts"
+            },
+            {
+              "end": 28,
+              "start": 22,
+              "tag": "trans"
+            },
+            {
+              "end": 35,
+              "start": 29,
+              "tag": "tgirl"
+            },
+            {
+              "end": 41,
+              "start": 36,
+              "tag": "nsfw"
+            },
+            {
+              "end": 46,
+              "start": 42,
+              "tag": "非二元"
+            },
+            {
+              "end": 52,
+              "start": 47,
+              "tag": "小男女孩"
+            },
+            {
+              "end": 57,
+              "start": 53,
+              "tag": "木桶饭"
+            },
+            {
+              "end": 61,
+              "start": 58,
+              "tag": "药娘"
+            },
+            {
+              "end": 66,
+              "start": 63,
+              "tag": "酷儿"
+            },
+            {
+              "end": 72,
+              "start": 69,
+              "tag": "裸体"
+            },
+            {
+              "end": 76,
+              "start": 73,
+              "tag": "阴茎"
+            },
+            {
+              "end": 80,
+              "start": 77,
+              "tag": "体毛"
+            },
+            {
+              "end": 84,
+              "start": 81,
+              "tag": "阴毛"
+            },
+            {
+              "end": 89,
+              "start": 85,
+              "tag": "暴露癖"
+            },
+            {
+              "end": 93,
+              "start": 90,
+              "tag": "女大"
+            },
+            {
+              "end": 97,
+              "start": 94,
+              "tag": "宿舍"
+            },
+            {
+              "end": 100,
+              "start": 98,
+              "tag": "腿"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/CoFfffEeeeE1/s…",
+              "end": 124,
+              "expanded_url": "https://twitter.com/CoFfffEeeeE1/status/1851668824048963915",
+              "start": 101,
+              "url": "https://t.co/r5dGDaTCve"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055667019576737989",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1851668824048963915",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "（炒冷饭\n#femboy #mtx #ts #trans #tgirl #nsfw #非二元 #小男女孩 #木桶饭 #药娘  #酷儿   #裸体 #阴茎 #体毛 #阴毛 #暴露癖 #女大 #宿舍 #腿 https://t.co/r5dGDaTCve"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1851668810253869056"
+          ]
+        },
+        "author_id": "1596719791661715458",
+        "conversation_id": "1851668824048963915",
+        "created_at": "2024-10-30T16:53:44.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-30T17:53:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1851668824048963915"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8Zi6Zb3r46",
+              "end": 28,
+              "expanded_url": "https://x.com/CoFfffEeeeE1/status/1851668824048963915/photo/1",
+              "media_key": "3_1851668810253869056",
+              "start": 5,
+              "url": "https://t.co/8Zi6Zb3r46"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1851668824048963915",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 196,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "⚠️阴茎 https://t.co/8Zi6Zb3r46"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-27T04:17:31.000Z",
+        "description": "⚧️青蛙/咖啡/代词是She或单数They \n🏳️‍⚧️MtX/Pan/酷儿/雌激素服用中\n💍@shudesu00\n👽商科/数学/编程\n💤Overdose\n🧠边缘型人格障碍\n🍥04年生/17年hrt\n⚠️血图/裸图\n🗞️汉语/English/français\n✋顺直男退散",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 47,
+                "username": "shudesu00"
+              }
+            ]
+          }
+        },
+        "id": "1596719791661715458",
+        "name": "CoFfffEeeeE",
+        "pinned_tweet_id": "1906345611391373747",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026209866541604864/gGLpjUl4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 485,
+          "following_count": 734,
+          "like_count": 20708,
+          "listed_count": 0,
+          "media_count": 985,
+          "tweet_count": 5915
+        },
+        "username": "CoFfffEeeeE1",
+        "verified": false
+      }
+    ]
+  }
+}

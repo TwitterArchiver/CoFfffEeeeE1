@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596719791661715458",
+    "conversation_id": "2036748379632685081",
+    "created_at": "2026-03-25T10:13:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-25T11:13:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036748379632685081"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1993150970705199108",
+          "start": 3,
+          "username": "Nana_naiiiiiii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036748379632685081",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 38
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036709915130282016",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Nana_naiiiiiii: 400fo大感谢www！！\n一等奖*一盒盐野义（可折现80）\n二等奖*一盒红普（可折现20\n二等奖*一盒玉美片（可折现10\n参与条件依旧转关评 \n奈奈爱你们！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596719791661715458",
+        "conversation_id": "2036748379632685081",
+        "created_at": "2026-03-25T10:13:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T11:13:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036748379632685081"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1993150970705199108",
+              "start": 3,
+              "username": "Nana_naiiiiiii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036748379632685081",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 38
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036709915130282016",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Nana_naiiiiiii: 400fo大感谢www！！\n一等奖*一盒盐野义（可折现80）\n二等奖*一盒红普（可折现20\n二等奖*一盒玉美片（可折现10\n参与条件依旧转关评 \n奈奈爱你们！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1993150970705199108",
+        "conversation_id": "2036709915130282016",
+        "created_at": "2026-03-25T07:40:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T08:40:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036709915130282016"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2036709915130282016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1629,
+          "like_count": 44,
+          "quote_count": 1,
+          "reply_count": 40,
+          "retweet_count": 38
+        },
+        "reply_settings": "everyone",
+        "text": "400fo大感谢www！！\n一等奖*一盒盐野义（可折现80）\n二等奖*一盒红普（可折现20\n二等奖*一盒玉美片（可折现10\n参与条件依旧转关评 \n奈奈爱你们！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-27T04:17:31.000Z",
+        "description": "⚧️青蛙/咖啡/代词是She或单数They \n🏳️‍⚧️MtX/Pan/酷儿/雌激素服用中\n💍天下第一喜欢 @shudesu00\n👽商科/数学/编程\n💤Overdose\n🧠边缘型人格障碍\n🍥04年生/17年hrt\n⚠️血图/裸图\n🗞️汉语/English/français\n✋顺直男退散",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 54,
+                "username": "shudesu00"
+              }
+            ]
+          }
+        },
+        "id": "1596719791661715458",
+        "name": "CoFfffEeeeE",
+        "pinned_tweet_id": "1906345611391373747",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026209866541604864/gGLpjUl4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 469,
+          "following_count": 722,
+          "like_count": 19507,
+          "listed_count": 1,
+          "media_count": 961,
+          "tweet_count": 5588
+        },
+        "username": "CoFfffEeeeE1",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-25T02:55:07.000Z",
+        "description": "我只想疯狂自残嗑药吸毒做爱\n老公@youmaobingmiao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 16,
+                "username": "youmaobingmiao"
+              }
+            ]
+          }
+        },
+        "id": "1993150970705199108",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "naiiiiiiiiiiiiiii",
+        "pinned_tweet_id": "1996945640593789149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151610718240768/zNZFleGK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 445,
+          "following_count": 132,
+          "like_count": 13439,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 728
+        },
+        "username": "Nana_naiiiiiii",
+        "verified": false
+      }
+    ]
+  }
+}

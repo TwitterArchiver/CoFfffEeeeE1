@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596719791661715458",
+    "conversation_id": "1884261921177886897",
+    "created_at": "2025-01-28T20:35:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-28T21:35:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1884339413427315015"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1616855396811173888",
+          "start": 0,
+          "username": "HeiseiJyanaku"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1884339413427315015",
+    "in_reply_to_user_id": "1616855396811173888",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1884261921177886897",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HeiseiJyanaku 假意讨好年轻人和大众，年年这样把梗拉上台，政治上目标是希望年轻人看点暗里催生催婚和主旋律的节目"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596719791661715458",
+        "conversation_id": "1884261921177886897",
+        "created_at": "2025-01-28T20:35:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-28T21:35:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1884339413427315015"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1616855396811173888",
+              "start": 0,
+              "username": "HeiseiJyanaku"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884339413427315015",
+        "in_reply_to_user_id": "1616855396811173888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1884261921177886897",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HeiseiJyanaku 假意讨好年轻人和大众，年年这样把梗拉上台，政治上目标是希望年轻人看点暗里催生催婚和主旋律的节目"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1616855396811173888",
+        "conversation_id": "1884261921177886897",
+        "created_at": "2025-01-28T15:27:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-28T16:27:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1884261921177886897"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1884261921177886897",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 144,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "舊拜年祭還能上春晚的？春意紅包都出來了，，，雖然加歌詞但聽上去就完全不開麥。。。\nCMG，你們想貼年輕世代的樣子真的很狼狽。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-27T04:17:31.000Z",
+        "description": "⚧️青蛙/咖啡/代词是She或单数They \n🏳️‍⚧️MtX/Pan/酷儿/雌激素服用中\n💍天下第一喜欢@shudesu00\n👽商科/数学/编程\n💤Overdose\n🧠边缘型人格障碍\n🍥04年生/17年hrt/19年断药/20年二周目\n⚠️血图/裸图\n🗞️汉语/English/français\n🛸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "shudesu00"
+              }
+            ]
+          }
+        },
+        "id": "1596719791661715458",
+        "name": "CoFfffEeeeE",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863941997414977537/NOGgaInd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 464,
+          "following_count": 780,
+          "like_count": 16402,
+          "listed_count": 0,
+          "media_count": 840,
+          "tweet_count": 4810
+        },
+        "username": "CoFfffEeeeE1",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-21T17:49:12.000Z",
+        "description": "悲しみなんか止まらない。ある芸能人/アーティスト。我恐直。*Banner pic was captured from MTV Japan. Icon is Hirate Yurina.",
+        "id": "1616855396811173888",
+        "location": "スカイツリー",
+        "name": "バブルばぶばぶ（老害版）",
+        "pinned_tweet_id": "1878859345099886926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873430780741111808/EeAmSJ71_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 378,
+          "following_count": 265,
+          "like_count": 52921,
+          "listed_count": 3,
+          "media_count": 116,
+          "tweet_count": 1336
+        },
+        "username": "HeiseiJyanaku",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596719791661715458",
+    "conversation_id": "1963183497985561028",
+    "created_at": "2025-09-03T11:23:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-03T12:23:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1963201118676361493"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1960026902418321408",
+          "start": 0,
+          "username": "Drugs_Kitten"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1963201118676361493",
+    "in_reply_to_user_id": "1960026902418321408",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1963183497985561028",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Drugs_Kitten 快退回od指南的时代吧，做个百科还吵上了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596719791661715458",
+        "conversation_id": "1963183497985561028",
+        "created_at": "2025-09-03T11:23:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-03T12:23:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963201118676361493"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1960026902418321408",
+              "start": 0,
+              "username": "Drugs_Kitten"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963201118676361493",
+        "in_reply_to_user_id": "1960026902418321408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963183497985561028",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Drugs_Kitten 快退回od指南的时代吧，做个百科还吵上了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1960026902418321408",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "1963183497985561028",
+        "created_at": "2025-09-03T10:13:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-03T11:13:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963183497985561028"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1963183497985561028",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 278,
+          "like_count": 15,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "看到有人说“药圈天天这个百科那个百科不乱吗”\n\n然而我们药物百科一直都是最正统最老的😇\n\n大概剧情就是，最初的药物百科因为🐔吃晚安发疯天天骚扰编辑，555受不了了，自己分裂出了overdosewiki，然后后面的药物百科又因为🐔彻底疯了，自己分裂出了化学极乐百科。药物百科一直都在，一直都是最正统的..."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-27T04:17:31.000Z",
+        "description": "⚧️青蛙/咖啡/代词是She或单数They \n🏳️‍⚧️MtX/Pan/酷儿/雌激素服用中\n💍天下第一喜欢@shudesu00\n👽商科/数学/编程\n💤Overdose\n🧠边缘型人格障碍\n🍥04年生/17年hrt\n⚠️血图/裸图\n🗞️汉语/English/français\n✋顺直男退散",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "shudesu00"
+              }
+            ]
+          }
+        },
+        "id": "1596719791661715458",
+        "name": "CoFfffEeeeE",
+        "pinned_tweet_id": "1906345611391373747",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863941997414977537/NOGgaInd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 463,
+          "following_count": 750,
+          "like_count": 17684,
+          "listed_count": 1,
+          "media_count": 937,
+          "tweet_count": 5250
+        },
+        "username": "CoFfffEeeeE1",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-25T17:10:16.000Z",
+        "description": "💖你好，这里是小猫。｜药物百科副Wiki主｜有任何药物相关问题都可以私信免费咨询哦💕｜ 私信回fo｜谨慎关注里推:@CuteKittenO3O会有大量负能/药物使用",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 57,
+                "username": "CuteKittenO3O"
+              }
+            ]
+          }
+        },
+        "id": "1960026902418321408",
+        "name": "💊MediKitty🌌",
+        "pinned_tweet_id": "1960031991401005577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960036096215224320/DqeocQbY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 378,
+          "following_count": 126,
+          "like_count": 315,
+          "listed_count": 1,
+          "media_count": 3,
+          "tweet_count": 137
+        },
+        "username": "Drugs_Kitten",
+        "verified": false
+      }
+    ]
+  }
+}

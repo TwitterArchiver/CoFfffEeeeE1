@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596719791661715458",
+    "conversation_id": "1882293689604837435",
+    "created_at": "2025-01-24T05:14:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-24T06:14:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1882658208654979247"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1244543552652054528",
+          "start": 0,
+          "username": "Greenfish_insky"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1882658208654979247",
+    "in_reply_to_user_id": "1244543552652054528",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1882293689604837435",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Greenfish_insky 这几个哥太土了吧，，"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596719791661715458",
+        "conversation_id": "1882293689604837435",
+        "created_at": "2025-01-24T05:14:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-24T06:14:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1882658208654979247"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1244543552652054528",
+              "start": 0,
+              "username": "Greenfish_insky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1882658208654979247",
+        "in_reply_to_user_id": "1244543552652054528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1882293689604837435",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Greenfish_insky 这几个哥太土了吧，，"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1882293679358144512"
+          ]
+        },
+        "author_id": "1244543552652054528",
+        "conversation_id": "1882293689604837435",
+        "created_at": "2025-01-23T05:06:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-23T06:06:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1882293689604837435"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Jk7BeFymJp",
+              "end": 85,
+              "expanded_url": "https://x.com/Greenfish_insky/status/1882293689604837435/photo/1",
+              "media_key": "3_1882293679358144512",
+              "start": 62,
+              "url": "https://t.co/Jk7BeFymJp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1882293689604837435",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 54,
+          "impression_count": 88394,
+          "like_count": 660,
+          "quote_count": 18,
+          "reply_count": 113,
+          "retweet_count": 30
+        },
+        "reply_settings": "everyone",
+        "text": "那个吉他张到底是何方神圣啊长的跟个猪头一样咋一群地雷女都跟他玩我感觉我刷到的他就跟好几个未成年地雷女做过了究竟是看上他哪点 https://t.co/Jk7BeFymJp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-27T04:17:31.000Z",
+        "description": "⚧️青蛙/咖啡/代词是She或单数They \n🏳️‍⚧️MtX/Pan/酷儿/雌激素服用中\n💍天下第一喜欢@shudesu00\n👽商科/数学/编程\n💤Overdose\n🧠边缘型人格障碍\n🍥04年生/17年hrt/19年断药/20年二周目\n⚠️血图/裸图\n🗞️汉语/English/français\n🛸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "shudesu00"
+              }
+            ]
+          }
+        },
+        "id": "1596719791661715458",
+        "name": "CoFfffEeeeE",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863941997414977537/NOGgaInd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 467,
+          "following_count": 785,
+          "like_count": 16355,
+          "listed_count": 0,
+          "media_count": 834,
+          "tweet_count": 4772
+        },
+        "username": "CoFfffEeeeE1",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-30T08:34:48.000Z",
+        "description": "已有上千年生命的神秘外星鱼 现以温良的凡人身份在地球游历/推荐我自己长期使用的喵叽VPN加速器 高速 稳定 强推🔗： https://t.co/janMYlQsKS小号@fishoutworld",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 97,
+                "start": 84,
+                "username": "fishoutworld"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "wwwwwl.sogood9.com/#/register?cod…",
+                "end": 82,
+                "expanded_url": "https://wwwwwl.sogood9.com/#/register?code=VfscThxt/",
+                "start": 59,
+                "url": "https://t.co/janMYlQsKS"
+              }
+            ]
+          }
+        },
+        "id": "1244543552652054528",
+        "location": "迷你世界",
+        "name": "冰冷電子魚",
+        "pinned_tweet_id": "1872579030777827498",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872220255705333760/XVl2yIEq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3869,
+          "following_count": 489,
+          "like_count": 10344,
+          "listed_count": 8,
+          "media_count": 1120,
+          "tweet_count": 10271
+        },
+        "username": "Greenfish_insky",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596719791661715458",
+    "conversation_id": "1903520897946071424",
+    "created_at": "2025-03-23T17:10:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-23T18:10:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1903856952477978860"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1812473034915368960",
+          "start": 0,
+          "username": "fishw102030"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1903856952477978860",
+    "in_reply_to_user_id": "1812473034915368960",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1903520897946071424",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fishw102030 因为同本来很多，跨过去没条件"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596719791661715458",
+        "conversation_id": "1903520897946071424",
+        "created_at": "2025-03-23T17:10:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-23T18:10:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1903856952477978860"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1812473034915368960",
+              "start": 0,
+              "username": "fishw102030"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903856952477978860",
+        "in_reply_to_user_id": "1812473034915368960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1903520897946071424",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fishw102030 因为同本来很多，跨过去没条件"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1812473034915368960",
+        "conversation_id": "1903520897946071424",
+        "created_at": "2025-03-22T18:55:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-22T19:55:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1903520897946071424"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1903520897946071424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 15505,
+          "like_count": 147,
+          "quote_count": 3,
+          "reply_count": 45,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "为什么中国对同的包容度比跨高那么多🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-27T04:17:31.000Z",
+        "description": "⚧️青蛙/咖啡/代词是She或单数They \n🏳️‍⚧️MtX/Pan/酷儿/雌激素服用中\n💍天下第一喜欢@shudesu00\n👽商科/数学/编程\n💤Overdose\n🧠边缘型人格障碍\n🍥04年生/17年hrt\n⚠️血图/裸图\n🗞️汉语/English/français\n✋顺直男退散\n🛰️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "shudesu00"
+              }
+            ]
+          }
+        },
+        "id": "1596719791661715458",
+        "name": "CoFfffEeeeE",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863941997414977537/NOGgaInd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 459,
+          "following_count": 775,
+          "like_count": 16736,
+          "listed_count": 0,
+          "media_count": 898,
+          "tweet_count": 4909
+        },
+        "username": "CoFfffEeeeE1",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-14T13:03:47.000Z",
+        "description": "含糖ftf-小女孩-🍬-来到世界15年-渴望抱抱(〃'▽'〃)-喜欢的名字是林萱～爱人的名字是自己-和她比翼在都市林立的天空中自由的飞翔-看过日落下的人流往来～见证每一次温柔的发生",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/fishw3",
+                "end": 23,
+                "expanded_url": "https://ngl.link/fishw3",
+                "start": 0,
+                "url": "https://t.co/4JRh4QhIFk"
+              }
+            ]
+          }
+        },
+        "id": "1812473034915368960",
+        "location": "洁白的花海尽头",
+        "name": "茉莉白桃小鱼（小透明）",
+        "pinned_tweet_id": "1883736109232128128",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900146331051507712/hw8Pcjpm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1433,
+          "following_count": 960,
+          "like_count": 7464,
+          "listed_count": 4,
+          "media_count": 351,
+          "tweet_count": 3293
+        },
+        "url": "https://t.co/4JRh4QhIFk",
+        "username": "fishw102030",
+        "verified": false
+      }
+    ]
+  }
+}

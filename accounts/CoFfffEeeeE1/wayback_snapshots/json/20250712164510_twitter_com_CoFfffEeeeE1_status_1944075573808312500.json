@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596719791661715458",
+    "conversation_id": "1943852902873018532",
+    "created_at": "2025-07-12T16:45:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-12T17:45:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1944075573808312500"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1256619520254337025",
+          "start": 0,
+          "username": "KUAN6699"
+        },
+        {
+          "end": 21,
+          "id": "1256063118595129344",
+          "start": 10,
+          "username": "JF1213952A"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1944075573808312500",
+    "in_reply_to_user_id": "1256619520254337025",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1944073459254145321",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KUAN6699 @JF1213952A 了解，感谢！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1556,
+        "media_key": "3_1944073450714193920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gvq8gNcWYAALLbI.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596719791661715458",
+        "conversation_id": "1943852902873018532",
+        "created_at": "2025-07-12T16:45:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-12T17:45:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944075573808312500"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1256619520254337025",
+              "start": 0,
+              "username": "KUAN6699"
+            },
+            {
+              "end": 21,
+              "id": "1256063118595129344",
+              "start": 10,
+              "username": "JF1213952A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944075573808312500",
+        "in_reply_to_user_id": "1256619520254337025",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944073459254145321",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KUAN6699 @JF1213952A 了解，感谢！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1944073450714193920"
+          ]
+        },
+        "author_id": "1256619520254337025",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1943852902873018532",
+        "created_at": "2025-07-12T16:36:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-12T17:36:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944073459254145321"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1596719791661715458",
+              "start": 0,
+              "username": "CoFfffEeeeE1"
+            },
+            {
+              "end": 25,
+              "id": "1256063118595129344",
+              "start": 14,
+              "username": "JF1213952A"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/g6cbOVJR9r",
+              "end": 57,
+              "expanded_url": "https://x.com/KUAN6699/status/1944073459254145321/photo/1",
+              "media_key": "3_1944073450714193920",
+              "start": 34,
+              "url": "https://t.co/g6cbOVJR9r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944073459254145321",
+        "in_reply_to_user_id": "1596719791661715458",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944048212450717889",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CoFfffEeeeE1 @JF1213952A 就是大顆的那種 https://t.co/g6cbOVJR9r"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-27T04:17:31.000Z",
+        "description": "⚧️青蛙/咖啡/代词是She或单数They \n🏳️‍⚧️MtX/Pan/酷儿/雌激素服用中\n💍天下第一喜欢@shudesu00\n👽商科/数学/编程\n💤Overdose\n🧠边缘型人格障碍\n🍥04年生/17年hrt\n⚠️血图/裸图\n🗞️汉语/English/français\n✋顺直男退散",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "shudesu00"
+              }
+            ]
+          }
+        },
+        "id": "1596719791661715458",
+        "name": "CoFfffEeeeE",
+        "pinned_tweet_id": "1906345611391373747",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863941997414977537/NOGgaInd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 455,
+          "following_count": 747,
+          "like_count": 17401,
+          "listed_count": 0,
+          "media_count": 933,
+          "tweet_count": 5070
+        },
+        "username": "CoFfffEeeeE1",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-02T16:20:26.000Z",
+        "description": "只是一個活老百姓。\n夢想是買地蓋房，種菜養雞養鵝。",
+        "id": "1256619520254337025",
+        "name": "阿寬",
+        "pinned_tweet_id": "1650887043411767296",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905642318436466693/zHHDK076_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 223,
+          "like_count": 70982,
+          "listed_count": 1,
+          "media_count": 2334,
+          "tweet_count": 12038
+        },
+        "username": "KUAN6699",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-01T03:29:31.000Z",
+        "description": "據說是INTJ人累。淦林老斯，我是已婚老男人。 當你跟所有傻逼吵架都贏了，你將會得到傻逼王的稱號。 上帝給了人腦子，推特給了你封鎖的功能，不要怪別人封鎖你，也不要不好意思封鎖我。 #貓帳",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 93,
+                "start": 90,
+                "tag": "貓帳"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/a68ftepu?r=nam…",
+                "end": 23,
+                "expanded_url": "https://instagram.com/a68ftepu?r=nametag",
+                "start": 0,
+                "url": "https://t.co/D9fpafLu8t"
+              }
+            ]
+          }
+        },
+        "id": "1256063118595129344",
+        "name": "JF/小鳥一人",
+        "pinned_tweet_id": "1589917833869213697",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821810711271780353/Sl5PL9ua_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 267,
+          "following_count": 514,
+          "like_count": 159060,
+          "listed_count": 1,
+          "media_count": 3946,
+          "tweet_count": 30709
+        },
+        "url": "https://t.co/D9fpafLu8t",
+        "username": "JF1213952A",
+        "verified": false
+      }
+    ]
+  }
+}

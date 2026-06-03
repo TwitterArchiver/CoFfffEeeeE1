@@ -1,0 +1,165 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596719791661715458",
+    "conversation_id": "1858935929597210765",
+    "created_at": "2024-11-19T18:13:49.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-19T19:13:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1858936734345818574"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1583870078407147520",
+          "start": 0,
+          "username": "ytliswy1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1858936734345818574",
+    "in_reply_to_user_id": "1583870078407147520",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1858935929597210765",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ytliswy1 外星人入侵"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1858935929597210765].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1858935929597210765",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1858935929597210765"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596719791661715458",
+        "conversation_id": "1858935929597210765",
+        "created_at": "2024-11-19T18:13:49.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-19T19:13:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1858936734345818574"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1583870078407147520",
+              "start": 0,
+              "username": "ytliswy1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1858936734345818574",
+        "in_reply_to_user_id": "1583870078407147520",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1858935929597210765",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ytliswy1 外星人入侵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-27T04:17:31.000Z",
+        "description": "⚧️青蛙/咖啡/代词是She或单数They \n🏳️‍⚧️MtX/Pan/酷儿/雌激素服用中\n💍天下第一喜欢@shudesu00\n👽商科/数学/编程\n💤Overdose\n🧠边缘型人格障碍\n🍥04年生/17年hrt/19年断药/20年二周目\n⚠️血图/裸图\n🛸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "shudesu00"
+              }
+            ]
+          }
+        },
+        "id": "1596719791661715458",
+        "name": "CoFfffEeeeE",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1856389216047116288/T0Q91ZGq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 460,
+          "following_count": 778,
+          "like_count": 15286,
+          "listed_count": 0,
+          "tweet_count": 4489
+        },
+        "username": "CoFfffEeeeE1",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-22T17:17:22.000Z",
+        "description": "姜淮燕，可以叫我燕儿 \n日本語苦手，男性NG\n我是來散發負能量以及看同人的",
+        "id": "1583870078407147520",
+        "location": "天鵝絨街道 滿開劇團",
+        "name": "血液是屍體的眼淚",
+        "pinned_tweet_id": "1822694018461110298",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1790104652282998785/PSph9C7s_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 493,
+          "like_count": 8530,
+          "listed_count": 0,
+          "tweet_count": 1286
+        },
+        "username": "ytliswy1",
+        "verified": false
+      }
+    ]
+  }
+}

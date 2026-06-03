@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596719791661715458",
+    "conversation_id": "1868646722433593660",
+    "created_at": "2024-12-17T02:55:46.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-17T03:55:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1868852560771326293"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1639798257198206977",
+          "start": 0,
+          "username": "AlexDreemurr14"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1868852560771326293",
+    "in_reply_to_user_id": "1639798257198206977",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1868646722433593660",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AlexDreemurr14 可能没被喂过高考题"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596719791661715458",
+        "conversation_id": "1868646722433593660",
+        "created_at": "2024-12-17T02:55:46.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-17T03:55:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1868852560771326293"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1639798257198206977",
+              "start": 0,
+              "username": "AlexDreemurr14"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1868852560771326293",
+        "in_reply_to_user_id": "1639798257198206977",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1868646722433593660",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AlexDreemurr14 可能没被喂过高考题"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1868645252418170880",
+            "3_1868645252468547584"
+          ]
+        },
+        "author_id": "1639798257198206977",
+        "conversation_id": "1868646722433593660",
+        "created_at": "2024-12-16T13:17:51.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-16T14:17:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1868646722433593660"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9mZqucUiSz",
+              "end": 172,
+              "expanded_url": "https://x.com/AlexDreemurr14/status/1868646722433593660/photo/1",
+              "media_key": "3_1868645252418170880",
+              "start": 149,
+              "url": "https://t.co/9mZqucUiSz"
+            },
+            {
+              "display_url": "pic.x.com/9mZqucUiSz",
+              "end": 172,
+              "expanded_url": "https://x.com/AlexDreemurr14/status/1868646722433593660/photo/1",
+              "media_key": "3_1868645252468547584",
+              "start": 149,
+              "url": "https://t.co/9mZqucUiSz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1868646722433593660",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 50,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我真的无语到了，这些模型的可信度真的是太低\nGpt4o也很烂，投喂一道简单的题他都能搞出两个选项\n\n刚才试了好多道题目，用GPTo1测试，他老喜欢扯扭矩来说明小磁针的偏转\n而且最要命的是他根本不能引导我思考，反而我要辛辛苦苦读懂他在说什么\n世界数奥能答对一半的模型面对高中物理题几乎完全沦陷了.. https://t.co/9mZqucUiSz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-27T04:17:31.000Z",
+        "description": "⚧️青蛙/咖啡/代词是She或单数They \n🏳️‍⚧️MtX/Pan/酷儿/雌激素服用中\n💍天下第一喜欢@shudesu00\n👽商科/数学/编程\n💤Overdose\n🧠边缘型人格障碍\n🍥04年生/17年hrt/19年断药/20年二周目\n⚠️血图/裸图\n🛸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "shudesu00"
+              }
+            ]
+          }
+        },
+        "id": "1596719791661715458",
+        "name": "CoFfffEeeeE",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863941997414977537/NOGgaInd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 468,
+          "following_count": 783,
+          "like_count": 15994,
+          "listed_count": 0,
+          "media_count": 806,
+          "tweet_count": 4687
+        },
+        "username": "CoFfffEeeeE1",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-26T01:15:55.000Z",
+        "description": "让我们继续吧！不要让意识消亡就行了。 @Dr124Alex",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 19,
+                "username": "Dr124Alex"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "solar-broom-e88.notion.site/AlexDreemurr-s…",
+                "end": 23,
+                "expanded_url": "https://solar-broom-e88.notion.site/AlexDreemurr-s-Blog-e0178862aabb4dc0a052ac50e52303ba?pvs=4",
+                "start": 0,
+                "url": "https://t.co/z5XnhPAemW"
+              }
+            ]
+          }
+        },
+        "id": "1639798257198206977",
+        "location": "Diner's",
+        "name": "Alex Dreemurr🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1786663811468103680/5TSI1M1B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 255,
+          "following_count": 463,
+          "like_count": 2025,
+          "listed_count": 0,
+          "media_count": 248,
+          "tweet_count": 754
+        },
+        "url": "https://t.co/z5XnhPAemW",
+        "username": "AlexDreemurr14",
+        "verified": false
+      }
+    ]
+  }
+}

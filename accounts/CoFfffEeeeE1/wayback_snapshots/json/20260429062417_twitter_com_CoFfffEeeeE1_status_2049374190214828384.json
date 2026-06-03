@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596719791661715458",
+    "conversation_id": "2049374190214828384",
+    "created_at": "2026-04-29T06:24:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T07:24:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049374190214828384"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1471539163170488321",
+          "start": 3,
+          "username": "0xcherry"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049374190214828384",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049296661609070997",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @0xcherry: 冷知识：只要大睡特睡就可以降皮质醇、修复前额叶\n\n经历过两天的大睡特睡，之前感觉生活里创业里无解的难题现在都可解了，建议大家都睡觉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596719791661715458",
+        "conversation_id": "2049374190214828384",
+        "created_at": "2026-04-29T06:24:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T07:24:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049374190214828384"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1471539163170488321",
+              "start": 3,
+              "username": "0xcherry"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049374190214828384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049296661609070997",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @0xcherry: 冷知识：只要大睡特睡就可以降皮质醇、修复前额叶\n\n经历过两天的大睡特睡，之前感觉生活里创业里无解的难题现在都可解了，建议大家都睡觉"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1471539163170488321",
+        "conversation_id": "2049296661609070997",
+        "created_at": "2026-04-29T01:16:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T02:16:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049296661609070997"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2049296661609070997",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 47,
+          "impression_count": 12700,
+          "like_count": 285,
+          "quote_count": 0,
+          "reply_count": 19,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "冷知识：只要大睡特睡就可以降皮质醇、修复前额叶\n\n经历过两天的大睡特睡，之前感觉生活里创业里无解的难题现在都可解了，建议大家都睡觉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-27T04:17:31.000Z",
+        "description": "⚧️青蛙/咖啡/代词是She或单数They \n🏳️‍⚧️MtX/Pan/酷儿/雌激素服用中\n💍\n👽商科/数学/编程\n💤\n🧠边缘型人格障碍\n🍥04年生/17年hrt\n⚠️血图/裸图\n🗞️汉语/English/français\n✋顺直男退散",
+        "id": "1596719791661715458",
+        "name": "CoFfffEeeeE",
+        "pinned_tweet_id": "1906345611391373747",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026209866541604864/gGLpjUl4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 474,
+          "following_count": 727,
+          "like_count": 20309,
+          "listed_count": 1,
+          "media_count": 977,
+          "tweet_count": 5776
+        },
+        "username": "CoFfffEeeeE1",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-16T17:54:17.000Z",
+        "description": "中期目标是研发性爱机器人。/ Building @TraderAliceAI OpenAlice",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 24,
+                "username": "TraderAliceAI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "openalice.ai",
+                "end": 23,
+                "expanded_url": "http://openalice.ai",
+                "start": 0,
+                "url": "https://t.co/tdrEu9wEvc"
+              }
+            ]
+          }
+        },
+        "id": "1471539163170488321",
+        "name": "车厘子",
+        "pinned_tweet_id": "2046907938741362772",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022098441070092288/UXEEOKRb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7662,
+          "following_count": 701,
+          "like_count": 509,
+          "listed_count": 125,
+          "media_count": 158,
+          "tweet_count": 1972
+        },
+        "url": "https://t.co/tdrEu9wEvc",
+        "username": "0xcherry",
+        "verified": true
+      }
+    ]
+  }
+}

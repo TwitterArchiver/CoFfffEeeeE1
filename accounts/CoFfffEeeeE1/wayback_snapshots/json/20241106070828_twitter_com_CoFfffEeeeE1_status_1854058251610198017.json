@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596719791661715458",
+    "conversation_id": "1853999227095146745",
+    "created_at": "2024-11-06T07:08:28.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-06T08:08:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1854058251610198017"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1557302423290617857",
+          "start": 0,
+          "username": "Kiki94767956"
+        },
+        {
+          "end": 28,
+          "id": "2689170356",
+          "start": 14,
+          "username": "Hoshikawa_ran"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1854058251610198017",
+    "in_reply_to_user_id": "1557302423290617857",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1854050826634854761",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kiki94767956 @Hoshikawa_ran 跟谁道歉😂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596719791661715458",
+        "conversation_id": "1853999227095146745",
+        "created_at": "2024-11-06T07:08:28.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-06T08:08:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1854058251610198017"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1557302423290617857",
+              "start": 0,
+              "username": "Kiki94767956"
+            },
+            {
+              "end": 28,
+              "id": "2689170356",
+              "start": 14,
+              "username": "Hoshikawa_ran"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1854058251610198017",
+        "in_reply_to_user_id": "1557302423290617857",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1854050826634854761",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kiki94767956 @Hoshikawa_ran 跟谁道歉😂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557302423290617857",
+        "conversation_id": "1853999227095146745",
+        "created_at": "2024-11-06T06:38:58.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-06T07:38:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1854050826634854761"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2689170356",
+              "start": 0,
+              "username": "Hoshikawa_ran"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1854050826634854761",
+        "in_reply_to_user_id": "2689170356",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 211,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1853999227095146745",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hoshikawa_ran 如果四年后的状况显示美国没有政治自杀怎么办？你可否道歉退推删号？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-27T04:17:31.000Z",
+        "description": "⚧️青蛙/咖啡/代词是She或单数They \n🏳️‍⚧️MtX/Pan/酷儿/雌激素服用中\n🥰天下第一喜欢@shudesu00\n👽商科/数学/编程\n💤Overdose\n😨边缘型人格障碍\n🍥04年生/17年hrt/19年断药/20年二周目\n⚠️血图/裸图\n🛸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "shudesu00"
+              }
+            ]
+          }
+        },
+        "id": "1596719791661715458",
+        "name": "CoFfffEeeeE",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1833443600757362688/WLmVr9SG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 459,
+          "following_count": 778,
+          "like_count": 14640,
+          "listed_count": 0,
+          "tweet_count": 4269
+        },
+        "username": "CoFfffEeeeE1",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-10T09:46:54.000Z",
+        "description": "共産党を駆逐してやる、この世から、一匹も残らず",
+        "id": "1557302423290617857",
+        "name": "Kiki",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1721830046535696384/F14nMDgc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 196,
+          "following_count": 515,
+          "like_count": 78433,
+          "listed_count": 2,
+          "tweet_count": 760
+        },
+        "username": "Kiki94767956",
+        "verified": false
+      },
+      {
+        "created_at": "2014-07-29T04:45:18.000Z",
+        "description": "被困在男性身体里的灵体生物 | 经济学&历史学背景 | 社自🗽为体，社民🌹为用 | 减速主义 | 混乱善良 | 反法西斯反威权，声援各国进步和民主运动 | 自然神论 | “庸俗的资产阶级人道主义者” | “恶贯满盈的中道壬” | 浮生辗转承一诺，不容青史尽成灰 | 美国不是我爹，是你以及一切混蛋的爹",
+        "id": "2689170356",
+        "location": "自由人联合体",
+        "name": "星川 蘭💙💛修罗 ver.🌻📄🦜",
+        "pinned_tweet_id": "1826771333428208011",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1503035329233580034/bXYTE57g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14339,
+          "following_count": 397,
+          "like_count": 136860,
+          "listed_count": 65,
+          "tweet_count": 23345
+        },
+        "username": "Hoshikawa_ran",
+        "verified": false
+      }
+    ]
+  }
+}

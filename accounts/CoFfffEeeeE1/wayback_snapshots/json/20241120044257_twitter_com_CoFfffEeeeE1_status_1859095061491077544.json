@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596719791661715458",
+    "conversation_id": "1859083247768281338",
+    "created_at": "2024-11-20T04:42:57.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-20T05:42:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1859095061491077544"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "892428255143186433",
+          "start": 0,
+          "username": "WANIMAL912"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1859095061491077544",
+    "in_reply_to_user_id": "892428255143186433",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1859083247768281338",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WANIMAL912 特朗普傻子暴发户老白男🤭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596719791661715458",
+        "conversation_id": "1859083247768281338",
+        "created_at": "2024-11-20T04:42:57.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-20T05:42:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1859095061491077544"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "892428255143186433",
+              "start": 0,
+              "username": "WANIMAL912"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1859095061491077544",
+        "in_reply_to_user_id": "892428255143186433",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1859083247768281338",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WANIMAL912 特朗普傻子暴发户老白男🤭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1859083240113664006"
+          ]
+        },
+        "author_id": "892428255143186433",
+        "conversation_id": "1859083247768281338",
+        "created_at": "2024-11-20T03:56:01.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-20T04:56:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1859083247768281338"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AmnF2GiOTY",
+              "end": 28,
+              "expanded_url": "https://x.com/WANIMAL912/status/1859083247768281338/photo/1",
+              "media_key": "3_1859083240113664006",
+              "start": 5,
+              "url": "https://t.co/AmnF2GiOTY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1859083247768281338",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 5321,
+          "like_count": 127,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "2017 https://t.co/AmnF2GiOTY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-27T04:17:31.000Z",
+        "description": "⚧️青蛙/咖啡/代词是She或单数They \n🏳️‍⚧️MtX/Pan/酷儿/雌激素服用中\n💍天下第一喜欢@shudesu00\n👽商科/数学/编程\n💤Overdose\n🧠边缘型人格障碍\n🍥04年生/17年hrt/19年断药/20年二周目\n⚠️血图/裸图\n🛸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "shudesu00"
+              }
+            ]
+          }
+        },
+        "id": "1596719791661715458",
+        "name": "CoFfffEeeeE",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1856389216047116288/T0Q91ZGq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 461,
+          "following_count": 779,
+          "like_count": 15296,
+          "listed_count": 0,
+          "tweet_count": 4496
+        },
+        "username": "CoFfffEeeeE1",
+        "verified": false
+      },
+      {
+        "created_at": "2017-08-01T16:54:11.000Z",
+        "description": "PHOTOGRAPHER/SET DESIGN/人體藝術家/場景設計師 RAW, POWERFUL EXPRESSION TO THE ORIGIN OF BEAUTY 微信小程序/淘寶/抖音/小紅書：WANIMAL王動物",
+        "id": "892428255143186433",
+        "location": "景德镇",
+        "name": "WANIMAL",
+        "pinned_tweet_id": "1857983364340527294",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1235720748267757569/OFHuDHUT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 664557,
+          "following_count": 4603,
+          "like_count": 75301,
+          "listed_count": 2871,
+          "tweet_count": 50648
+        },
+        "username": "WANIMAL912",
+        "verified": true
+      }
+    ]
+  }
+}

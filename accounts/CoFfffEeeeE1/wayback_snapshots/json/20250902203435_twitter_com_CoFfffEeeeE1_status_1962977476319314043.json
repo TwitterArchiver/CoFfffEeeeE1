@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596719791661715458",
+    "conversation_id": "1962698413910474964",
+    "created_at": "2025-09-02T20:34:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-02T21:34:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962977476319314043"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "189383149",
+          "start": 0,
+          "username": "AraRuisu"
+        },
+        {
+          "end": 23,
+          "id": "1875432870485135360",
+          "start": 10,
+          "username": "jin_kong7787"
+        },
+        {
+          "end": 40,
+          "id": "888172653881638912",
+          "start": 24,
+          "username": "yovartija_nattv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962977476319314043",
+    "in_reply_to_user_id": "189383149",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1962899388763955558",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AraRuisu @jin_kong7787 @yovartija_nattv 不会去厕所挠？谁在公共场所一直挠下体，没报警抓你不错了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596719791661715458",
+        "conversation_id": "1962698413910474964",
+        "created_at": "2025-09-02T20:34:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-02T21:34:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962977476319314043"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "189383149",
+              "start": 0,
+              "username": "AraRuisu"
+            },
+            {
+              "end": 23,
+              "id": "1875432870485135360",
+              "start": 10,
+              "username": "jin_kong7787"
+            },
+            {
+              "end": 40,
+              "id": "888172653881638912",
+              "start": 24,
+              "username": "yovartija_nattv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962977476319314043",
+        "in_reply_to_user_id": "189383149",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962899388763955558",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AraRuisu @jin_kong7787 @yovartija_nattv 不会去厕所挠？谁在公共场所一直挠下体，没报警抓你不错了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "189383149",
+        "conversation_id": "1962698413910474964",
+        "created_at": "2025-09-02T15:24:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-02T16:24:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962899388763955558"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1875432870485135360",
+              "start": 0,
+              "username": "jin_kong7787"
+            },
+            {
+              "end": 30,
+              "id": "888172653881638912",
+              "start": 14,
+              "username": "yovartija_nattv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962899388763955558",
+        "in_reply_to_user_id": "1875432870485135360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962863131430191476",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jin_kong7787 @yovartija_nattv 这不是能更加说明这个痒不是普通的痒，而是皮肤病的症状吗？你得肺炎的时候不会只咳一下、发烧几分钟就完事了吧？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-27T04:17:31.000Z",
+        "description": "⚧️青蛙/咖啡/代词是She或单数They \n🏳️‍⚧️MtX/Pan/酷儿/雌激素服用中\n💍天下第一喜欢@shudesu00\n👽商科/数学/编程\n💤Overdose\n🧠边缘型人格障碍\n🍥04年生/17年hrt\n⚠️血图/裸图\n🗞️汉语/English/français\n✋顺直男退散",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "shudesu00"
+              }
+            ]
+          }
+        },
+        "id": "1596719791661715458",
+        "name": "CoFfffEeeeE",
+        "pinned_tweet_id": "1906345611391373747",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863941997414977537/NOGgaInd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 459,
+          "following_count": 749,
+          "like_count": 17638,
+          "listed_count": 1,
+          "media_count": 937,
+          "tweet_count": 5233
+        },
+        "username": "CoFfffEeeeE1",
+        "verified": false
+      },
+      {
+        "created_at": "2010-09-11T03:11:45.000Z",
+        "description": "I am a fungi.",
+        "id": "189383149",
+        "name": "Grrr様",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1732008503315922944/sqkxac6X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 102,
+          "like_count": 5467,
+          "listed_count": 6,
+          "media_count": 70,
+          "tweet_count": 2720
+        },
+        "username": "AraRuisu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-04T06:43:48.000Z",
+        "description": "",
+        "id": "1875432870485135360",
+        "name": "司马南",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875432928332935170/P872IE5S_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 1143,
+          "like_count": 2858,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 246
+        },
+        "username": "jin_kong7787",
+        "verified": false
+      },
+      {
+        "created_at": "2017-07-20T23:03:56.000Z",
+        "description": "Nonbinary of Tzeentch (她/she)\\Asexual\\North East Asia Study\\Pirate/SISU/Nihil\\Proud of what I am !\\辽北精神分析研究所\\AI创业中\\Bluesky:@yovahti.bsky.social",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 131,
+                "start": 123,
+                "username": "yovahti"
+              }
+            ]
+          }
+        },
+        "id": "888172653881638912",
+        "location": "IP属地：东北亚",
+        "name": "Yö/ttevakt|sama🏴‍☠️🇫🇮🏴",
+        "pinned_tweet_id": "1774675363718955425",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1901410800423870464/P2yAUWIe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10136,
+          "following_count": 782,
+          "like_count": 44260,
+          "listed_count": 43,
+          "media_count": 1248,
+          "tweet_count": 5072
+        },
+        "username": "yovartija_nattv",
+        "verified": true
+      }
+    ]
+  }
+}

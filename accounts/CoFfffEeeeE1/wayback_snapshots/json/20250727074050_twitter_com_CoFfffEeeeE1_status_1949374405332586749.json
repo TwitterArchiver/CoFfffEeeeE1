@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596719791661715458",
+    "conversation_id": "1949372852307734662",
+    "created_at": "2025-07-27T07:40:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-27T08:40:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1949374405332586749"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1638893284218261504",
+          "start": 0,
+          "username": "Benzyl_titanium"
+        },
+        {
+          "end": 30,
+          "id": "1218028959109210113",
+          "start": 17,
+          "username": "OikawaRizumu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949374405332586749",
+    "in_reply_to_user_id": "1638893284218261504",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949372852307734662",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Benzyl_titanium @OikawaRizumu rust"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 945,
+        "media_key": "3_1949372849095155712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gw2QRy0boAAamuj.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596719791661715458",
+        "conversation_id": "1949372852307734662",
+        "created_at": "2025-07-27T07:40:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-27T08:40:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949374405332586749"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1638893284218261504",
+              "start": 0,
+              "username": "Benzyl_titanium"
+            },
+            {
+              "end": 30,
+              "id": "1218028959109210113",
+              "start": 17,
+              "username": "OikawaRizumu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949374405332586749",
+        "in_reply_to_user_id": "1638893284218261504",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949372852307734662",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Benzyl_titanium @OikawaRizumu rust"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1949372849095155712"
+          ]
+        },
+        "author_id": "1638893284218261504",
+        "conversation_id": "1949372852307734662",
+        "created_at": "2025-07-27T07:34:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-27T08:34:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1949372852307734662"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1218028959109210113",
+              "start": 6,
+              "username": "OikawaRizumu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xLumfFLkOa",
+              "end": 43,
+              "expanded_url": "https://x.com/Benzyl_titanium/status/1949372852307734662/photo/1",
+              "media_key": "3_1949372849095155712",
+              "start": 20,
+              "url": "https://t.co/xLumfFLkOa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949372852307734662",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "小螃蟹发卡 @OikawaRizumu https://t.co/xLumfFLkOa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-27T04:17:31.000Z",
+        "description": "⚧️青蛙/咖啡/代词是She或单数They \n🏳️‍⚧️MtX/Pan/酷儿/雌激素服用中\n💍天下第一喜欢@shudesu00\n👽商科/数学/编程\n💤Overdose\n🧠边缘型人格障碍\n🍥04年生/17年hrt\n⚠️血图/裸图\n🗞️汉语/English/français\n✋顺直男退散",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "shudesu00"
+              }
+            ]
+          }
+        },
+        "id": "1596719791661715458",
+        "name": "CoFfffEeeeE",
+        "pinned_tweet_id": "1906345611391373747",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863941997414977537/NOGgaInd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 454,
+          "following_count": 749,
+          "like_count": 17527,
+          "listed_count": 0,
+          "media_count": 935,
+          "tweet_count": 5121
+        },
+        "username": "CoFfffEeeeE1",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-23T13:19:49.000Z",
+        "description": "Tetrabenzyl titanium 四苄基钛 苄钛 死变态 mtf 无证不含🍥 Fuck Organic Chemistry 友姬花穴 喜欢研究药物化学,有机合成,精神药理学,网络药理学,计算机辅助药物设计 https://t.co/avoL4bMrR2 @biantailab",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 142,
+                "start": 131,
+                "username": "biantailab"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "Benzyl-titanium.top",
+                "end": 130,
+                "expanded_url": "https://www.Benzyl-titanium.top",
+                "start": 107,
+                "url": "https://t.co/avoL4bMrR2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/Benzyl-titanium",
+                "end": 23,
+                "expanded_url": "https://github.com/Benzyl-titanium",
+                "start": 0,
+                "url": "https://t.co/TYSAJHRX5k"
+              }
+            ]
+          }
+        },
+        "id": "1638893284218261504",
+        "name": "Benzyl titanium",
+        "pinned_tweet_id": "1925059483618967837",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921007502403268610/6Y_cusVt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1599,
+          "following_count": 522,
+          "like_count": 8261,
+          "listed_count": 6,
+          "media_count": 348,
+          "tweet_count": 1996
+        },
+        "url": "https://t.co/TYSAJHRX5k",
+        "username": "Benzyl_titanium",
+        "verified": false
+      },
+      {
+        "created_at": "2020-01-17T04:35:33.000Z",
+        "description": "aka 小音 ( LittleSound )｜Member of Vue Vapor｜自费开源中，向往全职做自己热爱的事｜总是悲观，但尽力积极 ｜ 🐙: LittleSound｜🐘: @rizumu@mas.to",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bento.me/rizumu",
+                "end": 23,
+                "expanded_url": "https://bento.me/rizumu",
+                "start": 0,
+                "url": "https://t.co/fQCQsSpiz1"
+              }
+            ]
+          }
+        },
+        "id": "1218028959109210113",
+        "location": "she/her",
+        "name": "绚香音 Rizumu",
+        "pinned_tweet_id": "1943899998770581632",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945018573166141440/CZ-NTqXi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10439,
+          "following_count": 1389,
+          "like_count": 41694,
+          "listed_count": 53,
+          "media_count": 1709,
+          "tweet_count": 12337
+        },
+        "url": "https://t.co/fQCQsSpiz1",
+        "username": "OikawaRizumu",
+        "verified": true
+      }
+    ]
+  }
+}

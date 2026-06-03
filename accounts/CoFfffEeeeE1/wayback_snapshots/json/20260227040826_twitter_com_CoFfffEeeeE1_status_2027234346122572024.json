@@ -1,0 +1,104 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596719791661715458",
+    "conversation_id": "2027234346122572024",
+    "created_at": "2026-02-27T04:08:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T05:08:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2027234346122572024"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2027234346122572024",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "承上，不会对不认识不熟的人有性欲，老是爱上朋友，会对朋友有性欲，所以和树在一起我就不要别的人了。完全无法理解友情和爱情的界限，爱情可能是和婚姻一样的契约，但我喜欢小树，我愿意和它签专偶的契约，不要别的朋友。\n我对树就是喜欢，是我的老公妈米最好的朋友，我想和它结婚更进一步建立契约"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596719791661715458",
+        "conversation_id": "2027234346122572024",
+        "created_at": "2026-02-27T04:08:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T05:08:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027234346122572024"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2027234346122572024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "承上，不会对不认识不熟的人有性欲，老是爱上朋友，会对朋友有性欲，所以和树在一起我就不要别的人了。完全无法理解友情和爱情的界限，爱情可能是和婚姻一样的契约，但我喜欢小树，我愿意和它签专偶的契约，不要别的朋友。\n我对树就是喜欢，是我的老公妈米最好的朋友，我想和它结婚更进一步建立契约"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-27T04:17:31.000Z",
+        "description": "⚧️青蛙/咖啡/代词是She或单数They \n🏳️‍⚧️MtX/Pan/酷儿/雌激素服用中\n💍天下第一喜欢 @shudesu00\n👽商科/数学/编程\n💤Overdose\n🧠边缘型人格障碍\n🍥04年生/17年hrt\n⚠️血图/裸图\n🗞️汉语/English/français\n✋顺直男退散",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 54,
+                "username": "shudesu00"
+              }
+            ]
+          }
+        },
+        "id": "1596719791661715458",
+        "name": "CoFfffEeeeE",
+        "pinned_tweet_id": "1906345611391373747",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026209866541604864/gGLpjUl4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 469,
+          "following_count": 727,
+          "like_count": 18799,
+          "listed_count": 1,
+          "media_count": 956,
+          "tweet_count": 5472
+        },
+        "username": "CoFfffEeeeE1",
+        "verified": false
+      }
+    ]
+  }
+}

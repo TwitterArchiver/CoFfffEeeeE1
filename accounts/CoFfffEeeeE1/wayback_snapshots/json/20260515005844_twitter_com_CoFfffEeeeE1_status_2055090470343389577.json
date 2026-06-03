@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596719791661715458",
+    "conversation_id": "2054882340451848430",
+    "created_at": "2026-05-15T00:58:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T01:58:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055090470343389577"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1002087465404907520",
+          "start": 0,
+          "username": "mu244444zaaaaa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055090470343389577",
+    "in_reply_to_user_id": "1002087465404907520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054882340451848430",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mu244444zaaaaa priority来自你社交圈内，hidden是社交圈外可能是垃圾消息"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 316,
+        "media_key": "3_2054882337939406848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIRomWAaQAAnY3L.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596719791661715458",
+        "conversation_id": "2054882340451848430",
+        "created_at": "2026-05-15T00:58:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T01:58:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055090470343389577"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1002087465404907520",
+              "start": 0,
+              "username": "mu244444zaaaaa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055090470343389577",
+        "in_reply_to_user_id": "1002087465404907520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054882340451848430",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mu244444zaaaaa priority来自你社交圈内，hidden是社交圈外可能是垃圾消息"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054882337939406848"
+          ]
+        },
+        "author_id": "1002087465404907520",
+        "conversation_id": "2054882340451848430",
+        "created_at": "2026-05-14T11:11:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T12:11:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054882340451848430"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5zzf0OR3wW",
+              "end": 54,
+              "expanded_url": "https://x.com/mu244444zaaaaa/status/2054882340451848430/photo/1",
+              "media_key": "3_2054882337939406848",
+              "start": 31,
+              "url": "https://t.co/5zzf0OR3wW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054882340451848430",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 790,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谁可以告诉我Priority 和 Hidden 有什么差别？ https://t.co/5zzf0OR3wW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-27T04:17:31.000Z",
+        "description": "⚧️青蛙/咖啡/代词是She或单数They \n🏳️‍⚧️MtX/Pan/酷儿/雌激素服用中\n💍@shudesu00\n👽商科/数学/编程\n💤Overdose\n🧠边缘型人格障碍\n🍥04年生/17年hrt\n⚠️血图/裸图\n🗞️汉语/English/français\n✋顺直男退散",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 47,
+                "username": "shudesu00"
+              }
+            ]
+          }
+        },
+        "id": "1596719791661715458",
+        "name": "CoFfffEeeeE",
+        "pinned_tweet_id": "1906345611391373747",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026209866541604864/gGLpjUl4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 480,
+          "following_count": 730,
+          "like_count": 20690,
+          "listed_count": 1,
+          "media_count": 979,
+          "tweet_count": 5883
+        },
+        "username": "CoFfffEeeeE1",
+        "verified": false
+      },
+      {
+        "created_at": "2018-05-31T07:20:44.000Z",
+        "description": "ISTJ🤗\n任何良好关系的前提是相互考虑互相尊重❤️",
+        "id": "1002087465404907520",
+        "name": "nianniannv",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878443603091148801/PIzjKVwP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3032,
+          "following_count": 39,
+          "like_count": 3106,
+          "listed_count": 2,
+          "media_count": 45,
+          "tweet_count": 370
+        },
+        "username": "mu244444zaaaaa",
+        "verified": false
+      }
+    ]
+  }
+}

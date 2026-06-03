@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596719791661715458",
+    "conversation_id": "1882018115791548906",
+    "created_at": "2025-01-23T18:29:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-23T19:29:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1882495911261335790"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1342284178671353856",
+          "start": 0,
+          "username": "guaguag47107664"
+        },
+        {
+          "end": 32,
+          "id": "770208153661169664",
+          "start": 17,
+          "username": "occational2019"
+        },
+        {
+          "end": 40,
+          "id": "1507396901594820608",
+          "start": 33,
+          "username": "hgds01"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1882495911261335790",
+    "in_reply_to_user_id": "1342284178671353856",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1882354695270019496",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@guaguag47107664 @occational2019 @hgds01 草泥马是因为这样说好玩"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596719791661715458",
+        "conversation_id": "1882018115791548906",
+        "created_at": "2025-01-23T18:29:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-23T19:29:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1882495911261335790"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1342284178671353856",
+              "start": 0,
+              "username": "guaguag47107664"
+            },
+            {
+              "end": 32,
+              "id": "770208153661169664",
+              "start": 17,
+              "username": "occational2019"
+            },
+            {
+              "end": 40,
+              "id": "1507396901594820608",
+              "start": 33,
+              "username": "hgds01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1882495911261335790",
+        "in_reply_to_user_id": "1342284178671353856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1882354695270019496",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@guaguag47107664 @occational2019 @hgds01 草泥马是因为这样说好玩"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1342284178671353856",
+        "conversation_id": "1882018115791548906",
+        "created_at": "2025-01-23T09:08:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-23T10:08:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1882354695270019496"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "770208153661169664",
+              "start": 0,
+              "username": "occational2019"
+            },
+            {
+              "end": 23,
+              "id": "1507396901594820608",
+              "start": 16,
+              "username": "hgds01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1882354695270019496",
+        "in_reply_to_user_id": "770208153661169664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2858,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1882303139619201477",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@occational2019 @hgds01 草泥马好像也是在那一段时间内风靡起来的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-27T04:17:31.000Z",
+        "description": "⚧️青蛙/咖啡/代词是She或单数They \n🏳️‍⚧️MtX/Pan/酷儿/雌激素服用中\n💍天下第一喜欢@shudesu00\n👽商科/数学/编程\n💤Overdose\n🧠边缘型人格障碍\n🍥04年生/17年hrt/19年断药/20年二周目\n⚠️血图/裸图\n🗞️汉语/English/français\n🛸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "shudesu00"
+              }
+            ]
+          }
+        },
+        "id": "1596719791661715458",
+        "name": "CoFfffEeeeE",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863941997414977537/NOGgaInd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 468,
+          "following_count": 787,
+          "like_count": 16351,
+          "listed_count": 0,
+          "media_count": 832,
+          "tweet_count": 4762
+        },
+        "username": "CoFfffEeeeE1",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-25T01:45:32.000Z",
+        "description": "",
+        "id": "1342284178671353856",
+        "name": "guaguagua",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583314777631494144/GxWbIClH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 247,
+          "like_count": 1431,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 558
+        },
+        "username": "guaguag47107664",
+        "verified": false
+      },
+      {
+        "created_at": "2016-08-29T10:35:08.000Z",
+        "description": "人生就是要学会在薄情的世界深情的活着 ... #Vicbourne#",
+        "id": "770208153661169664",
+        "location": "Solar System",
+        "name": "山鲁佐德",
+        "pinned_tweet_id": "1062028454831386624",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/773196628828172289/-WyQvWTu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2130,
+          "following_count": 1636,
+          "like_count": 35318,
+          "listed_count": 8,
+          "media_count": 3148,
+          "tweet_count": 29415
+        },
+        "username": "occational2019",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-25T16:40:26.000Z",
+        "description": "感谢你的关注 接受投稿 过稿即回复",
+        "id": "1507396901594820608",
+        "name": "恋",
+        "pinned_tweet_id": "1881625316902498622",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853640703144046592/OC2mQ87G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57308,
+          "following_count": 2882,
+          "like_count": 40254,
+          "listed_count": 71,
+          "media_count": 1310,
+          "tweet_count": 5511
+        },
+        "username": "hgds01",
+        "verified": false
+      }
+    ]
+  }
+}

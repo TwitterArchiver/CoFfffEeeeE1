@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596719791661715458",
+    "conversation_id": "2055474219417506248",
+    "created_at": "2026-05-16T13:21:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T14:21:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055639785583362530"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2025852742707945473",
+          "start": 0,
+          "username": "kikisuki111"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055639785583362530",
+    "in_reply_to_user_id": "2025852742707945473",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055474219417506248",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kikisuki111 永远留在食道和鼻腔里了，，，"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596719791661715458",
+        "conversation_id": "2055474219417506248",
+        "created_at": "2026-05-16T13:21:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T14:21:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055639785583362530"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2025852742707945473",
+              "start": 0,
+              "username": "kikisuki111"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055639785583362530",
+        "in_reply_to_user_id": "2025852742707945473",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055474219417506248",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kikisuki111 永远留在食道和鼻腔里了，，，"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025852742707945473",
+        "conversation_id": "2055474219417506248",
+        "created_at": "2026-05-16T02:23:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T03:23:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055474219417506248"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2055474219417506248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 154,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我有的时候会莫名其妙闻到愈美片的味道让我很泛恶心"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-27T04:17:31.000Z",
+        "description": "⚧️青蛙/咖啡/代词是She或单数They \n🏳️‍⚧️MtX/Pan/酷儿/雌激素服用中\n💍@shudesu00\n👽商科/数学/编程\n💤Overdose\n🧠边缘型人格障碍\n🍥04年生/17年hrt\n⚠️血图/裸图\n🗞️汉语/English/français\n✋顺直男退散",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 47,
+                "username": "shudesu00"
+              }
+            ]
+          }
+        },
+        "id": "1596719791661715458",
+        "name": "CoFfffEeeeE",
+        "pinned_tweet_id": "1906345611391373747",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026209866541604864/gGLpjUl4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 481,
+          "following_count": 732,
+          "like_count": 20700,
+          "listed_count": 0,
+          "media_count": 985,
+          "tweet_count": 5907
+        },
+        "username": "CoFfffEeeeE1",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-23T08:38:36.000Z",
+        "description": "＝キキkiki👾｜负能自拍堆积处｜是一只外星幽灵｜病み垢｜片目界隈｜オタク｜中文、English、日本語🆗｜wlw｜私信开放直fo欢迎🫶🏻｜🚬🍺💊🩸",
+        "id": "2025852742707945473",
+        "location": "外星",
+        "name": "在变成幽灵的第100个晚上",
+        "pinned_tweet_id": "2049799488316047725",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025853163421716480/yxRHQXzf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 303,
+          "following_count": 435,
+          "like_count": 1541,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 808
+        },
+        "username": "kikisuki111",
+        "verified": false
+      }
+    ]
+  }
+}

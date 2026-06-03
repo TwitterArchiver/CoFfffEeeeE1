@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596719791661715458",
+    "conversation_id": "1949022595426517155",
+    "created_at": "2025-07-27T06:52:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-27T07:52:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1949362363586765044"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1894359849812856834",
+          "start": 0,
+          "username": "x_overdose_day"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949362363586765044",
+    "in_reply_to_user_id": "1894359849812856834",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949022595426517155",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@x_overdose_day 普瑞和玉米那成瘾和烟草比哪排得上号，，"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596719791661715458",
+        "conversation_id": "1949022595426517155",
+        "created_at": "2025-07-27T06:52:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-27T07:52:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949362363586765044"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1894359849812856834",
+              "start": 0,
+              "username": "x_overdose_day"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949362363586765044",
+        "in_reply_to_user_id": "1894359849812856834",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949022595426517155",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@x_overdose_day 普瑞和玉米那成瘾和烟草比哪排得上号，，"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894359849812856834",
+        "conversation_id": "1949022595426517155",
+        "created_at": "2025-07-26T08:22:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-26T09:22:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1949022595426517155"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1949022595426517155",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2296,
+          "like_count": 48,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "烟草和槟榔的瘾甚至比普瑞巴林还难戒\n什么原因？ 心瘾  侥幸心理"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-27T04:17:31.000Z",
+        "description": "⚧️青蛙/咖啡/代词是She或单数They \n🏳️‍⚧️MtX/Pan/酷儿/雌激素服用中\n💍天下第一喜欢@shudesu00\n👽商科/数学/编程\n💤Overdose\n🧠边缘型人格障碍\n🍥04年生/17年hrt\n⚠️血图/裸图\n🗞️汉语/English/français\n✋顺直男退散",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "shudesu00"
+              }
+            ]
+          }
+        },
+        "id": "1596719791661715458",
+        "name": "CoFfffEeeeE",
+        "pinned_tweet_id": "1906345611391373747",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863941997414977537/NOGgaInd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 454,
+          "following_count": 749,
+          "like_count": 17524,
+          "listed_count": 0,
+          "media_count": 935,
+          "tweet_count": 5115
+        },
+        "username": "CoFfffEeeeE1",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-25T12:12:45.000Z",
+        "description": "wiki主:Sakura\n投稿请私信我\n欢迎访问https://t.co/Q0GM3RbtYz\nSakura的博客:https://t.co/4kNEb83oWR\n官方tg频道:https://t.co/W1o7mgfirc",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 47,
+                "expanded_url": "https://overdose.day",
+                "start": 24,
+                "url": "https://t.co/Q0GM3RbtYz"
+              },
+              {
+                "display_url": "dmt.onl",
+                "end": 81,
+                "expanded_url": "https://dmt.onl",
+                "start": 58,
+                "url": "https://t.co/4kNEb83oWR"
+              },
+              {
+                "display_url": "t.me/overdose_dxm",
+                "end": 112,
+                "expanded_url": "https://t.me/overdose_dxm",
+                "start": 89,
+                "url": "https://t.co/W1o7mgfirc"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 23,
+                "expanded_url": "https://overdose.day",
+                "start": 0,
+                "url": "https://t.co/Q0GM3RbtYz"
+              }
+            ]
+          }
+        },
+        "id": "1894359849812856834",
+        "location": "✝️天国✝️",
+        "name": "化学极乐百科⚛️",
+        "pinned_tweet_id": "1949295980140220575",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942170925098536960/cpWSRmjm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1609,
+          "following_count": 274,
+          "like_count": 173,
+          "listed_count": 2,
+          "media_count": 34,
+          "tweet_count": 215
+        },
+        "url": "https://t.co/Q0GM3RbtYz",
+        "username": "x_overdose_day",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596719791661715458",
+    "conversation_id": "1854833555580571842",
+    "created_at": "2024-11-09T03:24:42.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-09T04:24:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1855089102791831995"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1251033624222158849",
+          "start": 0,
+          "username": "baozou0121"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1855089102791831995",
+    "in_reply_to_user_id": "1251033624222158849",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1854833555580571842",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@baozou0121 急了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596719791661715458",
+        "conversation_id": "1854833555580571842",
+        "created_at": "2024-11-09T03:24:42.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-09T04:24:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1855089102791831995"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1251033624222158849",
+              "start": 0,
+              "username": "baozou0121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1855089102791831995",
+        "in_reply_to_user_id": "1251033624222158849",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1854833555580571842",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@baozou0121 急了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1854833552539766784",
+            "3_1854833549968654336"
+          ]
+        },
+        "author_id": "1251033624222158849",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1854833555580571842",
+        "created_at": "2024-11-08T10:29:15.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-08T11:29:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1854833555580571842"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/k2JFVki136",
+              "end": 25,
+              "expanded_url": "https://x.com/baozou0121/status/1854833555580571842/photo/1",
+              "media_key": "3_1854833552539766784",
+              "start": 2,
+              "url": "https://t.co/k2JFVki136"
+            },
+            {
+              "display_url": "pic.x.com/k2JFVki136",
+              "end": 25,
+              "expanded_url": "https://x.com/baozou0121/status/1854833555580571842/photo/1",
+              "media_key": "3_1854833549968654336",
+              "start": 2,
+              "url": "https://t.co/k2JFVki136"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1854833555580571842",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 22960,
+          "like_count": 382,
+          "quote_count": 1,
+          "reply_count": 35,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "草 https://t.co/k2JFVki136"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-27T04:17:31.000Z",
+        "description": "⚧️青蛙/咖啡/代词是She或单数They \n🏳️‍⚧️MtX/Pan/酷儿/雌激素服用中\n🥰天下第一喜欢@shudesu00\n👽商科/数学/编程\n💤Overdose\n😨边缘型人格障碍\n🍥04年生/17年hrt/19年断药/20年二周目\n⚠️血图/裸图\n🛸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "shudesu00"
+              }
+            ]
+          }
+        },
+        "id": "1596719791661715458",
+        "name": "CoFfffEeeeE",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1833443600757362688/WLmVr9SG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 460,
+          "following_count": 786,
+          "like_count": 14788,
+          "listed_count": 0,
+          "tweet_count": 4317
+        },
+        "username": "CoFfffEeeeE1",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-17T06:24:04.000Z",
+        "description": "同志们好！我是日本人喜欢学习汉语、中国文化、和奇怪的知识！如果我的中文错了，请告诉我！今天也用力踩下油门🩵 #王洪文迷你比基尼社团\n🚫请勿转载🚫请勿在我的评论区发歧视性言论、政治宣传、骚扰、吵架。违反了就给你看排泄癖好小说\n🔞: @baozouR18\n接稿 https://t.co/E75CSTtbRx",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 65,
+                "start": 54,
+                "tag": "王洪文迷你比基尼社团"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 125,
+                "start": 115,
+                "username": "baozouR18"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "skeb.jp/@baozou0121",
+                "end": 152,
+                "expanded_url": "https://skeb.jp/@baozou0121",
+                "start": 129,
+                "url": "https://t.co/E75CSTtbRx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/1159370376",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/1159370376",
+                "start": 0,
+                "url": "https://t.co/2z547YWi9M"
+              }
+            ]
+          }
+        },
+        "id": "1251033624222158849",
+        "location": "🇯🇵",
+        "name": "暴走半島",
+        "pinned_tweet_id": "1731493071790232033",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1474259239279665156/KN7ImQ0G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21692,
+          "following_count": 291,
+          "like_count": 62593,
+          "listed_count": 43,
+          "tweet_count": 7430
+        },
+        "url": "https://t.co/2z547YWi9M",
+        "username": "baozou0121",
+        "verified": true
+      }
+    ]
+  }
+}

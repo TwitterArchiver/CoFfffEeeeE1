@@ -1,0 +1,320 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596719791661715458",
+    "conversation_id": "1884130417223294976",
+    "created_at": "2025-01-28T19:04:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-28T20:04:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1884316616940524007"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1566430838434430977",
+          "start": 0,
+          "username": "FlowersRainFall"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1884316616940524007",
+    "in_reply_to_user_id": "1566430838434430977",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1884130417223294976",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FlowersRainFall 到底喂了些什么东西"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596719791661715458",
+        "conversation_id": "1884130417223294976",
+        "created_at": "2025-01-28T19:04:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-28T20:04:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1884316616940524007"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1566430838434430977",
+              "start": 0,
+              "username": "FlowersRainFall"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884316616940524007",
+        "in_reply_to_user_id": "1566430838434430977",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1884130417223294976",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FlowersRainFall 到底喂了些什么东西"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1884129996488466433",
+            "3_1884130004281495552"
+          ]
+        },
+        "author_id": "1566430838434430977",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "1884130417223294976",
+        "created_at": "2025-01-28T06:44:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-28T07:44:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1884130417223294976"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/m9uHYKJ7WL",
+              "end": 79,
+              "expanded_url": "https://x.com/FlowersRainFall/status/1884130417223294976/photo/1",
+              "media_key": "3_1884129996488466433",
+              "start": 56,
+              "url": "https://t.co/m9uHYKJ7WL"
+            },
+            {
+              "display_url": "pic.x.com/m9uHYKJ7WL",
+              "end": 79,
+              "expanded_url": "https://x.com/FlowersRainFall/status/1884130417223294976/photo/1",
+              "media_key": "3_1884130004281495552",
+              "start": 56,
+              "url": "https://t.co/m9uHYKJ7WL"
+            },
+            {
+              "display_url": "x.com/ShuoaShuo/stat…",
+              "end": 103,
+              "expanded_url": "https://twitter.com/ShuoaShuo/status/1884044279229898867",
+              "start": 80,
+              "url": "https://t.co/xlhi9PKU9F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884130417223294976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 391,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1884044279229898867",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "由 DeepSeek R1 生成的对“寒蝉鸣泣之时”本篇的批判，《寒蝉悲歌：一部被右翼幽灵缠绕的暴力狂欢曲》： https://t.co/m9uHYKJ7WL https://t.co/xlhi9PKU9F"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-27T04:17:31.000Z",
+        "description": "⚧️青蛙/咖啡/代词是She或单数They \n🏳️‍⚧️MtX/Pan/酷儿/雌激素服用中\n💍天下第一喜欢@shudesu00\n👽商科/数学/编程\n💤Overdose\n🧠边缘型人格障碍\n🍥04年生/17年hrt/19年断药/20年二周目\n⚠️血图/裸图\n🗞️汉语/English/français\n🛸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "shudesu00"
+              }
+            ]
+          }
+        },
+        "id": "1596719791661715458",
+        "name": "CoFfffEeeeE",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863941997414977537/NOGgaInd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 464,
+          "following_count": 780,
+          "like_count": 16393,
+          "listed_count": 0,
+          "media_count": 837,
+          "tweet_count": 4796
+        },
+        "username": "CoFfffEeeeE1",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-04T14:19:59.000Z",
+        "description": "雨打梨花深闭门｜专偶恋爱中 @shuiyebush1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 14,
+                "username": "shuiyebush1"
+              }
+            ]
+          }
+        },
+        "id": "1566430838434430977",
+        "location": "🌐地球",
+        "name": "🌧️淋囹",
+        "pinned_tweet_id": "1713230975298330965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858860873160552448/3Dfpc66I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 498,
+          "following_count": 542,
+          "like_count": 33511,
+          "listed_count": 2,
+          "media_count": 299,
+          "tweet_count": 2524
+        },
+        "username": "FlowersRainFall",
+        "verified": false
+      }
+    ]
+  }
+}

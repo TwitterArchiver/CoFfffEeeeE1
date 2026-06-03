@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596719791661715458",
+    "conversation_id": "2049049129293422771",
+    "created_at": "2026-04-28T08:52:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T09:52:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2049049129293422771"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2049049129293422771",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "一直在自慰。发现乳夹很爽，以前觉得特别痛\n我不知道，感觉只想要快感，我不太想活了，我想小树，我非常想它。我为什么不能保护好它，为什么不能救它"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596719791661715458",
+        "conversation_id": "2049049129293422771",
+        "created_at": "2026-04-28T08:52:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T09:52:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049049129293422771"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2049049129293422771",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一直在自慰。发现乳夹很爽，以前觉得特别痛\n我不知道，感觉只想要快感，我不太想活了，我想小树，我非常想它。我为什么不能保护好它，为什么不能救它"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-27T04:17:31.000Z",
+        "description": "⚧️青蛙/咖啡/代词是She或单数They \n🏳️‍⚧️MtX/Pan/酷儿/雌激素服用中\n💍\n👽商科/数学/编程\n💤\n🧠边缘型人格障碍\n🍥04年生/17年hrt\n⚠️血图/裸图\n🗞️汉语/English/français\n✋顺直男退散",
+        "id": "1596719791661715458",
+        "name": "CoFfffEeeeE",
+        "pinned_tweet_id": "1906345611391373747",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026209866541604864/gGLpjUl4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 475,
+          "following_count": 727,
+          "like_count": 20283,
+          "listed_count": 1,
+          "media_count": 977,
+          "tweet_count": 5763
+        },
+        "username": "CoFfffEeeeE1",
+        "verified": false
+      }
+    ]
+  }
+}

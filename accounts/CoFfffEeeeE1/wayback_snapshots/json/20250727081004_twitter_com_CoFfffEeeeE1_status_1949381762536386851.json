@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596719791661715458",
+    "conversation_id": "1949081337597485355",
+    "created_at": "2025-07-27T08:10:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-27T09:10:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1949381762536386851"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1823016274424627200",
+          "start": 0,
+          "username": "DingR_0124"
+        },
+        {
+          "end": 23,
+          "id": "1596416860752207872",
+          "start": 12,
+          "username": "Longlinlon"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949381762536386851",
+    "in_reply_to_user_id": "1823016274424627200",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949380456677269529",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DingR_0124 @Longlinlon 我是说，像地雷系、杀马特什麽的哪是什么基本盘、大部分人的的文化，倒是经常被发到网上蛐蛐。整代人来说大部分没什麽特色，基本会变成普普通通日子人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596719791661715458",
+        "conversation_id": "1949081337597485355",
+        "created_at": "2025-07-27T08:10:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-27T09:10:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949381762536386851"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1823016274424627200",
+              "start": 0,
+              "username": "DingR_0124"
+            },
+            {
+              "end": 23,
+              "id": "1596416860752207872",
+              "start": 12,
+              "username": "Longlinlon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949381762536386851",
+        "in_reply_to_user_id": "1823016274424627200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949380456677269529",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DingR_0124 @Longlinlon 我是说，像地雷系、杀马特什麽的哪是什么基本盘、大部分人的的文化，倒是经常被发到网上蛐蛐。整代人来说大部分没什麽特色，基本会变成普普通通日子人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1823016274424627200",
+        "conversation_id": "1949081337597485355",
+        "created_at": "2025-07-27T08:04:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-27T09:04:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949380456677269529"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1596719791661715458",
+              "start": 0,
+              "username": "CoFfffEeeeE1"
+            },
+            {
+              "end": 25,
+              "id": "1596416860752207872",
+              "start": 14,
+              "username": "Longlinlon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949380456677269529",
+        "in_reply_to_user_id": "1596719791661715458",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949328230965481841",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CoFfffEeeeE1 @Longlinlon 日本"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-27T04:17:31.000Z",
+        "description": "⚧️青蛙/咖啡/代词是She或单数They \n🏳️‍⚧️MtX/Pan/酷儿/雌激素服用中\n💍天下第一喜欢@shudesu00\n👽商科/数学/编程\n💤Overdose\n🧠边缘型人格障碍\n🍥04年生/17年hrt\n⚠️血图/裸图\n🗞️汉语/English/français\n✋顺直男退散",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "shudesu00"
+              }
+            ]
+          }
+        },
+        "id": "1596719791661715458",
+        "name": "CoFfffEeeeE",
+        "pinned_tweet_id": "1906345611391373747",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863941997414977537/NOGgaInd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 454,
+          "following_count": 749,
+          "like_count": 17527,
+          "listed_count": 0,
+          "media_count": 935,
+          "tweet_count": 5122
+        },
+        "username": "CoFfffEeeeE1",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-12T15:19:24.000Z",
+        "description": "未知型人格",
+        "id": "1823016274424627200",
+        "location": "China Grove, NC",
+        "name": "Chiiiii_^",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947703287173812229/5vFOrkKE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 102,
+          "like_count": 3869,
+          "listed_count": 1,
+          "media_count": 90,
+          "tweet_count": 303
+        },
+        "username": "DingR_0124",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "满庭芳🏳️‍⚧️",
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "酷儿诱捕器失效-Wiggin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887071896212242432/STqUUbjV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1917,
+          "following_count": 2481,
+          "like_count": 213441,
+          "listed_count": 7,
+          "media_count": 1255,
+          "tweet_count": 14076
+        },
+        "username": "Longlinlon",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596719791661715458",
+    "conversation_id": "2026449943192547547",
+    "created_at": "2026-02-25T04:47:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-25T05:47:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026519356302365053"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1586689444203175938",
+          "start": 0,
+          "username": "gdngguwng1"
+        },
+        {
+          "end": 23,
+          "id": "1490716548247568387",
+          "start": 12,
+          "username": "Eiseikikou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026519356302365053",
+    "in_reply_to_user_id": "1586689444203175938",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026449943192547547",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gdngguwng1 @Eiseikikou 希拉里咋么你了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2026449932849422336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB9lejKaoAAsfOD.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596719791661715458",
+        "conversation_id": "2026449943192547547",
+        "created_at": "2026-02-25T04:47:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T05:47:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026519356302365053"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1586689444203175938",
+              "start": 0,
+              "username": "gdngguwng1"
+            },
+            {
+              "end": 23,
+              "id": "1490716548247568387",
+              "start": 12,
+              "username": "Eiseikikou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026519356302365053",
+        "in_reply_to_user_id": "1586689444203175938",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026449943192547547",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gdngguwng1 @Eiseikikou 希拉里咋么你了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026449932849422336"
+          ]
+        },
+        "author_id": "1586689444203175938",
+        "conversation_id": "2026449943192547547",
+        "created_at": "2026-02-25T00:11:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T01:11:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026449943192547547"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 32,
+              "id": "1490716548247568387",
+              "start": 21,
+              "username": "Eiseikikou"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LtbR3KP0rE",
+              "end": 56,
+              "expanded_url": "https://x.com/gdngguwng1/status/2026449943192547547/photo/1",
+              "media_key": "3_2026449932849422336",
+              "start": 33,
+              "url": "https://t.co/LtbR3KP0rE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026449943192547547",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 107,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "她跟我说她爸爸是爱泼斯坦她妈妈是希拉里！？@Eiseikikou https://t.co/LtbR3KP0rE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-27T04:17:31.000Z",
+        "description": "⚧️青蛙/咖啡/代词是She或单数They \n🏳️‍⚧️MtX/Pan/酷儿/雌激素服用中\n💍天下第一喜欢 @shudesu00\n👽商科/数学/编程\n💤Overdose\n🧠边缘型人格障碍\n🍥04年生/17年hrt\n⚠️血图/裸图\n🗞️汉语/English/français\n✋顺直男退散",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 54,
+                "username": "shudesu00"
+              }
+            ]
+          }
+        },
+        "id": "1596719791661715458",
+        "name": "CoFfffEeeeE",
+        "pinned_tweet_id": "1906345611391373747",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026209866541604864/gGLpjUl4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 468,
+          "following_count": 726,
+          "like_count": 18739,
+          "listed_count": 1,
+          "media_count": 953,
+          "tweet_count": 5424
+        },
+        "username": "CoFfffEeeeE1",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-30T12:00:29.000Z",
+        "description": "",
+        "id": "1586689444203175938",
+        "name": "H",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023204439797248000/WeCd2wyJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 0,
+          "like_count": 9,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 36
+        },
+        "username": "gdngguwng1",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-07T15:59:14.000Z",
+        "description": "天使降临我身边@applegoingwall",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 7,
+                "username": "applegoingwall"
+              }
+            ]
+          }
+        },
+        "id": "1490716548247568387",
+        "location": "天国",
+        "name": "₊⁺✞ᜊ.小天使凛酱.ᜊ✞₊⁺",
+        "pinned_tweet_id": "2021565192161935448",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025892261985390593/m4XbZydI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 62,
+          "like_count": 1704,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 960
+        },
+        "username": "Eiseikikou",
+        "verified": false
+      }
+    ]
+  }
+}

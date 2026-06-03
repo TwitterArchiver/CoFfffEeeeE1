@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1933386846299709440"
+      ],
+      "media_source_tweet_id": [
+        "1933386848937914823"
+      ]
+    },
+    "author_id": "1596719791661715458",
+    "conversation_id": "1933395093811323155",
+    "created_at": "2025-06-13T05:24:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-13T06:24:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1933395093811323155"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 25,
+          "start": 22,
+          "tag": "烟代"
+        },
+        {
+          "end": 29,
+          "start": 26,
+          "tag": "外烟"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1339446920511569920",
+          "start": 3,
+          "username": "shudesu00"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/P47mABy0qO",
+          "end": 53,
+          "expanded_url": "https://x.com/shudesu00/status/1933386848937914823/photo/1",
+          "media_key": "3_1933386846299709440",
+          "start": 30,
+          "url": "https://t.co/P47mABy0qO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1933395093811323155",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1933386848937914823",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shudesu00: 成条单独问哦\n#烟代 #外烟 https://t.co/P47mABy0qO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 969,
+        "media_key": "3_1933386846299709440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtTFF9sbYAAM7DG.png",
+        "width": 679
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1933386846299709440"
+          ],
+          "media_source_tweet_id": [
+            "1933386848937914823"
+          ]
+        },
+        "author_id": "1596719791661715458",
+        "conversation_id": "1933395093811323155",
+        "created_at": "2025-06-13T05:24:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-13T06:24:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1933395093811323155"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 25,
+              "start": 22,
+              "tag": "烟代"
+            },
+            {
+              "end": 29,
+              "start": 26,
+              "tag": "外烟"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1339446920511569920",
+              "start": 3,
+              "username": "shudesu00"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/P47mABy0qO",
+              "end": 53,
+              "expanded_url": "https://x.com/shudesu00/status/1933386848937914823/photo/1",
+              "media_key": "3_1933386846299709440",
+              "start": 30,
+              "url": "https://t.co/P47mABy0qO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933395093811323155",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1933386848937914823",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @shudesu00: 成条单独问哦\n#烟代 #外烟 https://t.co/P47mABy0qO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1933386846299709440"
+          ]
+        },
+        "author_id": "1339446920511569920",
+        "conversation_id": "1933386848937914823",
+        "created_at": "2025-06-13T04:52:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-13T05:52:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1933386848937914823"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 10,
+              "start": 7,
+              "tag": "烟代"
+            },
+            {
+              "end": 14,
+              "start": 11,
+              "tag": "外烟"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/P47mABy0qO",
+              "end": 38,
+              "expanded_url": "https://x.com/shudesu00/status/1933386848937914823/photo/1",
+              "media_key": "3_1933386846299709440",
+              "start": 15,
+              "url": "https://t.co/P47mABy0qO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933386848937914823",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 76,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "成条单独问哦\n#烟代 #外烟 https://t.co/P47mABy0qO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-27T04:17:31.000Z",
+        "description": "⚧️青蛙/咖啡/代词是She或单数They \n🏳️‍⚧️MtX/Pan/酷儿/雌激素服用中\n💍天下第一喜欢@shudesu00\n👽商科/数学/编程\n💤Overdose\n🧠边缘型人格障碍\n🍥04年生/17年hrt\n⚠️血图/裸图\n🗞️汉语/English/français\n✋顺直男退散",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "shudesu00"
+              }
+            ]
+          }
+        },
+        "id": "1596719791661715458",
+        "name": "CoFfffEeeeE",
+        "pinned_tweet_id": "1906345611391373747",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863941997414977537/NOGgaInd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 457,
+          "following_count": 760,
+          "like_count": 17303,
+          "listed_count": 0,
+          "media_count": 927,
+          "tweet_count": 5022
+        },
+        "username": "CoFfffEeeeE1",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-17T05:46:58.000Z",
+        "description": "🐱💊🌲Ftx_习惯性点赞✚各类一次性飞雾小黑条鸭嘴兽等齐全。悦刻五代180六代200「正品」or其他杆子150-180♦悦刻原装果味弹75冰熊75💰买杆又买蛋优惠20。「私信请说明需要的产品（高品质有售后，放心购买，诚信第一）",
+        "id": "1339446920511569920",
+        "name": "小树（电子烟代/悦刻杆弹/一次性电子）",
+        "pinned_tweet_id": "1792758274967953516",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932288019887001600/qzDa0LNU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4031,
+          "following_count": 2186,
+          "like_count": 120582,
+          "listed_count": 7,
+          "media_count": 1580,
+          "tweet_count": 16701
+        },
+        "username": "shudesu00",
+        "verified": false
+      }
+    ]
+  }
+}

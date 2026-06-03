@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596719791661715458",
+    "conversation_id": "1855138698381476293",
+    "created_at": "2024-11-09T15:13:16.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-09T16:13:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1855267420480630917"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1383473182854684674",
+          "start": 0,
+          "username": "yuanwangnan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1855267420480630917",
+    "in_reply_to_user_id": "1383473182854684674",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1855138698381476293",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuanwangnan 大闹办公室，你就不说话，你就砸东西撞墙"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596719791661715458",
+        "conversation_id": "1855138698381476293",
+        "created_at": "2024-11-09T15:13:16.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-09T16:13:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1855267420480630917"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1383473182854684674",
+              "start": 0,
+              "username": "yuanwangnan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1855267420480630917",
+        "in_reply_to_user_id": "1383473182854684674",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1855138698381476293",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuanwangnan 大闹办公室，你就不说话，你就砸东西撞墙"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1855138691616014336"
+          ]
+        },
+        "author_id": "1383473182854684674",
+        "conversation_id": "1855138698381476293",
+        "created_at": "2024-11-09T06:41:47.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-09T07:41:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1855138698381476293"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cxjOXxp6fY",
+              "end": 81,
+              "expanded_url": "https://x.com/yuanwangnan/status/1855138698381476293/photo/1",
+              "media_key": "3_1855138691616014336",
+              "start": 58,
+              "url": "https://t.co/cxjOXxp6fY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1855138698381476293",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 5161,
+          "like_count": 57,
+          "quote_count": 1,
+          "reply_count": 14,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "要去剪掉头发啦\n\n摸一摸现在的长发，这就是我送给自己最好的生日礼物啊\n\n在走之前，要不先去打一下maimai吧…… https://t.co/cxjOXxp6fY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-27T04:17:31.000Z",
+        "description": "⚧️青蛙/咖啡/代词是She或单数They \n🏳️‍⚧️MtX/Pan/酷儿/雌激素服用中\n💍天下第一喜欢@shudesu00\n👽商科/数学/编程\n💤Overdose\n🧠边缘型人格障碍\n🍥04年生/17年hrt/19年断药/20年二周目\n⚠️血图/裸图\n🛸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "shudesu00"
+              }
+            ]
+          }
+        },
+        "id": "1596719791661715458",
+        "name": "CoFfffEeeeE",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1833443600757362688/WLmVr9SG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 458,
+          "following_count": 786,
+          "like_count": 14829,
+          "listed_count": 0,
+          "tweet_count": 4355
+        },
+        "username": "CoFfffEeeeE1",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-17T17:31:36.000Z",
+        "description": "06",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/1877484597",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/1877484597",
+                "start": 0,
+                "url": "https://t.co/x0ZUl8lt1S"
+              }
+            ]
+          }
+        },
+        "id": "1383473182854684674",
+        "location": "广州",
+        "name": "十四",
+        "pinned_tweet_id": "1843571868097495426",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774829038118617088/OvMjP30T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3368,
+          "following_count": 103,
+          "like_count": 33424,
+          "listed_count": 13,
+          "tweet_count": 19438
+        },
+        "url": "https://t.co/x0ZUl8lt1S",
+        "username": "yuanwangnan",
+        "verified": false
+      }
+    ]
+  }
+}

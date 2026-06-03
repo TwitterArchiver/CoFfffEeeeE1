@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596719791661715458",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+          "id": "1552291412820893697",
+          "name": "Education Business"
+        }
+      }
+    ],
+    "conversation_id": "2027270533327532261",
+    "created_at": "2026-02-27T17:26:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T18:26:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027435064796303726"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1518398600958595072",
+          "start": 0,
+          "username": "TorisResso"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027435064796303726",
+    "in_reply_to_user_id": "1518398600958595072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027270533327532261",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TorisResso 相对来说学科竞赛的孩子资源多，家境可能好点，他们眼界开阔点，更可能成为跨儿，竞赛会有群，会发现天南海北的跨儿，到一个地方比赛了就会聚起来。理工的分偏高，也要教育资源，高考考好这些人里的也可能刷出很多跨儿，也在大学里扎堆\n上网都是看到厉害的人啦，能见度问题"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596719791661715458",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+              "id": "1552291412820893697",
+              "name": "Education Business"
+            }
+          }
+        ],
+        "conversation_id": "2027270533327532261",
+        "created_at": "2026-02-27T17:26:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T18:26:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027435064796303726"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1518398600958595072",
+              "start": 0,
+              "username": "TorisResso"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027435064796303726",
+        "in_reply_to_user_id": "1518398600958595072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027270533327532261",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TorisResso 相对来说学科竞赛的孩子资源多，家境可能好点，他们眼界开阔点，更可能成为跨儿，竞赛会有群，会发现天南海北的跨儿，到一个地方比赛了就会聚起来。理工的分偏高，也要教育资源，高考考好这些人里的也可能刷出很多跨儿，也在大学里扎堆\n上网都是看到厉害的人啦，能见度问题"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518398600958595072",
+        "conversation_id": "2027270533327532261",
+        "created_at": "2026-02-27T06:32:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T07:32:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027270533327532261"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2027270533327532261",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 35,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "跨性别普遍计算机相关或者其他理工科技术好是刻板印象还是事实就是如此，\n我感觉看到的跨很多都如此（思考），理工科好的比文科或艺术好的多很多，"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-27T04:17:31.000Z",
+        "description": "⚧️青蛙/咖啡/代词是She或单数They \n🏳️‍⚧️MtX/Pan/酷儿/雌激素服用中\n💍天下第一喜欢 @shudesu00\n👽商科/数学/编程\n💤Overdose\n🧠边缘型人格障碍\n🍥04年生/17年hrt\n⚠️血图/裸图\n🗞️汉语/English/français\n✋顺直男退散",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 54,
+                "username": "shudesu00"
+              }
+            ]
+          }
+        },
+        "id": "1596719791661715458",
+        "name": "CoFfffEeeeE",
+        "pinned_tweet_id": "1906345611391373747",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026209866541604864/gGLpjUl4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 471,
+          "following_count": 726,
+          "like_count": 18805,
+          "listed_count": 1,
+          "media_count": 957,
+          "tweet_count": 5482
+        },
+        "username": "CoFfffEeeeE1",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-25T01:17:03.000Z",
+        "description": "星海如梦，遥不可及。\n\n日常垃圾桶🗑️/\n\n/名叫托里斯/目前顺性别♂/\nAlly/夜的守梦人🌌🌠/\nsub/对象&主人：@kerry_w07/\nINFP-T/讨好型人格/社交障碍/偏泛性恋（除顺男）/\n拘束爱好者/",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 61,
+                "username": "kerry_w07"
+              }
+            ]
+          }
+        },
+        "id": "1518398600958595072",
+        "location": "自己的镜中世界",
+        "name": "🦔小哑巴Toris🌌",
+        "pinned_tweet_id": "1982508481556124131",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937030221498130432/qNbcwdEO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 297,
+          "following_count": 1294,
+          "like_count": 4757,
+          "listed_count": 0,
+          "media_count": 311,
+          "tweet_count": 3220
+        },
+        "username": "TorisResso",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596719791661715458",
+    "conversation_id": "1839110664104652947",
+    "created_at": "2024-09-26T07:10:00.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-26T08:10:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1839200734065140214"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1739391734491086848",
+          "start": 0,
+          "username": "IZLA00"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1839200734065140214",
+    "in_reply_to_user_id": "1739391734491086848",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1839110664104652947",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@IZLA00 今天所有人欠我50 什么原因自己想\n有心者不用教 无心者教不会"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596719791661715458",
+        "conversation_id": "1839110664104652947",
+        "created_at": "2024-09-26T07:10:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-26T08:10:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1839200734065140214"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IZLA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1839200734065140214",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1839110664104652947",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IZLA00 今天所有人欠我50 什么原因自己想\n有心者不用教 无心者教不会"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "1839110664104652947",
+        "created_at": "2024-09-26T01:12:06.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-26T02:12:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1839110664104652947"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1839110664104652947",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 609,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "给我看看你们剪切板里都复制了什么奇怪的玩意？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-27T04:17:31.000Z",
+        "description": "⚧️青蛙/咖啡/代词是She或单数They \n🏳️‍⚧️MtF/Pan/酷儿/雌激素服用中\n🥰天下第一喜欢@shudesu00\n👽商科/数学/编程\n💤Overdose\n😨边缘型人格障碍\n🍥04年生/17年hrt/19年断药/20年二周目\n⚠️血图/裸图\n🛸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "shudesu00"
+              }
+            ]
+          }
+        },
+        "id": "1596719791661715458",
+        "name": "CoFfffEeeeE",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1833443600757362688/WLmVr9SG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 441,
+          "following_count": 767,
+          "like_count": 12978,
+          "listed_count": 0,
+          "tweet_count": 3673
+        },
+        "username": "CoFfffEeeeE1",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "所以你们要把钱都存起来，少把钱花在入我这种莫名其妙的🚪上。",
+        "id": "1739391734491086848",
+        "location": "距离 -0.18m",
+        "name": "isla［营业］",
+        "pinned_tweet_id": "1839162624870678612",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836955433031831552/1_XKj6IP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1750,
+          "following_count": 1748,
+          "like_count": 11255,
+          "listed_count": 5,
+          "tweet_count": 10777
+        },
+        "username": "IZLA00",
+        "verified": false
+      }
+    ]
+  }
+}

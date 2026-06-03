@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596719791661715458",
+    "conversation_id": "2034059673192796544",
+    "created_at": "2026-03-18T09:17:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-18T10:17:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034197532725952635"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1339446920511569920",
+          "start": 0,
+          "username": "shudesu00"
+        },
+        {
+          "end": 24,
+          "id": "2863636854",
+          "start": 11,
+          "username": "JSJ_krysjung"
+        },
+        {
+          "end": 38,
+          "id": "1620279272467476481",
+          "start": 25,
+          "username": "jackeynight1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034197532725952635",
+    "in_reply_to_user_id": "1339446920511569920",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034187262750257228",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shudesu00 @JSJ_krysjung @jackeynight1 火大的鸡就是火鸡🐔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596719791661715458",
+        "conversation_id": "2034059673192796544",
+        "created_at": "2026-03-18T09:17:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T10:17:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034197532725952635"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1339446920511569920",
+              "start": 0,
+              "username": "shudesu00"
+            },
+            {
+              "end": 24,
+              "id": "2863636854",
+              "start": 11,
+              "username": "JSJ_krysjung"
+            },
+            {
+              "end": 38,
+              "id": "1620279272467476481",
+              "start": 25,
+              "username": "jackeynight1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034197532725952635",
+        "in_reply_to_user_id": "1339446920511569920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034187262750257228",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shudesu00 @JSJ_krysjung @jackeynight1 火大的鸡就是火鸡🐔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1339446920511569920",
+        "conversation_id": "2034059673192796544",
+        "created_at": "2026-03-18T08:36:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T09:36:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034187262750257228"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2863636854",
+              "start": 0,
+              "username": "JSJ_krysjung"
+            },
+            {
+              "end": 27,
+              "id": "1620279272467476481",
+              "start": 14,
+              "username": "jackeynight1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034187262750257228",
+        "in_reply_to_user_id": "2863636854",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034176034447163816",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JSJ_krysjung @jackeynight1 一个鸡愤怒了就是愤怒的小鸟！难道 你是天才"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-27T04:17:31.000Z",
+        "description": "⚧️青蛙/咖啡/代词是She或单数They \n🏳️‍⚧️MtX/Pan/酷儿/雌激素服用中\n💍天下第一喜欢 @shudesu00\n👽商科/数学/编程\n💤Overdose\n🧠边缘型人格障碍\n🍥04年生/17年hrt\n⚠️血图/裸图\n🗞️汉语/English/français\n✋顺直男退散",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 54,
+                "username": "shudesu00"
+              }
+            ]
+          }
+        },
+        "id": "1596719791661715458",
+        "name": "CoFfffEeeeE",
+        "pinned_tweet_id": "1906345611391373747",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026209866541604864/gGLpjUl4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 466,
+          "following_count": 722,
+          "like_count": 19315,
+          "listed_count": 1,
+          "media_count": 961,
+          "tweet_count": 5566
+        },
+        "username": "CoFfffEeeeE1",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-17T05:46:58.000Z",
+        "description": "ftx__They/He/it_习惯性点赞_强迫症_bp-过量_aspd/ADHD_别来说教易爆炸_👾…🐱愛🩵👭 💕✝️@CoFfffEeeeE1 @Miekoudesu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 73,
+                "start": 60,
+                "username": "CoFfffEeeeE1"
+              },
+              {
+                "end": 85,
+                "start": 74,
+                "username": "Miekoudesu"
+              }
+            ]
+          }
+        },
+        "id": "1339446920511569920",
+        "name": "小树🌲_MaruyamaTachiki",
+        "pinned_tweet_id": "1792758274967953516",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031122814372294656/GXY7w6V2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4641,
+          "following_count": 2281,
+          "like_count": 116220,
+          "listed_count": 9,
+          "media_count": 1868,
+          "tweet_count": 19076
+        },
+        "username": "shudesu00",
+        "verified": false
+      },
+      {
+        "created_at": "2014-10-18T23:45:46.000Z",
+        "description": "（00-160-50） 有🚪：500口令  才会回信息 不过门槛的不用私聊我 ⚠️：纯纯好色懒得谋财",
+        "id": "2863636854",
+        "location": "Anhui",
+        "name": "夕颜",
+        "pinned_tweet_id": "1689312000906788864",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947074378648502272/N80rkeFf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 581,
+          "following_count": 310,
+          "like_count": 57,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 2547
+        },
+        "username": "JSJ_krysjung",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-31T04:35:09.000Z",
+        "description": "这个人很懒所以几乎没有留下什么介绍...⭕dm＃惰天使＃od＃自伤 cn夕颜",
+        "id": "1620279272467476481",
+        "location": "天国",
+        "name": "夕颜",
+        "pinned_tweet_id": "1861772867106636056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998729382849032194/g1FkyEWQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 487,
+          "following_count": 454,
+          "like_count": 15292,
+          "listed_count": 1,
+          "media_count": 447,
+          "tweet_count": 8451
+        },
+        "username": "jackeynight1",
+        "verified": false
+      }
+    ]
+  }
+}

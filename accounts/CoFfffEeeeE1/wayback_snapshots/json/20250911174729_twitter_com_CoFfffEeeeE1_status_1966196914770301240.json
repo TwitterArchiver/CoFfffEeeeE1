@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596719791661715458",
+    "conversation_id": "1966081654151364757",
+    "created_at": "2025-09-11T17:47:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-11T18:47:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1966196914770301240"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "622036546",
+          "start": 0,
+          "username": "overdose_six"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1966196914770301240",
+    "in_reply_to_user_id": "622036546",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966081654151364757",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@overdose_six 蹲评价"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1966081650661666818",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0js2DMaMAIdH5P.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596719791661715458",
+        "conversation_id": "1966081654151364757",
+        "created_at": "2025-09-11T17:47:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-11T18:47:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966196914770301240"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "622036546",
+              "start": 0,
+              "username": "overdose_six"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966196914770301240",
+        "in_reply_to_user_id": "622036546",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966081654151364757",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@overdose_six 蹲评价"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1966081650661666818"
+          ]
+        },
+        "author_id": "622036546",
+        "conversation_id": "1966081654151364757",
+        "created_at": "2025-09-11T10:09:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-11T11:09:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1966081654151364757"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KfIZDjYhK7",
+              "end": 41,
+              "expanded_url": "https://x.com/overdose_six/status/1966081654151364757/photo/1",
+              "media_key": "3_1966081650661666818",
+              "start": 18,
+              "url": "https://t.co/KfIZDjYhK7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966081654151364757",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 272,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想尝试一下这款普瑞巴林 一盒40粒 https://t.co/KfIZDjYhK7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-27T04:17:31.000Z",
+        "description": "⚧️青蛙/咖啡/代词是She或单数They \n🏳️‍⚧️MtX/Pan/酷儿/雌激素服用中\n💍天下第一喜欢@shudesu00\n👽商科/数学/编程\n💤Overdose\n🧠边缘型人格障碍\n🍥04年生/17年hrt\n⚠️血图/裸图\n🗞️汉语/English/français\n✋顺直男退散",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "shudesu00"
+              }
+            ]
+          }
+        },
+        "id": "1596719791661715458",
+        "name": "CoFfffEeeeE",
+        "pinned_tweet_id": "1906345611391373747",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863941997414977537/NOGgaInd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 462,
+          "following_count": 748,
+          "like_count": 17842,
+          "listed_count": 1,
+          "media_count": 937,
+          "tweet_count": 5289
+        },
+        "username": "CoFfffEeeeE1",
+        "verified": false
+      },
+      {
+        "created_at": "2012-06-29T16:18:50.000Z",
+        "description": "overdose|病み垢|提问箱：https://t.co/JP9NLRoDUd|里人格@fuck_8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 44,
+                "username": "fuck_8964"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/oder_6661",
+                "end": 40,
+                "expanded_url": "http://ngl.link/oder_6661",
+                "start": 17,
+                "url": "https://t.co/JP9NLRoDUd"
+              }
+            ]
+          }
+        },
+        "id": "622036546",
+        "location": "参宿四",
+        "name": "むのう",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965430796367679488/C1QbG9XO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 464,
+          "following_count": 179,
+          "like_count": 6493,
+          "listed_count": 2,
+          "media_count": 173,
+          "tweet_count": 1761
+        },
+        "username": "overdose_six",
+        "verified": false
+      }
+    ]
+  }
+}

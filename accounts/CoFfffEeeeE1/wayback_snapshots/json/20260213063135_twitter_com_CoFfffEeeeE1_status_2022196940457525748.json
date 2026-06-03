@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2022196937777364992",
+        "3_2022196938138169351"
+      ]
+    },
+    "author_id": "1596719791661715458",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2022196940457525748",
+    "created_at": "2026-02-13T06:31:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T07:31:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2022196940457525748"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/jc8MDshFEj",
+          "end": 27,
+          "expanded_url": "https://x.com/CoFfffEeeeE1/status/2022196940457525748/photo/1",
+          "media_key": "3_2022196937777364992",
+          "start": 4,
+          "url": "https://t.co/jc8MDshFEj"
+        },
+        {
+          "display_url": "pic.x.com/jc8MDshFEj",
+          "end": 27,
+          "expanded_url": "https://x.com/CoFfffEeeeE1/status/2022196940457525748/photo/1",
+          "media_key": "3_2022196938138169351",
+          "start": 4,
+          "url": "https://t.co/jc8MDshFEj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022196940457525748",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "草稿箱 https://t.co/jc8MDshFEj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2022196937777364992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBBJZp4aQAA8tuW.jpg",
+        "width": 922
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2022196938138169351",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBBJZrObsAczP-s.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022196937777364992",
+            "3_2022196938138169351"
+          ]
+        },
+        "author_id": "1596719791661715458",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2022196940457525748",
+        "created_at": "2026-02-13T06:31:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T07:31:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022196940457525748"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jc8MDshFEj",
+              "end": 27,
+              "expanded_url": "https://x.com/CoFfffEeeeE1/status/2022196940457525748/photo/1",
+              "media_key": "3_2022196937777364992",
+              "start": 4,
+              "url": "https://t.co/jc8MDshFEj"
+            },
+            {
+              "display_url": "pic.x.com/jc8MDshFEj",
+              "end": 27,
+              "expanded_url": "https://x.com/CoFfffEeeeE1/status/2022196940457525748/photo/1",
+              "media_key": "3_2022196938138169351",
+              "start": 4,
+              "url": "https://t.co/jc8MDshFEj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022196940457525748",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "草稿箱 https://t.co/jc8MDshFEj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-27T04:17:31.000Z",
+        "description": "⚧️青蛙/咖啡/代词是She或单数They \n🏳️‍⚧️MtX/Pan/酷儿/雌激素服用中\n💍天下第一喜欢 @shudesu00\n👽商科/数学/编程\n💤Overdose\n🧠边缘型人格障碍\n🍥04年生/17年hrt\n⚠️血图/裸图\n🗞️汉语/English/français\n✋顺直男退散",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 54,
+                "username": "shudesu00"
+              }
+            ]
+          }
+        },
+        "id": "1596719791661715458",
+        "name": "CoFfffEeeeE",
+        "pinned_tweet_id": "1906345611391373747",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019821460827910144/GxCgBfQ7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 464,
+          "following_count": 727,
+          "like_count": 18446,
+          "listed_count": 1,
+          "media_count": 947,
+          "tweet_count": 5367
+        },
+        "username": "CoFfffEeeeE1",
+        "verified": false
+      }
+    ]
+  }
+}

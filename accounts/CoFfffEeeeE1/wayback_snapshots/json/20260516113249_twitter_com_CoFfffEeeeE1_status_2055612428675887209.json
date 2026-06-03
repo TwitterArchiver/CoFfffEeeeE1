@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055612398472765440",
+        "3_2055612398950838272"
+      ]
+    },
+    "author_id": "1596719791661715458",
+    "conversation_id": "2055612428675887209",
+    "created_at": "2026-05-16T11:32:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T12:32:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055612428675887209"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 16,
+          "start": 13,
+          "tag": "奶子"
+        },
+        {
+          "end": 20,
+          "start": 17,
+          "tag": "肚子"
+        },
+        {
+          "end": 23,
+          "start": 21,
+          "tag": "胸"
+        },
+        {
+          "end": 26,
+          "start": 24,
+          "tag": "胖"
+        },
+        {
+          "end": 31,
+          "start": 27,
+          "tag": "bbw"
+        },
+        {
+          "end": 36,
+          "start": 32,
+          "tag": "暴露癖"
+        },
+        {
+          "end": 44,
+          "start": 37,
+          "tag": "femboy"
+        },
+        {
+          "end": 48,
+          "start": 45,
+          "tag": "贫乳"
+        },
+        {
+          "end": 53,
+          "start": 49,
+          "tag": "mtx"
+        },
+        {
+          "end": 60,
+          "start": 54,
+          "tag": "trans"
+        },
+        {
+          "end": 67,
+          "start": 61,
+          "tag": "tgirl"
+        },
+        {
+          "end": 72,
+          "start": 68,
+          "tag": "非二元"
+        },
+        {
+          "end": 78,
+          "start": 73,
+          "tag": "小男女孩"
+        },
+        {
+          "end": 82,
+          "start": 79,
+          "tag": "酷儿"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/b7ifWVl9iv",
+          "end": 106,
+          "expanded_url": "https://x.com/CoFfffEeeeE1/status/2055612428675887209/photo/1",
+          "media_key": "3_2055612398472765440",
+          "start": 83,
+          "url": "https://t.co/b7ifWVl9iv"
+        },
+        {
+          "display_url": "pic.x.com/b7ifWVl9iv",
+          "end": 106,
+          "expanded_url": "https://x.com/CoFfffEeeeE1/status/2055612428675887209/photo/1",
+          "media_key": "3_2055612398950838272",
+          "start": 83,
+          "url": "https://t.co/b7ifWVl9iv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055612428675887209",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "不知道，我现在真的很胖  #奶子 #肚子 #胸 #胖 #bbw #暴露癖 #femboy #贫乳 #mtx #trans #tgirl #非二元 #小男女孩 #酷儿 https://t.co/b7ifWVl9iv"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2055612428675887209].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2055612428675887209",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2055612428675887209"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2055612398472765440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIcAldbboAAbcfh.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2055612398950838272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIcAlfNacAAOOu-.jpg",
+        "width": 2048
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-27T04:17:31.000Z",
+        "description": "⚧️青蛙/咖啡/代词是She或单数They \n🏳️‍⚧️MtX/Pan/酷儿/雌激素服用中\n💍@shudesu00\n👽商科/数学/编程\n💤Overdose\n🧠边缘型人格障碍\n🍥04年生/17年hrt\n⚠️血图/裸图\n🗞️汉语/English/français\n✋顺直男退散",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 47,
+                "username": "shudesu00"
+              }
+            ]
+          }
+        },
+        "id": "1596719791661715458",
+        "name": "CoFfffEeeeE",
+        "pinned_tweet_id": "1906345611391373747",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026209866541604864/gGLpjUl4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 480,
+          "following_count": 730,
+          "like_count": 20699,
+          "listed_count": 0,
+          "media_count": 982,
+          "tweet_count": 5897
+        },
+        "username": "CoFfffEeeeE1",
+        "verified": false
+      }
+    ]
+  }
+}

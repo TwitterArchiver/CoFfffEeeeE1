@@ -1,0 +1,164 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596719791661715458",
+    "conversation_id": "1855764073327272241",
+    "created_at": "2024-11-11T04:50:39.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-11T05:50:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1855835508141969903"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1583502450710937600",
+          "start": 0,
+          "username": "Allenqqqqc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1855835508141969903",
+    "in_reply_to_user_id": "1583502450710937600",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1855764073327272241",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Allenqqqqc 狮子王"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1855764073327272241].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1855764073327272241",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1855764073327272241"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596719791661715458",
+        "conversation_id": "1855764073327272241",
+        "created_at": "2024-11-11T04:50:39.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-11T05:50:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1855835508141969903"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1583502450710937600",
+              "start": 0,
+              "username": "Allenqqqqc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1855835508141969903",
+        "in_reply_to_user_id": "1583502450710937600",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1855764073327272241",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Allenqqqqc 狮子王"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-27T04:17:31.000Z",
+        "description": "⚧️青蛙/咖啡/代词是She或单数They \n🏳️‍⚧️MtX/Pan/酷儿/雌激素服用中\n💍天下第一喜欢@shudesu00\n👽商科/数学/编程\n💤Overdose\n🧠边缘型人格障碍\n🍥04年生/17年hrt/19年断药/20年二周目\n⚠️血图/裸图\n🛸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "shudesu00"
+              }
+            ]
+          }
+        },
+        "id": "1596719791661715458",
+        "name": "CoFfffEeeeE",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1833443600757362688/WLmVr9SG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 458,
+          "following_count": 785,
+          "like_count": 14864,
+          "listed_count": 0,
+          "tweet_count": 4383
+        },
+        "username": "CoFfffEeeeE1",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-21T16:56:35.000Z",
+        "description": "FTX/Anarchism/Postmodernism",
+        "id": "1583502450710937600",
+        "name": "K̸̸r̸̸a̸̸w̸̸a̸̸l̸̸l̸🎶",
+        "pinned_tweet_id": "1822970673431805974",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846072173196464128/GKDyNx_X_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1071,
+          "following_count": 695,
+          "like_count": 61705,
+          "listed_count": 9,
+          "tweet_count": 17298
+        },
+        "username": "Allenqqqqc",
+        "verified": false
+      }
+    ]
+  }
+}

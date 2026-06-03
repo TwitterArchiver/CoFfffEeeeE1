@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596719791661715458",
+    "conversation_id": "1948580345286459673",
+    "created_at": "2025-07-27T13:07:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-27T14:07:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1949456581264846952"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1911828872334831616",
+          "start": 0,
+          "username": "Edward_8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949456581264846952",
+    "in_reply_to_user_id": "1911828872334831616",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1948580345286459673",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Edward_8964 平安是福"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1708,
+        "media_key": "3_1948580338135171079",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gwq_flbbgAcSA5N.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596719791661715458",
+        "conversation_id": "1948580345286459673",
+        "created_at": "2025-07-27T13:07:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-27T14:07:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949456581264846952"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1911828872334831616",
+              "start": 0,
+              "username": "Edward_8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949456581264846952",
+        "in_reply_to_user_id": "1911828872334831616",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948580345286459673",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Edward_8964 平安是福"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1948580338135171079"
+          ]
+        },
+        "author_id": "1911828872334831616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1948580345286459673",
+        "created_at": "2025-07-25T03:05:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-25T04:05:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1948580345286459673"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/m8635vZPXZ",
+              "end": 29,
+              "expanded_url": "https://x.com/Edward_8964/status/1948580345286459673/photo/1",
+              "media_key": "3_1948580338135171079",
+              "start": 6,
+              "url": "https://t.co/m8635vZPXZ"
+            },
+            {
+              "display_url": "x.com/yesmynamehaer1…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/yesmynamehaer1/status/1943925678212055449",
+              "start": 30,
+              "url": "https://t.co/Y1EdBgBOOO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948580345286459673",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 427,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943925678212055449",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我？安资？ https://t.co/m8635vZPXZ https://t.co/Y1EdBgBOOO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-27T04:17:31.000Z",
+        "description": "⚧️青蛙/咖啡/代词是She或单数They \n🏳️‍⚧️MtX/Pan/酷儿/雌激素服用中\n💍天下第一喜欢@shudesu00\n👽商科/数学/编程\n💤Overdose\n🧠边缘型人格障碍\n🍥04年生/17年hrt\n⚠️血图/裸图\n🗞️汉语/English/français\n✋顺直男退散",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "shudesu00"
+              }
+            ]
+          }
+        },
+        "id": "1596719791661715458",
+        "name": "CoFfffEeeeE",
+        "pinned_tweet_id": "1906345611391373747",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863941997414977537/NOGgaInd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 454,
+          "following_count": 749,
+          "like_count": 17542,
+          "listed_count": 0,
+          "media_count": 935,
+          "tweet_count": 5132
+        },
+        "username": "CoFfffEeeeE1",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-14T17:08:26.000Z",
+        "description": "od不扩散就是个笑话，要是没扩散的话我tm就不会出现在这里 自由意志主义者 前世：@XuaEdward",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 41,
+                "username": "XuaEdward"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nonexistent.fandom.com",
+                "end": 23,
+                "expanded_url": "http://nonexistent.fandom.com",
+                "start": 0,
+                "url": "https://t.co/jSvdcBPiBx"
+              }
+            ]
+          }
+        },
+        "id": "1911828872334831616",
+        "location": "ZheJiang",
+        "name": "💊爱德华 gen4 转生体",
+        "pinned_tweet_id": "1931446534899740939",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921599678090780672/CQrzT5_u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 364,
+          "following_count": 406,
+          "like_count": 3235,
+          "listed_count": 1,
+          "media_count": 93,
+          "tweet_count": 1537
+        },
+        "url": "https://t.co/jSvdcBPiBx",
+        "username": "Edward_8964",
+        "verified": false
+      }
+    ]
+  }
+}

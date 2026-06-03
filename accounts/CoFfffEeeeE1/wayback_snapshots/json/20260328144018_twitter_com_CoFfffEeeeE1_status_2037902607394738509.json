@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596719791661715458",
+    "conversation_id": "2037709872138207294",
+    "created_at": "2026-03-28T14:40:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T15:40:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037902607394738509"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1741807657110147073",
+          "start": 0,
+          "username": "yan_huan92807"
+        },
+        {
+          "end": 27,
+          "id": "1500855672480489475",
+          "start": 15,
+          "username": "Science_010"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037902607394738509",
+    "in_reply_to_user_id": "1741807657110147073",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037901575289753886",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yan_huan92807 @Science_010 知道了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596719791661715458",
+        "conversation_id": "2037709872138207294",
+        "created_at": "2026-03-28T14:40:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T15:40:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037902607394738509"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1741807657110147073",
+              "start": 0,
+              "username": "yan_huan92807"
+            },
+            {
+              "end": 27,
+              "id": "1500855672480489475",
+              "start": 15,
+              "username": "Science_010"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037902607394738509",
+        "in_reply_to_user_id": "1741807657110147073",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037901575289753886",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yan_huan92807 @Science_010 知道了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741807657110147073",
+        "conversation_id": "2037709872138207294",
+        "created_at": "2026-03-28T14:36:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T15:36:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037901575289753886"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1596719791661715458",
+              "start": 0,
+              "username": "CoFfffEeeeE1"
+            },
+            {
+              "end": 26,
+              "id": "1500855672480489475",
+              "start": 14,
+              "username": "Science_010"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037901575289753886",
+        "in_reply_to_user_id": "1596719791661715458",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037743285448605959",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CoFfffEeeeE1 @Science_010 生物利用率很差而且我记得容易黏在呼吸道粘膜上啥的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-27T04:17:31.000Z",
+        "description": "⚧️青蛙/咖啡/代词是She或单数They \n🏳️‍⚧️MtX/Pan/酷儿/雌激素服用中\n💍天下第一喜欢 @shudesu00\n👽商科/数学/编程\n💤Overdose\n🧠边缘型人格障碍\n🍥04年生/17年hrt\n⚠️血图/裸图\n🗞️汉语/English/français\n✋顺直男退散",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 54,
+                "username": "shudesu00"
+              }
+            ]
+          }
+        },
+        "id": "1596719791661715458",
+        "name": "CoFfffEeeeE",
+        "pinned_tweet_id": "1906345611391373747",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026209866541604864/gGLpjUl4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 469,
+          "following_count": 722,
+          "like_count": 19692,
+          "listed_count": 1,
+          "media_count": 965,
+          "tweet_count": 5611
+        },
+        "username": "CoFfffEeeeE1",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-01T13:04:55.000Z",
+        "description": "=达利亚 什么圈都搞/enby，泛性恋🏳️‍🌈/欢迎互fo 金采源毒唯🐆🐯 偶尔在互联网上释放善意 彩虹友好🌈非ally顺直群体视奸一律全家OK爆炸",
+        "id": "1741807657110147073",
+        "location": "你的右心室",
+        "name": "鳄鱼🐊汉民族解放军耄耋归来，特色匪徒、新自孝子、满鞑蛔虫末日到来",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011449466013016064/Ui6pP2aX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 151,
+          "like_count": 2184,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 521
+        },
+        "username": "yan_huan92807",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-07T15:27:45.000Z",
+        "description": "请息交以绝游\nod/术力口 平泽进/双/自我厌恶/cs2 gal/欢迎聊天/男",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/usep_111",
+                "end": 23,
+                "expanded_url": "https://ngl.link/usep_111",
+                "start": 0,
+                "url": "https://t.co/Lu4Wy2XYji"
+              }
+            ]
+          }
+        },
+        "id": "1500855672480489475",
+        "name": "卡塔丽娜",
+        "pinned_tweet_id": "1997003294007591248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028113867411517440/lN0F3xhh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 533,
+          "following_count": 722,
+          "like_count": 2962,
+          "listed_count": 0,
+          "media_count": 119,
+          "tweet_count": 1396
+        },
+        "url": "https://t.co/Lu4Wy2XYji",
+        "username": "Science_010",
+        "verified": false
+      }
+    ]
+  }
+}

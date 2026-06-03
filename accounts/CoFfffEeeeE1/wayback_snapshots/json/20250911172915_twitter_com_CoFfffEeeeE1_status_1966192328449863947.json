@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596719791661715458",
+    "conversation_id": "1966159588140732657",
+    "created_at": "2025-09-11T17:29:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-11T18:29:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1966192328449863947"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1804188039465570311",
+          "start": 0,
+          "username": "imyuanmissu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1966192328449863947",
+    "in_reply_to_user_id": "1804188039465570311",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966159588140732657",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@imyuanmissu 谢谢先生"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596719791661715458",
+        "conversation_id": "1966159588140732657",
+        "created_at": "2025-09-11T17:29:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-11T18:29:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966192328449863947"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1804188039465570311",
+              "start": 0,
+              "username": "imyuanmissu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966192328449863947",
+        "in_reply_to_user_id": "1804188039465570311",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966159588140732657",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@imyuanmissu 谢谢先生"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804188039465570311",
+        "conversation_id": "1966159588140732657",
+        "created_at": "2025-09-11T15:19:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-11T16:19:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1966159588140732657"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1966159588140732657",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 557,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大一新生有病吧卧槽管别人叫先生我要笑死了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-27T04:17:31.000Z",
+        "description": "⚧️青蛙/咖啡/代词是She或单数They \n🏳️‍⚧️MtX/Pan/酷儿/雌激素服用中\n💍天下第一喜欢@shudesu00\n👽商科/数学/编程\n💤Overdose\n🧠边缘型人格障碍\n🍥04年生/17年hrt\n⚠️血图/裸图\n🗞️汉语/English/français\n✋顺直男退散",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "shudesu00"
+              }
+            ]
+          }
+        },
+        "id": "1596719791661715458",
+        "name": "CoFfffEeeeE",
+        "pinned_tweet_id": "1906345611391373747",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863941997414977537/NOGgaInd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 462,
+          "following_count": 748,
+          "like_count": 17822,
+          "listed_count": 1,
+          "media_count": 937,
+          "tweet_count": 5279
+        },
+        "username": "CoFfffEeeeE1",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-21T16:22:11.000Z",
+        "description": "朋友都说我是个恋家的人脾气怪。",
+        "id": "1804188039465570311",
+        "name": "隐耳",
+        "pinned_tweet_id": "1957474459662553526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965323442707636224/iHxlEc9y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1300,
+          "following_count": 81,
+          "like_count": 12114,
+          "listed_count": 2,
+          "media_count": 407,
+          "tweet_count": 5802
+        },
+        "username": "imyuanmissu",
+        "verified": false
+      }
+    ]
+  }
+}

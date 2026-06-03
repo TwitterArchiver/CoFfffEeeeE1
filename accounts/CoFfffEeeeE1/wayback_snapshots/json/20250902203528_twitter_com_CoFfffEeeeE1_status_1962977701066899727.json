@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596719791661715458",
+    "conversation_id": "1962698413910474964",
+    "created_at": "2025-09-02T20:35:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-02T21:35:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962977701066899727"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1632413902985383937",
+          "start": 0,
+          "username": "NotLabeledhuman"
+        },
+        {
+          "end": 33,
+          "id": "888172653881638912",
+          "start": 17,
+          "username": "yovartija_nattv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962977701066899727",
+    "in_reply_to_user_id": "1632413902985383937",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1962811139752108458",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NotLabeledhuman @yovartija_nattv 不要玷污鸡腿堡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596719791661715458",
+        "conversation_id": "1962698413910474964",
+        "created_at": "2025-09-02T20:35:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-02T21:35:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962977701066899727"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1632413902985383937",
+              "start": 0,
+              "username": "NotLabeledhuman"
+            },
+            {
+              "end": 33,
+              "id": "888172653881638912",
+              "start": 17,
+              "username": "yovartija_nattv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962977701066899727",
+        "in_reply_to_user_id": "1632413902985383937",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962811139752108458",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NotLabeledhuman @yovartija_nattv 不要玷污鸡腿堡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1632413902985383937",
+        "conversation_id": "1962698413910474964",
+        "created_at": "2025-09-02T09:33:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-02T10:33:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962811139752108458"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "888172653881638912",
+              "start": 0,
+              "username": "yovartija_nattv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962811139752108458",
+        "in_reply_to_user_id": "888172653881638912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 254,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962698413910474964",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yovartija_nattv 全是据说，听说，传说，还是公众号发的，我靠这实在太可信了\n但为什么你们宁愿信这个也不愿意信我是秦始皇？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-27T04:17:31.000Z",
+        "description": "⚧️青蛙/咖啡/代词是She或单数They \n🏳️‍⚧️MtX/Pan/酷儿/雌激素服用中\n💍天下第一喜欢@shudesu00\n👽商科/数学/编程\n💤Overdose\n🧠边缘型人格障碍\n🍥04年生/17年hrt\n⚠️血图/裸图\n🗞️汉语/English/français\n✋顺直男退散",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "shudesu00"
+              }
+            ]
+          }
+        },
+        "id": "1596719791661715458",
+        "name": "CoFfffEeeeE",
+        "pinned_tweet_id": "1906345611391373747",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863941997414977537/NOGgaInd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 459,
+          "following_count": 749,
+          "like_count": 17638,
+          "listed_count": 1,
+          "media_count": 937,
+          "tweet_count": 5234
+        },
+        "username": "CoFfffEeeeE1",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-05T16:13:05.000Z",
+        "description": "整块多汁鲜嫩无骨鸡腿排，搭配爽脆青菜， 夹入现烤方包，香气四溢，肉感十足！主要原料：鸡翅，生菜，面包。",
+        "id": "1632413902985383937",
+        "location": "肯德基",
+        "name": "新奥尔良烤鸡腿堡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864357391288168448/Fon2kUMq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 955,
+          "following_count": 331,
+          "like_count": 37861,
+          "listed_count": 4,
+          "media_count": 3764,
+          "tweet_count": 32169
+        },
+        "username": "NotLabeledhuman",
+        "verified": false
+      },
+      {
+        "created_at": "2017-07-20T23:03:56.000Z",
+        "description": "Nonbinary of Tzeentch (她/she)\\Asexual\\North East Asia Study\\Pirate/SISU/Nihil\\Proud of what I am !\\辽北精神分析研究所\\AI创业中\\Bluesky:@yovahti.bsky.social",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 131,
+                "start": 123,
+                "username": "yovahti"
+              }
+            ]
+          }
+        },
+        "id": "888172653881638912",
+        "location": "IP属地：东北亚",
+        "name": "Yö/ttevakt|sama🏴‍☠️🇫🇮🏴",
+        "pinned_tweet_id": "1774675363718955425",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1901410800423870464/P2yAUWIe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10136,
+          "following_count": 782,
+          "like_count": 44260,
+          "listed_count": 43,
+          "media_count": 1248,
+          "tweet_count": 5072
+        },
+        "username": "yovartija_nattv",
+        "verified": true
+      }
+    ]
+  }
+}

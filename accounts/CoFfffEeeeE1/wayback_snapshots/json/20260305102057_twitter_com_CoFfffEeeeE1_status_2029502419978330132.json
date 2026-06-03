@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596719791661715458",
+    "conversation_id": "2029467467119268272",
+    "created_at": "2026-03-05T10:20:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-05T11:20:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029502419978330132"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1739591003559088128",
+          "start": 0,
+          "username": "ShiYou62377"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029502419978330132",
+    "in_reply_to_user_id": "1739591003559088128",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029467467119268272",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ShiYou62377 我比较常用晕车药"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596719791661715458",
+        "conversation_id": "2029467467119268272",
+        "created_at": "2026-03-05T10:20:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T11:20:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029502419978330132"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1739591003559088128",
+              "start": 0,
+              "username": "ShiYou62377"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029502419978330132",
+        "in_reply_to_user_id": "1739591003559088128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029467467119268272",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ShiYou62377 我比较常用晕车药"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739591003559088128",
+        "conversation_id": "2029467467119268272",
+        "created_at": "2026-03-05T08:02:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T09:02:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029467467119268272"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2029467467119268272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 330,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "原来你们o玉米会吃止吐药，难怪我一直呕吐"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-27T04:17:31.000Z",
+        "description": "⚧️青蛙/咖啡/代词是She或单数They \n🏳️‍⚧️MtX/Pan/酷儿/雌激素服用中\n💍天下第一喜欢 @shudesu00\n👽商科/数学/编程\n💤Overdose\n🧠边缘型人格障碍\n🍥04年生/17年hrt\n⚠️血图/裸图\n🗞️汉语/English/français\n✋顺直男退散",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 54,
+                "username": "shudesu00"
+              }
+            ]
+          }
+        },
+        "id": "1596719791661715458",
+        "name": "CoFfffEeeeE",
+        "pinned_tweet_id": "1906345611391373747",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026209866541604864/gGLpjUl4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 465,
+          "following_count": 726,
+          "like_count": 18961,
+          "listed_count": 1,
+          "media_count": 958,
+          "tweet_count": 5508
+        },
+        "username": "CoFfffEeeeE1",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-26T10:16:37.000Z",
+        "description": "我叫小沋｜谢谢你来看我!｜⬇️是匿名提问箱｜请投喂我吧!｜",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E6%B…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E6%B2%8B",
+                "start": 0,
+                "url": "https://t.co/l2NtAain6j"
+              }
+            ]
+          }
+        },
+        "id": "1739591003559088128",
+        "location": "天堂",
+        "name": "十沋",
+        "pinned_tweet_id": "2014806667360444630",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004983552673271808/qy2-b8Sx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 335,
+          "following_count": 165,
+          "like_count": 14363,
+          "listed_count": 0,
+          "media_count": 310,
+          "tweet_count": 3490
+        },
+        "url": "https://t.co/l2NtAain6j",
+        "username": "ShiYou62377",
+        "verified": false
+      }
+    ]
+  }
+}

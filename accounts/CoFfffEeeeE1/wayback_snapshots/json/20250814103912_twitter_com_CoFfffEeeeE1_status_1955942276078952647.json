@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596719791661715458",
+    "conversation_id": "1955568624288301224",
+    "created_at": "2025-08-14T10:39:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-14T11:39:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955942276078952647"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1672989064985714695",
+          "start": 0,
+          "username": "kokomiovo33"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955942276078952647",
+    "in_reply_to_user_id": "1672989064985714695",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955568624288301224",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kokomiovo33 我带杀人犯强奸犯嫖虫滤镜看男生"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596719791661715458",
+        "conversation_id": "1955568624288301224",
+        "created_at": "2025-08-14T10:39:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-14T11:39:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955942276078952647"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1672989064985714695",
+              "start": 0,
+              "username": "kokomiovo33"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955942276078952647",
+        "in_reply_to_user_id": "1672989064985714695",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955568624288301224",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kokomiovo33 我带杀人犯强奸犯嫖虫滤镜看男生"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672989064985714695",
+        "conversation_id": "1955568624288301224",
+        "created_at": "2025-08-13T09:54:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-13T10:54:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1955568624288301224"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1955568624288301224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 39,
+          "impression_count": 186918,
+          "like_count": 1674,
+          "quote_count": 9,
+          "reply_count": 62,
+          "retweet_count": 36
+        },
+        "reply_settings": "everyone",
+        "text": "不公平…男的带着av滤镜看女生，女的带着偶像剧滤镜看男生……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-27T04:17:31.000Z",
+        "description": "⚧️青蛙/咖啡/代词是She或单数They \n🏳️‍⚧️MtX/Pan/酷儿/雌激素服用中\n💍天下第一喜欢@shudesu00\n👽商科/数学/编程\n💤Overdose\n🧠边缘型人格障碍\n🍥04年生/17年hrt\n⚠️血图/裸图\n🗞️汉语/English/français\n✋顺直男退散",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "shudesu00"
+              }
+            ]
+          }
+        },
+        "id": "1596719791661715458",
+        "name": "CoFfffEeeeE",
+        "pinned_tweet_id": "1906345611391373747",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863941997414977537/NOGgaInd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 451,
+          "following_count": 744,
+          "like_count": 17292,
+          "listed_count": 0,
+          "media_count": 937,
+          "tweet_count": 5179
+        },
+        "username": "CoFfffEeeeE1",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-25T15:24:28.000Z",
+        "description": "OK啊又爱上🚪哥了/‼️置顶推广自辨‼️‼️没有电报‼️自用vpn：https://t.co/XmALWSICVr",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "so.sulink.life/#/register?cod…",
+                "end": 57,
+                "expanded_url": "https://so.sulink.life/#/register?code=10G6JBh5",
+                "start": 34,
+                "url": "https://t.co/XmALWSICVr"
+              }
+            ]
+          }
+        },
+        "id": "1672989064985714695",
+        "location": "有对象 不过门槛，别问了，除了互关宝宝，不加联系方式",
+        "name": "小睡补药睡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888008977717383168/KgIFaKDx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32662,
+          "following_count": 146,
+          "like_count": 4014,
+          "listed_count": 57,
+          "media_count": 55,
+          "tweet_count": 2845
+        },
+        "username": "kokomiovo33",
+        "verified": false
+      }
+    ]
+  }
+}

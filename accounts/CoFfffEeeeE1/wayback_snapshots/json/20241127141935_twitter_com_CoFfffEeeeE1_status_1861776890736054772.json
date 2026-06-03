@@ -1,0 +1,142 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1861776848515899392"
+      ]
+    },
+    "author_id": "1596719791661715458",
+    "conversation_id": "1861776890736054772",
+    "created_at": "2024-11-27T14:19:35.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-27T15:19:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1861776890736054772"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/OcWdVF1sn5",
+          "end": 25,
+          "expanded_url": "https://x.com/CoFfffEeeeE1/status/1861776890736054772/photo/1",
+          "media_key": "3_1861776848515899392",
+          "start": 2,
+          "url": "https://t.co/OcWdVF1sn5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1861776890736054772",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "光 https://t.co/OcWdVF1sn5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1861776848515899392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GdZcLfrWIAAULFj.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1861776848515899392"
+          ]
+        },
+        "author_id": "1596719791661715458",
+        "conversation_id": "1861776890736054772",
+        "created_at": "2024-11-27T14:19:35.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-27T15:19:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1861776890736054772"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OcWdVF1sn5",
+              "end": 25,
+              "expanded_url": "https://x.com/CoFfffEeeeE1/status/1861776890736054772/photo/1",
+              "media_key": "3_1861776848515899392",
+              "start": 2,
+              "url": "https://t.co/OcWdVF1sn5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1861776890736054772",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "光 https://t.co/OcWdVF1sn5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-27T04:17:31.000Z",
+        "description": "⚧️青蛙/咖啡/代词是She或单数They \n🏳️‍⚧️MtX/Pan/酷儿/雌激素服用中\n💍天下第一喜欢@shudesu00\n👽商科/数学/编程\n💤Overdose\n🧠边缘型人格障碍\n🍥04年生/17年hrt/19年断药/20年二周目\n⚠️血图/裸图\n🛸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "shudesu00"
+              }
+            ]
+          }
+        },
+        "id": "1596719791661715458",
+        "name": "CoFfffEeeeE",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1856389216047116288/T0Q91ZGq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 465,
+          "following_count": 783,
+          "like_count": 15455,
+          "listed_count": 0,
+          "tweet_count": 4547
+        },
+        "username": "CoFfffEeeeE1",
+        "verified": false
+      }
+    ]
+  }
+}

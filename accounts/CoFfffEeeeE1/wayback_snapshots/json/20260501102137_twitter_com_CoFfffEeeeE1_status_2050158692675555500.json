@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596719791661715458",
+    "conversation_id": "2050148070382616685",
+    "created_at": "2026-05-01T10:21:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T11:21:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050158692675555500"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1820838373512359936",
+          "start": 0,
+          "username": "youyou_726"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050158692675555500",
+    "in_reply_to_user_id": "1820838373512359936",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050148070382616685",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@youyou_726 孩子你咋了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596719791661715458",
+        "conversation_id": "2050148070382616685",
+        "created_at": "2026-05-01T10:21:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T11:21:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050158692675555500"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1820838373512359936",
+              "start": 0,
+              "username": "youyou_726"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050158692675555500",
+        "in_reply_to_user_id": "1820838373512359936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050148070382616685",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youyou_726 孩子你咋了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1820838373512359936",
+        "conversation_id": "2050148070382616685",
+        "created_at": "2026-05-01T09:39:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T10:39:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050148070382616685"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2050148070382616685",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我在天上失禁的看着你们"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-27T04:17:31.000Z",
+        "description": "⚧️青蛙/咖啡/代词是She或单数They \n🏳️‍⚧️MtX/Pan/酷儿/雌激素服用中\n💍\n👽商科/数学/编程\n💤\n🧠边缘型人格障碍\n🍥04年生/17年hrt\n⚠️血图/裸图\n🗞️汉语/English/français\n✋顺直男退散",
+        "id": "1596719791661715458",
+        "name": "CoFfffEeeeE",
+        "pinned_tweet_id": "1906345611391373747",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026209866541604864/gGLpjUl4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 473,
+          "following_count": 726,
+          "like_count": 20319,
+          "listed_count": 1,
+          "media_count": 978,
+          "tweet_count": 5795
+        },
+        "username": "CoFfffEeeeE1",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-06T15:04:47.000Z",
+        "description": "🚪88  我很温良找我玩",
+        "id": "1820838373512359936",
+        "name": "悠悠",
+        "pinned_tweet_id": "2007054246567629132",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918287850472341504/Q3vixHP7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4134,
+          "following_count": 123,
+          "like_count": 1598,
+          "listed_count": 5,
+          "media_count": 129,
+          "tweet_count": 1798
+        },
+        "username": "youyou_726",
+        "verified": false
+      }
+    ]
+  }
+}

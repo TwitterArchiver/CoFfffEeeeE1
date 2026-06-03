@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596719791661715458",
+    "conversation_id": "1966445354871652721",
+    "created_at": "2025-09-13T08:40:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-13T09:40:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1966783997494644974"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1795785939438215168",
+          "start": 0,
+          "username": "EMeowSys"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1966783997494644974",
+    "in_reply_to_user_id": "1795785939438215168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966445354871652721",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@EMeowSys 因为这些符号本来就是我们的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596719791661715458",
+        "conversation_id": "1966445354871652721",
+        "created_at": "2025-09-13T08:40:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-13T09:40:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966783997494644974"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1795785939438215168",
+              "start": 0,
+              "username": "EMeowSys"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966783997494644974",
+        "in_reply_to_user_id": "1795785939438215168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966445354871652721",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EMeowSys 因为这些符号本来就是我们的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1795785939438215168",
+        "conversation_id": "1966445354871652721",
+        "created_at": "2025-09-12T10:14:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-12T11:14:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966445354871652721"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1966445354871652721",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 7476,
+          "like_count": 38,
+          "quote_count": 6,
+          "reply_count": 22,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我突然好奇。为什么性少数群体需要用一个符号，尤其是一个被政治集团污染/污名化的符号(即LGBT+/彩色旗)表示自己？\n在群体与政治紧密链接的地方还好说，但是在不紧密的地方，用这样一个被政治污染的符号，不就像是把\"我要搞政治入侵\"写脸上了吗（思考）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-27T04:17:31.000Z",
+        "description": "⚧️青蛙/咖啡/代词是She或单数They \n🏳️‍⚧️MtX/Pan/酷儿/雌激素服用中\n💍天下第一喜欢@shudesu00\n👽商科/数学/编程\n💤Overdose\n🧠边缘型人格障碍\n🍥04年生/17年hrt\n⚠️血图/裸图\n🗞️汉语/English/français\n✋顺直男退散",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "shudesu00"
+              }
+            ]
+          }
+        },
+        "id": "1596719791661715458",
+        "name": "CoFfffEeeeE",
+        "pinned_tweet_id": "1906345611391373747",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863941997414977537/NOGgaInd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 464,
+          "following_count": 746,
+          "like_count": 17881,
+          "listed_count": 1,
+          "media_count": 937,
+          "tweet_count": 5299
+        },
+        "username": "CoFfffEeeeE1",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-29T11:55:18.000Z",
+        "description": "这里易喵系统/末影猫/BG5CYK\n自发型/创伤型多意识体\nCN/EN/JP学习中\n社交渴望\n墙内活跃\n二次元/业余无线电/轨道交通/程序设计/Minecraft",
+        "id": "1795785939438215168",
+        "location": "虚空中的易喵系统",
+        "name": "易喵系统(末影猫Project)",
+        "pinned_tweet_id": "1871807716202791352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1795786104316272640/IXVNkPY1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 638,
+          "following_count": 1596,
+          "like_count": 5055,
+          "listed_count": 5,
+          "media_count": 305,
+          "tweet_count": 3138
+        },
+        "username": "EMeowSys",
+        "verified": false
+      }
+    ]
+  }
+}

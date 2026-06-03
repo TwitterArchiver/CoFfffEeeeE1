@@ -1,0 +1,166 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596719791661715458",
+    "conversation_id": "1884110089394733439",
+    "created_at": "2025-01-28T05:28:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-28T06:28:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1884111292094701726"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1518296763488108544",
+          "start": 0,
+          "username": "1012with0701"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1884111292094701726",
+    "in_reply_to_user_id": "1518296763488108544",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1884110089394733439",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1012with0701 困在高中了，我也会"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1884110089394733439].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1884110089394733439",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1884110089394733439"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596719791661715458",
+        "conversation_id": "1884110089394733439",
+        "created_at": "2025-01-28T05:28:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-28T06:28:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1884111292094701726"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1518296763488108544",
+              "start": 0,
+              "username": "1012with0701"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884111292094701726",
+        "in_reply_to_user_id": "1518296763488108544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1884110089394733439",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1012with0701 困在高中了，我也会"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-27T04:17:31.000Z",
+        "description": "⚧️青蛙/咖啡/代词是She或单数They \n🏳️‍⚧️MtX/Pan/酷儿/雌激素服用中\n💍天下第一喜欢@shudesu00\n👽商科/数学/编程\n💤Overdose\n🧠边缘型人格障碍\n🍥04年生/17年hrt/19年断药/20年二周目\n⚠️血图/裸图\n🗞️汉语/English/français\n🛸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "shudesu00"
+              }
+            ]
+          }
+        },
+        "id": "1596719791661715458",
+        "name": "CoFfffEeeeE",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863941997414977537/NOGgaInd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 465,
+          "following_count": 781,
+          "like_count": 16375,
+          "listed_count": 0,
+          "media_count": 837,
+          "tweet_count": 4777
+        },
+        "username": "CoFfffEeeeE1",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-24T18:32:26.000Z",
+        "description": "",
+        "id": "1518296763488108544",
+        "name": "小右和呜咪也是一种右咪",
+        "pinned_tweet_id": "1812130185568993731",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839356033644589056/WDnTLW_z_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 256,
+          "like_count": 2220,
+          "listed_count": 1,
+          "media_count": 168,
+          "tweet_count": 1764
+        },
+        "username": "1012with0701",
+        "verified": false
+      }
+    ]
+  }
+}

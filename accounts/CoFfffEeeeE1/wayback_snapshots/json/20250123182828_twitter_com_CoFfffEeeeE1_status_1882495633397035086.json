@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596719791661715458",
+    "conversation_id": "1882018115791548906",
+    "created_at": "2025-01-23T18:28:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-23T19:28:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1882495633397035086"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1547158970019840001",
+          "start": 0,
+          "username": "Pierrotlefouu_"
+        },
+        {
+          "end": 23,
+          "id": "1507396901594820608",
+          "start": 16,
+          "username": "hgds01"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1882495633397035086",
+    "in_reply_to_user_id": "1547158970019840001",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1882310419748094307",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Pierrotlefouu_ @hgds01 “大鸡巴不躲——傻逼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596719791661715458",
+        "conversation_id": "1882018115791548906",
+        "created_at": "2025-01-23T18:28:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-23T19:28:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1882495633397035086"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1547158970019840001",
+              "start": 0,
+              "username": "Pierrotlefouu_"
+            },
+            {
+              "end": 23,
+              "id": "1507396901594820608",
+              "start": 16,
+              "username": "hgds01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1882495633397035086",
+        "in_reply_to_user_id": "1547158970019840001",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1882310419748094307",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Pierrotlefouu_ @hgds01 “大鸡巴不躲——傻逼"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1882310411544092672"
+          ]
+        },
+        "author_id": "1547158970019840001",
+        "conversation_id": "1882018115791548906",
+        "created_at": "2025-01-23T06:12:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-23T07:12:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1882310419748094307"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1507396901594820608",
+              "start": 0,
+              "username": "hgds01"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZOE7dwriwA",
+              "end": 45,
+              "expanded_url": "https://x.com/Pierrotlefouu_/status/1882310419748094307/photo/1",
+              "media_key": "3_1882310411544092672",
+              "start": 22,
+              "url": "https://t.co/ZOE7dwriwA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1882310419748094307",
+        "in_reply_to_user_id": "1507396901594820608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 31792,
+          "like_count": 318,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "1882018115791548906",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hgds01 不是啊 王朔说过傻逼的来头 https://t.co/ZOE7dwriwA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-27T04:17:31.000Z",
+        "description": "⚧️青蛙/咖啡/代词是She或单数They \n🏳️‍⚧️MtX/Pan/酷儿/雌激素服用中\n💍天下第一喜欢@shudesu00\n👽商科/数学/编程\n💤Overdose\n🧠边缘型人格障碍\n🍥04年生/17年hrt/19年断药/20年二周目\n⚠️血图/裸图\n🗞️汉语/English/français\n🛸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "shudesu00"
+              }
+            ]
+          }
+        },
+        "id": "1596719791661715458",
+        "name": "CoFfffEeeeE",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863941997414977537/NOGgaInd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 468,
+          "following_count": 787,
+          "like_count": 16351,
+          "listed_count": 0,
+          "media_count": 832,
+          "tweet_count": 4761
+        },
+        "username": "CoFfffEeeeE1",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-13T10:00:29.000Z",
+        "description": "老派刺客",
+        "id": "1547158970019840001",
+        "name": "我們時代的愛無能",
+        "pinned_tweet_id": "1797631830663053389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858141372848705536/_Z0_PlE__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1209,
+          "following_count": 355,
+          "like_count": 10357,
+          "listed_count": 5,
+          "media_count": 90,
+          "tweet_count": 1039
+        },
+        "username": "Pierrotlefouu_",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-25T16:40:26.000Z",
+        "description": "感谢你的关注 接受投稿 过稿即回复",
+        "id": "1507396901594820608",
+        "name": "恋",
+        "pinned_tweet_id": "1881625316902498622",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853640703144046592/OC2mQ87G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57307,
+          "following_count": 2882,
+          "like_count": 40254,
+          "listed_count": 71,
+          "media_count": 1310,
+          "tweet_count": 5511
+        },
+        "username": "hgds01",
+        "verified": false
+      }
+    ]
+  }
+}

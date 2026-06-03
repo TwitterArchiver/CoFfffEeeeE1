@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596719791661715458",
+    "conversation_id": "1823751680351199684",
+    "created_at": "2024-08-15T05:28:46.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-15T06:28:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1823954968975696272"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1339446920511569920",
+          "start": 0,
+          "username": "shudesu00"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1823954968975696272",
+    "in_reply_to_user_id": "1339446920511569920",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1823751680351199684",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shudesu00 老公么么哒生日快乐天天快乐永远陪你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596719791661715458",
+        "conversation_id": "1823751680351199684",
+        "created_at": "2024-08-15T05:28:46.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-15T06:28:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1823954968975696272"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1339446920511569920",
+              "start": 0,
+              "username": "shudesu00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1823954968975696272",
+        "in_reply_to_user_id": "1339446920511569920",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1823751680351199684",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shudesu00 老公么么哒生日快乐天天快乐永远陪你"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1823751664530329600"
+          ]
+        },
+        "author_id": "1339446920511569920",
+        "conversation_id": "1823751680351199684",
+        "created_at": "2024-08-14T16:00:58.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-14T17:00:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1823751680351199684"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9augtqtqi7",
+              "end": 49,
+              "expanded_url": "https://twitter.com/shudesu00/status/1823751680351199684/photo/1",
+              "media_key": "3_1823751664530329600",
+              "start": 26,
+              "url": "https://t.co/9aUgTqTQi7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1823751680351199684",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1407,
+          "like_count": 42,
+          "quote_count": 0,
+          "reply_count": 19,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天是我阴历生日 老婆给我唱生日歌 陪我打生日针✨ https://t.co/9aUgTqTQi7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-27T04:17:31.000Z",
+        "description": "⚧️青蛙/咖啡/代词是She或单数They \n🏳️‍⚧️MtF/Pan/酷儿/雌激素服用中\n🥰天下第一喜欢@shudesu00\n👽商科/数学/编程\n💤Overdose\n😨边缘型人格障碍\n🍥04年生/17年hrt/19年断药/20年二周目\n⚠️血图/裸图\n🛸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "shudesu00"
+              }
+            ]
+          }
+        },
+        "id": "1596719791661715458",
+        "name": "CoFfffEeeeE",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1814031845924745216/CGZcvd50_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 427,
+          "following_count": 771,
+          "like_count": 12201,
+          "listed_count": 0,
+          "tweet_count": 3402
+        },
+        "username": "CoFfffEeeeE1",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-17T05:46:58.000Z",
+        "description": "FtxHrt_intp_双相_aspd_习惯性点赞_同成分互fo请直来💍 蛙宝重度依赖@CoFfffEeeeE1 【一次性电子烟75-85r包邮、悦刻五代180r、悦刻五代弹90r一盒包邮。纸外烟代，散拼：1包起发/邮费15、成条包邮单独报价，买烟请私信",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 43,
+                "username": "CoFfffEeeeE1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xyz004.damoplane.xyz/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://xyz004.damoplane.xyz/#/register?code=bfQLBSKc",
+                "start": 0,
+                "url": "https://t.co/Q2KGYjKxQ2"
+              }
+            ]
+          }
+        },
+        "id": "1339446920511569920",
+        "location": "自用vpn➡️",
+        "name": "小树（电子烟/外烟代）",
+        "pinned_tweet_id": "1792758274967953516",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1818517642342457344/W-xtl8gN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3080,
+          "following_count": 1995,
+          "like_count": 96433,
+          "listed_count": 2,
+          "tweet_count": 11686
+        },
+        "url": "https://t.co/Q2KGYjKxQ2",
+        "username": "shudesu00",
+        "verified": false
+      }
+    ]
+  }
+}

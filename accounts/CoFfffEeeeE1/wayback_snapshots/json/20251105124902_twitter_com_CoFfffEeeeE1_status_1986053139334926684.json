@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596719791661715458",
+    "conversation_id": "1986053139334926684",
+    "created_at": "2025-11-05T12:49:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-05T13:49:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1986053139334926684"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "小树’s Space · 0 listening · Where live audio conversations happen",
+          "display_url": "x.com/i/spaces/1yNxa…",
+          "end": 23,
+          "expanded_url": "https://x.com/i/spaces/1yNxabdkwONKj",
+          "images": [
+            {
+              "height": 630,
+              "url": "https://pbs.twimg.com/news_img/1986047749645881344/DJ8GilEP?format=jpg&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1986047749645881344/DJ8GilEP?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 0,
+          "status": 200,
+          "title": "Happening now: odsps",
+          "unwound_url": "https://twitter.com/i/spaces/1yNxabdkwONKj/peek",
+          "url": "https://t.co/0uTT7mJwwa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986053139334926684",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/0uTT7mJwwa"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596719791661715458",
+        "conversation_id": "1986053139334926684",
+        "created_at": "2025-11-05T12:49:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-05T13:49:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986053139334926684"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "小树’s Space · 0 listening · Where live audio conversations happen",
+              "display_url": "x.com/i/spaces/1yNxa…",
+              "end": 23,
+              "expanded_url": "https://x.com/i/spaces/1yNxabdkwONKj",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/1986047749645881344/DJ8GilEP?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1986047749645881344/DJ8GilEP?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 0,
+              "status": 200,
+              "title": "Happening now: odsps",
+              "unwound_url": "https://twitter.com/i/spaces/1yNxabdkwONKj/peek",
+              "url": "https://t.co/0uTT7mJwwa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986053139334926684",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/0uTT7mJwwa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-27T04:17:31.000Z",
+        "description": "⚧️青蛙/咖啡/代词是She或单数They \n🏳️‍⚧️MtX/Pan/酷儿/雌激素服用中\n👽商科/数学/编程\n💤Overdose\n🧠边缘型人格障碍\n🍥04年生/17年hrt\n⚠️血图/裸图\n🗞️汉语/English/français\n✋顺直男退散",
+        "id": "1596719791661715458",
+        "name": "CoFfffEeeeE",
+        "pinned_tweet_id": "1906345611391373747",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863941997414977537/NOGgaInd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 464,
+          "following_count": 740,
+          "like_count": 17860,
+          "listed_count": 1,
+          "media_count": 938,
+          "tweet_count": 5301
+        },
+        "username": "CoFfffEeeeE1",
+        "verified": false
+      }
+    ]
+  }
+}

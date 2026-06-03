@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596719791661715458",
+    "conversation_id": "1916042817014505957",
+    "created_at": "2025-04-26T22:58:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-26T23:58:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1916265692128780722"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1345361439221972995",
+          "start": 0,
+          "username": "k3_erxzj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1916265692128780722",
+    "in_reply_to_user_id": "1345361439221972995",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1916042817014505957",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@k3_erxzj 神人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596719791661715458",
+        "conversation_id": "1916042817014505957",
+        "created_at": "2025-04-26T22:58:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-26T23:58:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1916265692128780722"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1345361439221972995",
+              "start": 0,
+              "username": "k3_erxzj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916265692128780722",
+        "in_reply_to_user_id": "1345361439221972995",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1916042817014505957",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@k3_erxzj 神人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1345361439221972995",
+        "conversation_id": "1916042817014505957",
+        "created_at": "2025-04-26T08:13:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-26T09:13:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1916042817014505957"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/UID660807512/s…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/UID660807512/status/1916004421634560013",
+              "start": 2,
+              "url": "https://t.co/gdxURhEsaT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916042817014505957",
+        "lang": "qst",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1055,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1916004421634560013",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "？ https://t.co/gdxURhEsaT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-27T04:17:31.000Z",
+        "description": "⚧️青蛙/咖啡/代词是She或单数They \n🏳️‍⚧️MtX/Pan/酷儿/雌激素服用中\n💍天下第一喜欢@shudesu00\n👽商科/数学/编程\n💤Overdose\n🧠边缘型人格障碍\n🍥04年生/17年hrt\n⚠️血图/裸图\n🗞️汉语/English/français\n✋顺直男退散",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "shudesu00"
+              }
+            ]
+          }
+        },
+        "id": "1596719791661715458",
+        "name": "CoFfffEeeeE",
+        "pinned_tweet_id": "1906345611391373747",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863941997414977537/NOGgaInd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 465,
+          "following_count": 767,
+          "like_count": 16994,
+          "listed_count": 0,
+          "media_count": 919,
+          "tweet_count": 4967
+        },
+        "username": "CoFfffEeeeE1",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-02T13:29:09.000Z",
+        "description": "跨女/女同，喜欢除了顺直男以外一切我认为好看的人  中文/français       这里没有正能量，只有我的故事\ntransfemme/lesbien，\nj'aime tous les personnes que je pense belle sauf l'homme cisgenre hétérosexuels",
+        "id": "1345361439221972995",
+        "location": "Paris, France",
+        "name": "柳成荫",
+        "pinned_tweet_id": "1816397717435740425",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1410271462049599496/0oEXbyX7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2864,
+          "following_count": 389,
+          "like_count": 1095,
+          "listed_count": 4,
+          "media_count": 131,
+          "tweet_count": 1565
+        },
+        "username": "k3_erxzj",
+        "verified": false
+      }
+    ]
+  }
+}

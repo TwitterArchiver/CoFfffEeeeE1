@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596719791661715458",
+    "conversation_id": "1963200356109746542",
+    "created_at": "2025-09-04T08:45:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-04T09:45:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1963523725979967755"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1214848661936455680",
+          "start": 0,
+          "username": "Courage4Free"
+        },
+        {
+          "end": 28,
+          "id": "1790831068729229312",
+          "start": 14,
+          "username": "Fkmaomaochong"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1963523725979967755",
+    "in_reply_to_user_id": "1214848661936455680",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1963352746213749222",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Courage4Free @Fkmaomaochong 男人保护女人就是打个巴掌再给个枣的意思"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596719791661715458",
+        "conversation_id": "1963200356109746542",
+        "created_at": "2025-09-04T08:45:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-04T09:45:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963523725979967755"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1214848661936455680",
+              "start": 0,
+              "username": "Courage4Free"
+            },
+            {
+              "end": 28,
+              "id": "1790831068729229312",
+              "start": 14,
+              "username": "Fkmaomaochong"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963523725979967755",
+        "in_reply_to_user_id": "1214848661936455680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963352746213749222",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Courage4Free @Fkmaomaochong 男人保护女人就是打个巴掌再给个枣的意思"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1214848661936455680",
+        "conversation_id": "1963200356109746542",
+        "created_at": "2025-09-03T21:25:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-03T22:25:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963352746213749222"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1790831068729229312",
+              "start": 0,
+              "username": "Fkmaomaochong"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963352746213749222",
+        "in_reply_to_user_id": "1790831068729229312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 4415,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963200356109746542",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Fkmaomaochong 男人不願上戰場的結果就是女人被敵方當性奴，孩童被洗腦，男人做苦力。\n你們要願意，別人無所謂的。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-27T04:17:31.000Z",
+        "description": "⚧️青蛙/咖啡/代词是She或单数They \n🏳️‍⚧️MtX/Pan/酷儿/雌激素服用中\n💍天下第一喜欢@shudesu00\n👽商科/数学/编程\n💤Overdose\n🧠边缘型人格障碍\n🍥04年生/17年hrt\n⚠️血图/裸图\n🗞️汉语/English/français\n✋顺直男退散",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "shudesu00"
+              }
+            ]
+          }
+        },
+        "id": "1596719791661715458",
+        "name": "CoFfffEeeeE",
+        "pinned_tweet_id": "1906345611391373747",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863941997414977537/NOGgaInd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 462,
+          "following_count": 748,
+          "like_count": 17690,
+          "listed_count": 1,
+          "media_count": 937,
+          "tweet_count": 5251
+        },
+        "username": "CoFfffEeeeE1",
+        "verified": false
+      },
+      {
+        "created_at": "2020-01-08T09:57:58.000Z",
+        "description": "既待天命\n而盡人事",
+        "id": "1214848661936455680",
+        "name": "臥眠仙人",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1221995583834996742/eAyDiqMo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 206,
+          "following_count": 483,
+          "like_count": 92559,
+          "listed_count": 8,
+          "media_count": 172,
+          "tweet_count": 19148
+        },
+        "username": "Courage4Free",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-15T19:47:54.000Z",
+        "description": "逻辑小猫没暹罗 ➡️ @qing2202",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 11,
+                "username": "qing2202"
+              }
+            ]
+          }
+        },
+        "id": "1790831068729229312",
+        "location": "极乐世界",
+        "name": "绒松松‎ •᷄ࡇ•᷅ ಣ",
+        "pinned_tweet_id": "1947626147451441464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903870962488987648/xXMjf-aw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43389,
+          "following_count": 41,
+          "like_count": 23982,
+          "listed_count": 49,
+          "media_count": 245,
+          "tweet_count": 6310
+        },
+        "username": "Fkmaomaochong",
+        "verified": false
+      }
+    ]
+  }
+}

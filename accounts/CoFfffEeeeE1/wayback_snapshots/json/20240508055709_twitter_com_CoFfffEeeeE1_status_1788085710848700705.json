@@ -1,0 +1,198 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1596719791661715458",
+    "conversation_id": "1787764351497105624",
+    "created_at": "2024-05-08T05:57:09.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-08T06:57:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1788085710848700705"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1714470702064283648",
+          "start": 0,
+          "username": "arifukyEl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1788085710848700705",
+    "in_reply_to_user_id": "1714470702064283648",
+    "lang": "qme",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1788023098727411723",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@arifukyEl 😩💔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1596719791661715458",
+        "conversation_id": "1787764351497105624",
+        "created_at": "2024-05-08T05:57:09.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-08T06:57:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1788085710848700705"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1714470702064283648",
+              "start": 0,
+              "username": "arifukyEl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1788085710848700705",
+        "in_reply_to_user_id": "1714470702064283648",
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1788023098727411723",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@arifukyEl 😩💔"
+      },
+      {
+        "attachments": {},
+        "author_id": "1714470702064283648",
+        "conversation_id": "1787764351497105624",
+        "created_at": "2024-05-08T01:48:21.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-08T02:48:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1788023098727411723"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1596719791661715458",
+              "start": 0,
+              "username": "CoFfffEeeeE1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1788023098727411723",
+        "in_reply_to_user_id": "1596719791661715458",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 85,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1787764351497105624",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CoFfffEeeeE1 右美唯一白月光"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-27T04:17:31.000Z",
+        "description": "⚧️青蛙/咖啡/代词是She或单数They \n🏳️‍⚧️MtF/Pan/酷儿/雌激素服用中\n🥰天下第一喜欢@KiNofeeling_\n👽商科/数学/编程\n💤Overdose\n😨边缘型人格障碍\n🍥04年生/17年hrt/19年断药/20年二周目\n⚠️血图/裸图\n🛸https://t.co/PIahmivMuL",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 53,
+                "username": "KiNofeeling_"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/CoFfffrog",
+                "end": 154,
+                "expanded_url": "https://t.me/CoFfffrog",
+                "start": 131,
+                "url": "https://t.co/PIahmivMuL"
+              }
+            ]
+          }
+        },
+        "id": "1596719791661715458",
+        "location": "闽东人",
+        "name": "CoFfffEeeeE",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1596720023166685185/UoIN_u73_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 336,
+          "following_count": 803,
+          "like_count": 8666,
+          "listed_count": 1,
+          "tweet_count": 2673
+        },
+        "username": "CoFfffEeeeE1",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-18T02:37:33.000Z",
+        "description": "见光死/🈲️线下/🈲️询问隐私/佛系玩推啦别为难我😿/不无偿加v",
+        "id": "1714470702064283648",
+        "name": "ArifukyLl Ii",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1781753214721024000/WD7wkDoI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 800,
+          "following_count": 26,
+          "like_count": 72,
+          "listed_count": 1,
+          "tweet_count": 37
+        },
+        "username": "arifukyEl",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596719791661715458",
+    "conversation_id": "1855685733513605582",
+    "created_at": "2024-11-11T02:28:44.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-11T03:28:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1855799792875794659"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1779154402588172288",
+          "start": 0,
+          "username": "_Nikisade"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1855799792875794659",
+    "in_reply_to_user_id": "1779154402588172288",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1855685733513605582",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_Nikisade 😭😭😭😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596719791661715458",
+        "conversation_id": "1855685733513605582",
+        "created_at": "2024-11-11T02:28:44.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-11T03:28:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1855799792875794659"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1779154402588172288",
+              "start": 0,
+              "username": "_Nikisade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1855799792875794659",
+        "in_reply_to_user_id": "1779154402588172288",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1855685733513605582",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_Nikisade 😭😭😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779154402588172288",
+        "conversation_id": "1855685733513605582",
+        "created_at": "2024-11-10T18:55:30.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-10T19:55:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1855685733513605582"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/gaogao722/stat…",
+              "end": 70,
+              "expanded_url": "https://twitter.com/gaogao722/status/1855105441363378534",
+              "start": 47,
+              "url": "https://t.co/Fz8JeLcvxL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1855685733513605582",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1570,
+          "like_count": 41,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1855105441363378534",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "废话本来十四五岁才是做黄推的黄金时间啊，我至今没能再拍出过比那时候自己的身体更易欲的图了…… https://t.co/Fz8JeLcvxL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-27T04:17:31.000Z",
+        "description": "⚧️青蛙/咖啡/代词是She或单数They \n🏳️‍⚧️MtX/Pan/酷儿/雌激素服用中\n💍天下第一喜欢@shudesu00\n👽商科/数学/编程\n💤Overdose\n🧠边缘型人格障碍\n🍥04年生/17年hrt/19年断药/20年二周目\n⚠️血图/裸图\n🛸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "shudesu00"
+              }
+            ]
+          }
+        },
+        "id": "1596719791661715458",
+        "name": "CoFfffEeeeE",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1833443600757362688/WLmVr9SG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 458,
+          "following_count": 785,
+          "like_count": 14857,
+          "listed_count": 0,
+          "tweet_count": 4379
+        },
+        "username": "CoFfffEeeeE1",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-13T14:35:04.000Z",
+        "description": "等我死掉，你就会拥有独一无二的阴雨天娃娃。\n\nBlueSky: @nikisade.bsky.social",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 32,
+                "username": "nikisade"
+              }
+            ]
+          }
+        },
+        "id": "1779154402588172288",
+        "location": "神々が恋した幻想郷",
+        "name": "小虚空🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843029545542119424/vphwWoiG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1370,
+          "following_count": 418,
+          "like_count": 86103,
+          "listed_count": 5,
+          "tweet_count": 15053
+        },
+        "username": "_Nikisade",
+        "verified": false
+      }
+    ]
+  }
+}

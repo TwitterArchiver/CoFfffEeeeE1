@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596719791661715458",
+    "conversation_id": "1940343581828678000",
+    "created_at": "2025-07-03T08:31:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-03T09:31:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1940689908647248218"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1600261024338399241",
+          "start": 0,
+          "username": "riinne39"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1940689908647248218",
+    "in_reply_to_user_id": "1600261024338399241",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1940343581828678000",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@riinne39 相册这东西连网什麽的就会封你，五六年前就开始了。平时用手机应用功能没事少开点，权限每个都该盯"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 801,
+        "media_key": "3_1940343568251359232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gu18MefWEAAk6Wn.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596719791661715458",
+        "conversation_id": "1940343581828678000",
+        "created_at": "2025-07-03T08:31:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-03T09:31:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1940689908647248218"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1600261024338399241",
+              "start": 0,
+              "username": "riinne39"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940689908647248218",
+        "in_reply_to_user_id": "1600261024338399241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1940343581828678000",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@riinne39 相册这东西连网什麽的就会封你，五六年前就开始了。平时用手机应用功能没事少开点，权限每个都该盯"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1940343568251359232"
+          ]
+        },
+        "author_id": "1600261024338399241",
+        "conversation_id": "1940343581828678000",
+        "created_at": "2025-07-02T09:35:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-02T10:35:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1940343581828678000"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gmaTLkQF1R",
+              "end": 77,
+              "expanded_url": "https://x.com/riinne39/status/1940343581828678000/photo/1",
+              "media_key": "3_1940343568251359232",
+              "start": 54,
+              "url": "https://t.co/gmaTLkQF1R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940343581828678000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 4674,
+          "like_count": 109,
+          "quote_count": 2,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "国产有一个算一个都是大傻逼 起码小米是 澎湃OS 2连隐私相册都要管涉不涉黄了？我不涉黄我在隐私相册干什么 https://t.co/gmaTLkQF1R"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-27T04:17:31.000Z",
+        "description": "⚧️青蛙/咖啡/代词是She或单数They \n🏳️‍⚧️MtX/Pan/酷儿/雌激素服用中\n💍天下第一喜欢@shudesu00\n👽商科/数学/编程\n💤Overdose\n🧠边缘型人格障碍\n🍥04年生/17年hrt\n⚠️血图/裸图\n🗞️汉语/English/français\n✋顺直男退散",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "shudesu00"
+              }
+            ]
+          }
+        },
+        "id": "1596719791661715458",
+        "name": "CoFfffEeeeE",
+        "pinned_tweet_id": "1906345611391373747",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863941997414977537/NOGgaInd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 456,
+          "following_count": 750,
+          "like_count": 17397,
+          "listed_count": 0,
+          "media_count": 932,
+          "tweet_count": 5061
+        },
+        "username": "CoFfffEeeeE1",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-06T22:49:22.000Z",
+        "description": "University of Bristol UG CS | UTC +1 time zone | English & Chinese available",
+        "id": "1600261024338399241",
+        "location": "United Kingdom",
+        "name": "Rinne",
+        "pinned_tweet_id": "1748763230988804362",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873953222273990656/xCYt1bp0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 475,
+          "following_count": 805,
+          "like_count": 19062,
+          "listed_count": 2,
+          "media_count": 635,
+          "tweet_count": 2588
+        },
+        "username": "riinne39",
+        "verified": false
+      }
+    ]
+  }
+}

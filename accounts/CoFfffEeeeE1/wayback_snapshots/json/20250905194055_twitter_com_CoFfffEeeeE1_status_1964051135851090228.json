@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596719791661715458",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "1963532187363594448",
+    "created_at": "2025-09-05T19:40:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-05T20:40:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1964051135851090228"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1287402082509545474",
+          "start": 0,
+          "username": "SF98964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1964051135851090228",
+    "in_reply_to_user_id": "1287402082509545474",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1963532187363594448",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SF98964 健康才能当老保"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 657,
+        "media_key": "3_1963532180199804932",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gz_eHVnbkAQ4eMt.jpg",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596719791661715458",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "1963532187363594448",
+        "created_at": "2025-09-05T19:40:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-05T20:40:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964051135851090228"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1287402082509545474",
+              "start": 0,
+              "username": "SF98964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964051135851090228",
+        "in_reply_to_user_id": "1287402082509545474",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963532187363594448",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SF98964 健康才能当老保"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1963532180199804932"
+          ]
+        },
+        "author_id": "1287402082509545474",
+        "conversation_id": "1963532187363594448",
+        "created_at": "2025-09-04T09:18:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-04T10:18:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1963532187363594448"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HXHlxUrQps",
+              "end": 117,
+              "expanded_url": "https://x.com/SF98964/status/1963532187363594448/photo/1",
+              "media_key": "3_1963532180199804932",
+              "start": 94,
+              "url": "https://t.co/HXHlxUrQps"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963532187363594448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 4754,
+          "like_count": 100,
+          "quote_count": 4,
+          "reply_count": 9,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "奴隶过的没有资本家好，是当了奴隶的错\n黑人过的没有白人好，是当了黑人的错\n女人过的没有男人好，是女人的错\n问是什么导致了精神压迫，都是自己想不开，不能做一个社会喜欢的样本人\n给保b唐完了 https://t.co/HXHlxUrQps"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-27T04:17:31.000Z",
+        "description": "⚧️青蛙/咖啡/代词是She或单数They \n🏳️‍⚧️MtX/Pan/酷儿/雌激素服用中\n💍天下第一喜欢@shudesu00\n👽商科/数学/编程\n💤Overdose\n🧠边缘型人格障碍\n🍥04年生/17年hrt\n⚠️血图/裸图\n🗞️汉语/English/français\n✋顺直男退散",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "shudesu00"
+              }
+            ]
+          }
+        },
+        "id": "1596719791661715458",
+        "name": "CoFfffEeeeE",
+        "pinned_tweet_id": "1906345611391373747",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863941997414977537/NOGgaInd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 462,
+          "following_count": 748,
+          "like_count": 17696,
+          "listed_count": 1,
+          "media_count": 937,
+          "tweet_count": 5257
+        },
+        "username": "CoFfffEeeeE1",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-26T14:59:23.000Z",
+        "description": "A United Federation of Planets Starship/Tweet in English, 中文 even 日本語 #GayMarriage #FuckTrump",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 82,
+                "start": 70,
+                "tag": "GayMarriage"
+              },
+              {
+                "end": 93,
+                "start": 83,
+                "tag": "FuckTrump"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "deviantart.com/survivorstudio",
+                "end": 23,
+                "expanded_url": "https://www.deviantart.com/survivorstudio",
+                "start": 0,
+                "url": "https://t.co/NqAnseBeCn"
+              }
+            ]
+          }
+        },
+        "id": "1287402082509545474",
+        "location": "早稲田植民地",
+        "name": "U.S.S. Renegade NCC-98964",
+        "pinned_tweet_id": "1873477500690702760",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1818677381328211968/IgkIRVKt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 405,
+          "following_count": 190,
+          "like_count": 5565,
+          "listed_count": 4,
+          "media_count": 1016,
+          "tweet_count": 11366
+        },
+        "url": "https://t.co/NqAnseBeCn",
+        "username": "SF98964",
+        "verified": false
+      }
+    ]
+  }
+}

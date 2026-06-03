@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596719791661715458",
+    "conversation_id": "2025870057419702490",
+    "created_at": "2026-02-23T14:39:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-23T15:39:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025943557459390524"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1880140645454725120",
+          "start": 0,
+          "username": "DianJ71828"
+        },
+        {
+          "end": 25,
+          "id": "1965448764686303235",
+          "start": 12,
+          "username": "mio_negimeow"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025943557459390524",
+    "in_reply_to_user_id": "1880140645454725120",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025871620376854631",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DianJ71828 @mio_negimeow 谁在跟风，虚空打靶，吃点药要不要政审"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596719791661715458",
+        "conversation_id": "2025870057419702490",
+        "created_at": "2026-02-23T14:39:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T15:39:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025943557459390524"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1880140645454725120",
+              "start": 0,
+              "username": "DianJ71828"
+            },
+            {
+              "end": 25,
+              "id": "1965448764686303235",
+              "start": 12,
+              "username": "mio_negimeow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025943557459390524",
+        "in_reply_to_user_id": "1880140645454725120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025871620376854631",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DianJ71828 @mio_negimeow 谁在跟风，虚空打靶，吃点药要不要政审"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880140645454725120",
+        "conversation_id": "2025870057419702490",
+        "created_at": "2026-02-23T09:53:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T10:53:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025871620376854631"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1965448764686303235",
+              "start": 0,
+              "username": "mio_negimeow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025871620376854631",
+        "in_reply_to_user_id": "1965448764686303235",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 141,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025870057419702490",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mio_negimeow 对啊，我没劝退啊？你为什么会理解为劝退呢？性别焦虑该吃吃啊？我从没说要劝退吧？我针对的是那种跟风的，再说了，劝退不对，难道劝入就对了？难道不是持中立态度？无论怎样，也应该是她觉得自己需要hrt才是最重要的吧。。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-27T04:17:31.000Z",
+        "description": "⚧️青蛙/咖啡/代词是She或单数They \n🏳️‍⚧️MtX/Pan/酷儿/雌激素服用中\n💍天下第一喜欢 @shudesu00\n👽商科/数学/编程\n💤Overdose\n🧠边缘型人格障碍\n🍥04年生/17年hrt\n⚠️血图/裸图\n🗞️汉语/English/français\n✋顺直男退散",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 54,
+                "username": "shudesu00"
+              }
+            ]
+          }
+        },
+        "id": "1596719791661715458",
+        "name": "CoFfffEeeeE",
+        "pinned_tweet_id": "1906345611391373747",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019821460827910144/GxCgBfQ7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 464,
+          "following_count": 726,
+          "like_count": 18592,
+          "listed_count": 1,
+          "media_count": 950,
+          "tweet_count": 5405
+        },
+        "username": "CoFfffEeeeE1",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-17T06:30:45.000Z",
+        "description": "跨女同💕/intp/闲聊推/持证含糖/我喜欢口嗨😋😋/入🚪52\\128\\256/互fo喵喵喵💀💀💀₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "id": "1880140645454725120",
+        "location": "火星～",
+        "name": "虚拟砂糖猫₍˄·͈༝·͈˄*₎◞ ̑̑🍥",
+        "pinned_tweet_id": "2016594805032423881",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963035861492367361/hXZj087A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1177,
+          "following_count": 735,
+          "like_count": 9938,
+          "listed_count": 0,
+          "media_count": 248,
+          "tweet_count": 1899
+        },
+        "username": "DianJ71828",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-09T16:14:58.000Z",
+        "description": "aka. Snowmiku❄️｜姛｜Feminist｜ 日常碎碎念\n是什么呢？顾名思义是一只葱，那为什么是酱葱呢，因为葱酱很可爱！（无端//）",
+        "id": "1965448764686303235",
+        "name": "酱葱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993376877587972104/nec22BPP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 609,
+          "following_count": 43,
+          "like_count": 276,
+          "listed_count": 1,
+          "media_count": 16,
+          "tweet_count": 175
+        },
+        "username": "mio_negimeow",
+        "verified": false
+      }
+    ]
+  }
+}

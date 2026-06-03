@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596719791661715458",
+    "conversation_id": "2055634499132883195",
+    "created_at": "2026-05-16T13:01:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T14:01:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055634742771581239"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1583317300152651776",
+          "start": 0,
+          "username": "Tsuki_NekoY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055634742771581239",
+    "in_reply_to_user_id": "1583317300152651776",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055634499132883195",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Tsuki_NekoY 小猫么么哒🐸💕💕"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596719791661715458",
+        "conversation_id": "2055634499132883195",
+        "created_at": "2026-05-16T13:01:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T14:01:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055634742771581239"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1583317300152651776",
+              "start": 0,
+              "username": "Tsuki_NekoY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055634742771581239",
+        "in_reply_to_user_id": "1583317300152651776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055634499132883195",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tsuki_NekoY 小猫么么哒🐸💕💕"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1583317300152651776",
+        "conversation_id": "2055634499132883195",
+        "created_at": "2026-05-16T13:00:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T14:00:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055634499132883195"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/coffffeeeee1/s…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/coffffeeeee1/status/2055575158602256469",
+              "start": 6,
+              "url": "https://t.co/7jUwdLHvcx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055634499132883195",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055575158602256469",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "小男女孩💕 https://t.co/7jUwdLHvcx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-27T04:17:31.000Z",
+        "description": "⚧️青蛙/咖啡/代词是She或单数They \n🏳️‍⚧️MtX/Pan/酷儿/雌激素服用中\n💍@shudesu00\n👽商科/数学/编程\n💤Overdose\n🧠边缘型人格障碍\n🍥04年生/17年hrt\n⚠️血图/裸图\n🗞️汉语/English/français\n✋顺直男退散",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 47,
+                "username": "shudesu00"
+              }
+            ]
+          }
+        },
+        "id": "1596719791661715458",
+        "name": "CoFfffEeeeE",
+        "pinned_tweet_id": "1906345611391373747",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026209866541604864/gGLpjUl4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 481,
+          "following_count": 732,
+          "like_count": 20700,
+          "listed_count": 0,
+          "media_count": 984,
+          "tweet_count": 5905
+        },
+        "username": "CoFfffEeeeE1",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-21T04:40:54.000Z",
+        "description": "転載禁止/已绝育/⚓️/🎀🐾/無性別/Sakuraの猫猫/➡️裏@SakuraNekosama/私信只回口令红包",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 32,
+                "username": "SakuraNekosama"
+              }
+            ]
+          }
+        },
+        "id": "1583317300152651776",
+        "location": "東京  🚪188/520",
+        "name": "Rikana",
+        "pinned_tweet_id": "1983203994878259244",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038313682460192768/aOXw17N0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4755,
+          "following_count": 61,
+          "like_count": 1931,
+          "listed_count": 15,
+          "media_count": 386,
+          "tweet_count": 2578
+        },
+        "username": "Tsuki_NekoY",
+        "verified": false
+      }
+    ]
+  }
+}

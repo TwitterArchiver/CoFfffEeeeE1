@@ -1,0 +1,172 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1596719791661715458",
+    "conversation_id": "1792474673906847745",
+    "created_at": "2024-05-21T09:20:52.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-21T10:20:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1792848021975192062"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "905595438471905280",
+          "start": 0,
+          "username": "quincy_wu_12"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1792848021975192062",
+    "in_reply_to_user_id": "905595438471905280",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1792474673906847745",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@quincy_wu_12 一般课前预习，然后上课听了，完了多看几遍然后再背会快些"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1596719791661715458",
+        "conversation_id": "1792474673906847745",
+        "created_at": "2024-05-21T09:20:52.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-21T10:20:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1792848021975192062"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "905595438471905280",
+              "start": 0,
+              "username": "quincy_wu_12"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1792848021975192062",
+        "in_reply_to_user_id": "905595438471905280",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1792474673906847745",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@quincy_wu_12 一般课前预习，然后上课听了，完了多看几遍然后再背会快些"
+      },
+      {
+        "attachments": {},
+        "author_id": "905595438471905280",
+        "conversation_id": "1792474673906847745",
+        "created_at": "2024-05-20T08:37:19.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-20T09:37:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1792474673906847745"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1792474673906847745",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 134,
+          "impression_count": 204896,
+          "like_count": 446,
+          "quote_count": 18,
+          "reply_count": 307,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "高中时有一个超能力同桌，大家玩命背诵的内容，他基本一两遍就能记住，理科逻辑理解也非常快。\n我确认他没有私下补学，因为一起在校外合租民房，吃喝玩乐就没见他落下过，要考试了抱个佛教就能在省重点高中拿到相当好的班级和年级排名。\n这种天赋有没有可能通过后天习得？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-27T04:17:31.000Z",
+        "description": "⚧️青蛙/咖啡/代词是She或单数They \n🏳️‍⚧️MtF/Pan/酷儿/雌激素服用中\n🥰天下第一喜欢@shudesu00\n👽商科/数学/编程\n💤Overdose\n😨边缘型人格障碍\n🍥04年生/17年hrt/19年断药/20年二周目\n⚠️血图/裸图\n🛸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "shudesu00"
+              }
+            ]
+          }
+        },
+        "id": "1596719791661715458",
+        "name": "CoFfffEeeeE",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1596720023166685185/UoIN_u73_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 364,
+          "following_count": 802,
+          "like_count": 9744,
+          "listed_count": 1,
+          "tweet_count": 2885
+        },
+        "username": "CoFfffEeeeE1",
+        "verified": false
+      },
+      {
+        "created_at": "2017-09-07T00:55:52.000Z",
+        "description": "AI & XR.",
+        "id": "905595438471905280",
+        "name": "Quincy Wu 编程狂热分子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1586168021420163077/EmaAi8AX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1387,
+          "following_count": 986,
+          "like_count": 5892,
+          "listed_count": 18,
+          "tweet_count": 1135
+        },
+        "username": "quincy_wu_12",
+        "verified": false
+      }
+    ]
+  }
+}

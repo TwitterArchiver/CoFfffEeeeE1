@@ -1,0 +1,122 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2036753352365924352",
+        "3_2036753353485754368"
+      ]
+    },
+    "author_id": "1596719791661715458",
+    "conversation_id": "2036753357952667723",
+    "created_at": "2026-03-25T10:33:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-25T11:33:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2036753357952667723"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/pjeq7hbVf3",
+          "end": 47,
+          "expanded_url": "https://x.com/CoFfffEeeeE1/status/2036753357952667723/photo/1",
+          "media_key": "3_2036753352365924352",
+          "start": 24,
+          "url": "https://t.co/pjeq7hbVf3"
+        },
+        {
+          "display_url": "pic.x.com/pjeq7hbVf3",
+          "end": 47,
+          "expanded_url": "https://x.com/CoFfffEeeeE1/status/2036753357952667723/photo/1",
+          "media_key": "3_2036753353485754368",
+          "start": 24,
+          "url": "https://t.co/pjeq7hbVf3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036753357952667723",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "月初小树来找我，来月经了，但内射，，‘，我有罪 https://t.co/pjeq7hbVf3"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2036753357952667723].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2036753357952667723",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2036753357952667723"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2036753352365924352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEQAYf7bYAA-vGh.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2036753353485754368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEQAYkGaoAAluoo.jpg",
+        "width": 2048
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-27T04:17:31.000Z",
+        "description": "⚧️青蛙/咖啡/代词是She或单数They \n🏳️‍⚧️MtX/Pan/酷儿/雌激素服用中\n💍天下第一喜欢 @shudesu00\n👽商科/数学/编程\n💤Overdose\n🧠边缘型人格障碍\n🍥04年生/17年hrt\n⚠️血图/裸图\n🗞️汉语/English/français\n✋顺直男退散",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 54,
+                "username": "shudesu00"
+              }
+            ]
+          }
+        },
+        "id": "1596719791661715458",
+        "name": "CoFfffEeeeE",
+        "pinned_tweet_id": "1906345611391373747",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026209866541604864/gGLpjUl4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 469,
+          "following_count": 722,
+          "like_count": 19507,
+          "listed_count": 1,
+          "media_count": 962,
+          "tweet_count": 5589
+        },
+        "username": "CoFfffEeeeE1",
+        "verified": false
+      }
+    ]
+  }
+}

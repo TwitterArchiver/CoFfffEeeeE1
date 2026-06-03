@@ -1,0 +1,147 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1993846282507657216"
+      ]
+    },
+    "author_id": "1596719791661715458",
+    "conversation_id": "1993846300174110765",
+    "created_at": "2025-11-27T00:56:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-27T01:56:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1993846300174110765"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 26,
+          "start": 17,
+          "tag": "我的X周年纪念日"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/2rOHrjmZ4v",
+          "end": 50,
+          "expanded_url": "https://x.com/CoFfffEeeeE1/status/1993846300174110765/photo/1",
+          "media_key": "3_1993846282507657216",
+          "start": 27,
+          "url": "https://t.co/2rOHrjmZ4v"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993846300174110765",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "还记得你何时加入 X 吗？我知道！#我的X周年纪念日 https://t.co/2rOHrjmZ4v"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1993846282507657216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6uQoU2aIAAQNz7.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993846282507657216"
+          ]
+        },
+        "author_id": "1596719791661715458",
+        "conversation_id": "1993846300174110765",
+        "created_at": "2025-11-27T00:56:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T01:56:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993846300174110765"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 26,
+              "start": 17,
+              "tag": "我的X周年纪念日"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2rOHrjmZ4v",
+              "end": 50,
+              "expanded_url": "https://x.com/CoFfffEeeeE1/status/1993846300174110765/photo/1",
+              "media_key": "3_1993846282507657216",
+              "start": 27,
+              "url": "https://t.co/2rOHrjmZ4v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993846300174110765",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "还记得你何时加入 X 吗？我知道！#我的X周年纪念日 https://t.co/2rOHrjmZ4v"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-27T04:17:31.000Z",
+        "description": "⚧️青蛙/咖啡/代词是She或单数They \n🏳️‍⚧️MtX/Pan/酷儿/雌激素服用中\n👽商科/数学/编程\n💤Overdose\n🧠边缘型人格障碍\n🍥04年生/17年hrt\n⚠️血图/裸图\n🗞️汉语/English/français\n✋顺直男退散",
+        "id": "1596719791661715458",
+        "name": "CoFfffEeeeE",
+        "pinned_tweet_id": "1906345611391373747",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863941997414977537/NOGgaInd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 462,
+          "following_count": 738,
+          "like_count": 17814,
+          "listed_count": 1,
+          "media_count": 939,
+          "tweet_count": 5302
+        },
+        "username": "CoFfffEeeeE1",
+        "verified": false
+      }
+    ]
+  }
+}

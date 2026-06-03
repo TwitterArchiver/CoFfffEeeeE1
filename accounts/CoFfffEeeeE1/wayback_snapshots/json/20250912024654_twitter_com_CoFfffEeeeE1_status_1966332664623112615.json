@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596719791661715458",
+    "conversation_id": "1966081654151364757",
+    "created_at": "2025-09-12T02:46:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-12T03:46:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1966332664623112615"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1289715612978044928",
+          "start": 0,
+          "username": "77srl"
+        },
+        {
+          "end": 20,
+          "id": "622036546",
+          "start": 7,
+          "username": "overdose_six"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1966332664623112615",
+    "in_reply_to_user_id": "1289715612978044928",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966321040365334563",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@77srl @overdose_six 收到感谢天天开心"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596719791661715458",
+        "conversation_id": "1966081654151364757",
+        "created_at": "2025-09-12T02:46:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-12T03:46:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966332664623112615"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1289715612978044928",
+              "start": 0,
+              "username": "77srl"
+            },
+            {
+              "end": 20,
+              "id": "622036546",
+              "start": 7,
+              "username": "overdose_six"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966332664623112615",
+        "in_reply_to_user_id": "1289715612978044928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966321040365334563",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@77srl @overdose_six 收到感谢天天开心"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1289715612978044928",
+        "conversation_id": "1966081654151364757",
+        "created_at": "2025-09-12T02:00:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-12T03:00:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966321040365334563"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1596719791661715458",
+              "start": 0,
+              "username": "CoFfffEeeeE1"
+            },
+            {
+              "end": 27,
+              "id": "622036546",
+              "start": 14,
+              "username": "overdose_six"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966321040365334563",
+        "in_reply_to_user_id": "1596719791661715458",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966196914770301240",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CoFfffEeeeE1 @overdose_six 可以的  150mg  我吃喜思平会想吐，这个不会"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-27T04:17:31.000Z",
+        "description": "⚧️青蛙/咖啡/代词是She或单数They \n🏳️‍⚧️MtX/Pan/酷儿/雌激素服用中\n💍天下第一喜欢@shudesu00\n👽商科/数学/编程\n💤Overdose\n🧠边缘型人格障碍\n🍥04年生/17年hrt\n⚠️血图/裸图\n🗞️汉语/English/français\n✋顺直男退散",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "shudesu00"
+              }
+            ]
+          }
+        },
+        "id": "1596719791661715458",
+        "name": "CoFfffEeeeE",
+        "pinned_tweet_id": "1906345611391373747",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863941997414977537/NOGgaInd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 463,
+          "following_count": 748,
+          "like_count": 17889,
+          "listed_count": 1,
+          "media_count": 937,
+          "tweet_count": 5294
+        },
+        "username": "CoFfffEeeeE1",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-02T00:12:26.000Z",
+        "description": "空白",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "twitter.com/77srl",
+                "end": 23,
+                "expanded_url": "https://twitter.com/77srl",
+                "start": 0,
+                "url": "https://t.co/iTf75mrGCI"
+              }
+            ]
+          }
+        },
+        "id": "1289715612978044928",
+        "location": "Hong Kong",
+        "name": "堇z",
+        "pinned_tweet_id": "1696848292527882565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1793379496177135619/kdn7TJf8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 80,
+          "like_count": 1959,
+          "listed_count": 2,
+          "media_count": 31,
+          "tweet_count": 432
+        },
+        "url": "https://t.co/iTf75mrGCI",
+        "username": "77srl",
+        "verified": false
+      },
+      {
+        "created_at": "2012-06-29T16:18:50.000Z",
+        "description": "overdose|病み垢|提问箱：https://t.co/JP9NLRoDUd|里人格@fuck_8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 44,
+                "username": "fuck_8964"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/oder_6661",
+                "end": 40,
+                "expanded_url": "http://ngl.link/oder_6661",
+                "start": 17,
+                "url": "https://t.co/JP9NLRoDUd"
+              }
+            ]
+          }
+        },
+        "id": "622036546",
+        "location": "参宿四",
+        "name": "むのう",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965430796367679488/C1QbG9XO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 471,
+          "following_count": 179,
+          "like_count": 6492,
+          "listed_count": 2,
+          "media_count": 173,
+          "tweet_count": 1762
+        },
+        "username": "overdose_six",
+        "verified": false
+      }
+    ]
+  }
+}

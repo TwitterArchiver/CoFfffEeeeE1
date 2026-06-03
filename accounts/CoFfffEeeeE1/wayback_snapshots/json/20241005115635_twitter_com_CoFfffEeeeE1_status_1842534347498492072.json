@@ -1,0 +1,136 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1842534330947735552"
+      ]
+    },
+    "author_id": "1596719791661715458",
+    "conversation_id": "1842534347498492072",
+    "created_at": "2024-10-05T11:56:35.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-05T12:56:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1842534347498492072"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/gxQDCHM4D4",
+          "end": 35,
+          "expanded_url": "https://x.com/CoFfffEeeeE1/status/1842534347498492072/photo/1",
+          "media_key": "3_1842534330947735552",
+          "start": 12,
+          "url": "https://t.co/gxQDCHM4D4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1842534347498492072",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "明知山有虎，不去明知山 https://t.co/gxQDCHM4D4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 930,
+        "media_key": "3_1842534330947735552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GZH_NjqaEAA5j9h.jpg",
+        "width": 930
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1842534330947735552"
+          ]
+        },
+        "author_id": "1596719791661715458",
+        "conversation_id": "1842534347498492072",
+        "created_at": "2024-10-05T11:56:35.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-05T12:56:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1842534347498492072"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gxQDCHM4D4",
+              "end": 35,
+              "expanded_url": "https://x.com/CoFfffEeeeE1/status/1842534347498492072/photo/1",
+              "media_key": "3_1842534330947735552",
+              "start": 12,
+              "url": "https://t.co/gxQDCHM4D4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1842534347498492072",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "明知山有虎，不去明知山 https://t.co/gxQDCHM4D4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-27T04:17:31.000Z",
+        "description": "⚧️青蛙/咖啡/代词是She或单数They \n🏳️‍⚧️MtF/Pan/酷儿/雌激素服用中\n🥰天下第一喜欢@shudesu00\n👽商科/数学/编程\n💤Overdose\n😨边缘型人格障碍\n🍥04年生/17年hrt/19年断药/20年二周目\n⚠️血图/裸图\n🛸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "shudesu00"
+              }
+            ]
+          }
+        },
+        "id": "1596719791661715458",
+        "name": "CoFfffEeeeE",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1833443600757362688/WLmVr9SG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 439,
+          "following_count": 770,
+          "like_count": 13286,
+          "listed_count": 0,
+          "tweet_count": 3745
+        },
+        "username": "CoFfffEeeeE1",
+        "verified": false
+      }
+    ]
+  }
+}

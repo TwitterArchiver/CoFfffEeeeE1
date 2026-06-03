@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596719791661715458",
+    "conversation_id": "2020744470942363902",
+    "created_at": "2026-02-12T10:10:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-12T11:10:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021889619357577452"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1947618624945983488",
+          "start": 0,
+          "username": "tonghua_me"
+        },
+        {
+          "end": 28,
+          "id": "1712408820574793728",
+          "start": 12,
+          "username": "Amadeus22590723"
+        },
+        {
+          "end": 42,
+          "id": "1986828541930119168",
+          "start": 29,
+          "username": "shigure07288"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021889619357577452",
+    "in_reply_to_user_id": "1947618624945983488",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021502374901317868",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tonghua_me @Amadeus22590723 @shigure07288 拉倒，难道你出生时你的鸡巴会大喊：“我是男的”？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596719791661715458",
+        "conversation_id": "2020744470942363902",
+        "created_at": "2026-02-12T10:10:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T11:10:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021889619357577452"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1947618624945983488",
+              "start": 0,
+              "username": "tonghua_me"
+            },
+            {
+              "end": 28,
+              "id": "1712408820574793728",
+              "start": 12,
+              "username": "Amadeus22590723"
+            },
+            {
+              "end": 42,
+              "id": "1986828541930119168",
+              "start": 29,
+              "username": "shigure07288"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021889619357577452",
+        "in_reply_to_user_id": "1947618624945983488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021502374901317868",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tonghua_me @Amadeus22590723 @shigure07288 拉倒，难道你出生时你的鸡巴会大喊：“我是男的”？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1947618624945983488",
+        "conversation_id": "2020744470942363902",
+        "created_at": "2026-02-11T08:31:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T09:31:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021502374901317868"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1712408820574793728",
+              "start": 0,
+              "username": "Amadeus22590723"
+            },
+            {
+              "end": 30,
+              "id": "1986828541930119168",
+              "start": 17,
+              "username": "shigure07288"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021502374901317868",
+        "in_reply_to_user_id": "1712408820574793728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 268,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021465000850882973",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Amadeus22590723 @shigure07288 性别是物种中出生就有的 生物学的性别就这么简单  所谓实践中获得的“我认为自己的性别是非二元” 更不符合唯物主义的科学观"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-27T04:17:31.000Z",
+        "description": "⚧️青蛙/咖啡/代词是She或单数They \n🏳️‍⚧️MtX/Pan/酷儿/雌激素服用中\n💍天下第一喜欢 @shudesu00\n👽商科/数学/编程\n💤Overdose\n🧠边缘型人格障碍\n🍥04年生/17年hrt\n⚠️血图/裸图\n🗞️汉语/English/français\n✋顺直男退散",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 54,
+                "username": "shudesu00"
+              }
+            ]
+          }
+        },
+        "id": "1596719791661715458",
+        "name": "CoFfffEeeeE",
+        "pinned_tweet_id": "1906345611391373747",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019821460827910144/GxCgBfQ7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 463,
+          "following_count": 727,
+          "like_count": 18396,
+          "listed_count": 1,
+          "media_count": 945,
+          "tweet_count": 5357
+        },
+        "username": "CoFfffEeeeE1",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-22T11:24:11.000Z",
+        "description": "左派 托洛茨基主义者 支持托洛茨基的党内民主与半平台化 不是男娘 是猛男。反建制 反极端目田 反分离主义 反极端民族 理中客 不支持lgbt",
+        "id": "1947618624945983488",
+        "location": "距离你114514km",
+        "name": "童话",
+        "pinned_tweet_id": "2021628817870315653",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010981148667838464/Rd34cbb6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 129,
+          "following_count": 96,
+          "like_count": 203,
+          "listed_count": 4,
+          "media_count": 53,
+          "tweet_count": 1390
+        },
+        "username": "tonghua_me",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-12T10:04:57.000Z",
+        "description": "进步主义者",
+        "id": "1712408820574793728",
+        "name": "Amadeus",
+        "pinned_tweet_id": "1883983627740164501",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003492664403197955/6tRS2Rua_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139,
+          "following_count": 179,
+          "like_count": 15153,
+          "listed_count": 1,
+          "media_count": 165,
+          "tweet_count": 3534
+        },
+        "username": "Amadeus22590723",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-07T16:10:17.000Z",
+        "description": "“于是我们高呼道：革命死了，革命万岁！”\n📕🌈|INTP-A|毛主义|左翼共产主义|民主社会主义|左翼民粹主义|反资本主义|平权主义|反激进女权|友跨",
+        "id": "1986828541930119168",
+        "name": "時雨☭🚩🏴‍☠️🇵🇸🇺🇦🇻🇪🏳️‍🌈",
+        "pinned_tweet_id": "2004470065887117362",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008872933650059266/LBQYDyhU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 713,
+          "following_count": 511,
+          "like_count": 1726,
+          "listed_count": 6,
+          "media_count": 196,
+          "tweet_count": 2386
+        },
+        "username": "shigure07288",
+        "verified": false
+      }
+    ]
+  }
+}

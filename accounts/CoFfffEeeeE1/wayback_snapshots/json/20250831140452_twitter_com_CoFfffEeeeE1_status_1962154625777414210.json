@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596719791661715458",
+    "conversation_id": "1962086480622555251",
+    "created_at": "2025-08-31T14:04:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-31T15:04:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962154625777414210"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1960389326258495492",
+          "start": 0,
+          "username": "looolzaozimin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962154625777414210",
+    "in_reply_to_user_id": "1960389326258495492",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1962086480622555251",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@looolzaozimin 我服了"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 34646,
+        "height": 1280,
+        "media_key": "13_1962086367107883008",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1962086367107883008/img/nILmZA8RCVdgRqQi.jpg",
+        "public_metrics": {
+          "view_count": 334
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1962086367107883008/vid/avc1/320x568/JK9cCW--VUUyenku.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1962086367107883008/vid/avc1/480x852/TKEoCv6bg3M0oPiT.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1962086367107883008/vid/avc1/720x1280/h2pKeXsTvYiDogTd.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1962086367107883008/pl/8LE7LptZGV3wWq3e.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596719791661715458",
+        "conversation_id": "1962086480622555251",
+        "created_at": "2025-08-31T14:04:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-31T15:04:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962154625777414210"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1960389326258495492",
+              "start": 0,
+              "username": "looolzaozimin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962154625777414210",
+        "in_reply_to_user_id": "1960389326258495492",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962086480622555251",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@looolzaozimin 我服了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1962086367107883008"
+          ]
+        },
+        "author_id": "1960389326258495492",
+        "conversation_id": "1962086480622555251",
+        "created_at": "2025-08-31T09:34:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-31T10:34:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1962086480622555251"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tSBbSt1sJS",
+              "end": 23,
+              "expanded_url": "https://x.com/looolzaozimin/status/1962086480622555251/video/1",
+              "media_key": "13_1962086367107883008",
+              "start": 0,
+              "url": "https://t.co/tSBbSt1sJS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962086480622555251",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 967,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/tSBbSt1sJS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-27T04:17:31.000Z",
+        "description": "⚧️青蛙/咖啡/代词是She或单数They \n🏳️‍⚧️MtX/Pan/酷儿/雌激素服用中\n💍天下第一喜欢@shudesu00\n👽商科/数学/编程\n💤Overdose\n🧠边缘型人格障碍\n🍥04年生/17年hrt\n⚠️血图/裸图\n🗞️汉语/English/français\n✋顺直男退散",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "shudesu00"
+              }
+            ]
+          }
+        },
+        "id": "1596719791661715458",
+        "name": "CoFfffEeeeE",
+        "pinned_tweet_id": "1906345611391373747",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863941997414977537/NOGgaInd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 461,
+          "following_count": 749,
+          "like_count": 17610,
+          "listed_count": 1,
+          "media_count": 937,
+          "tweet_count": 5227
+        },
+        "username": "CoFfffEeeeE1",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-26T17:10:37.000Z",
+        "description": "我是藻｜gender“它”｜非二元｜好几个灵魂操控的账号",
+        "id": "1960389326258495492",
+        "name": "下坠下坠下坠",
+        "pinned_tweet_id": "1960517212219040220",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960497573434941441/yMCbvHyg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1039,
+          "following_count": 9,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 52
+        },
+        "username": "looolzaozimin",
+        "verified": false
+      }
+    ]
+  }
+}

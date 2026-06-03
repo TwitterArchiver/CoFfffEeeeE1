@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596719791661715458",
+    "conversation_id": "2026953211396190426",
+    "created_at": "2026-02-27T03:15:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T04:15:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027221120169161051"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1699985068721082368",
+          "start": 0,
+          "username": "RX_Xron28390"
+        },
+        {
+          "end": 26,
+          "id": "1974865605204586498",
+          "start": 14,
+          "username": "Krktmk_8964"
+        },
+        {
+          "end": 39,
+          "id": "1824394555904626689",
+          "start": 27,
+          "username": "xiaoxun2007"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027221120169161051",
+    "in_reply_to_user_id": "1699985068721082368",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027008086855102744",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RX_Xron28390 @Krktmk_8964 @xiaoxun2007 幽我一默"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596719791661715458",
+        "conversation_id": "2026953211396190426",
+        "created_at": "2026-02-27T03:15:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T04:15:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027221120169161051"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1699985068721082368",
+              "start": 0,
+              "username": "RX_Xron28390"
+            },
+            {
+              "end": 26,
+              "id": "1974865605204586498",
+              "start": 14,
+              "username": "Krktmk_8964"
+            },
+            {
+              "end": 39,
+              "id": "1824394555904626689",
+              "start": 27,
+              "username": "xiaoxun2007"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027221120169161051",
+        "in_reply_to_user_id": "1699985068721082368",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027008086855102744",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RX_Xron28390 @Krktmk_8964 @xiaoxun2007 幽我一默"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1699985068721082368",
+        "conversation_id": "2026953211396190426",
+        "created_at": "2026-02-26T13:09:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T14:09:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027008086855102744"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1974865605204586498",
+              "start": 0,
+              "username": "Krktmk_8964"
+            },
+            {
+              "end": 25,
+              "id": "1824394555904626689",
+              "start": 13,
+              "username": "xiaoxun2007"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027008086855102744",
+        "in_reply_to_user_id": "1974865605204586498",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 226,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026993407072297175",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Krktmk_8964 @xiaoxun2007 依旧嘉豪，依旧学历没我脚趾高，依旧招笑，我们是健全b你咋不把自己胳膊朵了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-27T04:17:31.000Z",
+        "description": "⚧️青蛙/咖啡/代词是She或单数They \n🏳️‍⚧️MtX/Pan/酷儿/雌激素服用中\n💍天下第一喜欢 @shudesu00\n👽商科/数学/编程\n💤Overdose\n🧠边缘型人格障碍\n🍥04年生/17年hrt\n⚠️血图/裸图\n🗞️汉语/English/français\n✋顺直男退散",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 54,
+                "username": "shudesu00"
+              }
+            ]
+          }
+        },
+        "id": "1596719791661715458",
+        "name": "CoFfffEeeeE",
+        "pinned_tweet_id": "1906345611391373747",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026209866541604864/gGLpjUl4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 469,
+          "following_count": 726,
+          "like_count": 18799,
+          "listed_count": 1,
+          "media_count": 955,
+          "tweet_count": 5456
+        },
+        "username": "CoFfffEeeeE1",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-08T03:16:52.000Z",
+        "description": "宾洲男高/前世为德皇战死凡尔登转世的bf轮椅人 /paradox社战犯/超级地球赛博斯坦指定冻肉 Anti-trans，德皇kaiser：@sanitf1 向伟大的BVVD，俄联邦致敬🇷🇺🇩🇪",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 69,
+                "username": "sanitf1"
+              }
+            ]
+          }
+        },
+        "id": "1699985068721082368",
+        "location": "凡爾登，378號高地陣地，1916",
+        "name": "𝑇𝑦𝑟 𝑣𝑜𝑛 𝑉𝑒𝑟𝑑𝑢𝑛 𝑊𝑒𝑙𝑡",
+        "pinned_tweet_id": "2006384462209142895",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993498827278401536/FkldZrF0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 111,
+          "like_count": 2456,
+          "listed_count": 1,
+          "media_count": 316,
+          "tweet_count": 2156
+        },
+        "username": "RX_Xron28390",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-05T15:54:07.000Z",
+        "description": "我是天照大神⛩",
+        "id": "1974865605204586498",
+        "location": "克拉斯诺亚尔斯克",
+        "name": "黒木トモコ",
+        "pinned_tweet_id": "2016628139888431137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016867499816693760/cgM-POhS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 971,
+          "following_count": 1785,
+          "like_count": 29706,
+          "listed_count": 2,
+          "media_count": 234,
+          "tweet_count": 3152
+        },
+        "username": "Krktmk_8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-16T10:35:50.000Z",
+        "description": "清水推 † 前世@xiaoxun519🕸 请某人不要看到我发感情类贴文就以为我在点你",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 8,
+                "username": "xiaoxun519"
+              }
+            ]
+          }
+        },
+        "id": "1824394555904626689",
+        "name": "潯",
+        "pinned_tweet_id": "1980635594175967338",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997700487194513409/_HS9x9ot_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2272,
+          "following_count": 285,
+          "like_count": 2754,
+          "listed_count": 5,
+          "media_count": 71,
+          "tweet_count": 1713
+        },
+        "username": "xiaoxun2007",
+        "verified": false
+      }
+    ]
+  }
+}

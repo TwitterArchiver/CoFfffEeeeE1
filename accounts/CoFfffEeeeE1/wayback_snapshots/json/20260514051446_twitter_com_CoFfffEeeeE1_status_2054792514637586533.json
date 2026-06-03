@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596719791661715458",
+    "conversation_id": "2054792514637586533",
+    "created_at": "2026-05-14T05:14:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T06:14:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054792514637586533"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2363856960",
+          "start": 3,
+          "username": "NGNGVXX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054792514637586533",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 91
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054537395304116247",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @NGNGVXX: “我的焦虑也没那么严重”\n\n-抖腿\n-不停的舔嘴唇/撕死皮 \n-走得很快\n-新消息立即查看 \n-“他们讨厌我”\n-“我是不是很烦人?”\n-总是感到疲惫"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596719791661715458",
+        "conversation_id": "2054792514637586533",
+        "created_at": "2026-05-14T05:14:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T06:14:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054792514637586533"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2363856960",
+              "start": 3,
+              "username": "NGNGVXX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054792514637586533",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 91
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054537395304116247",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @NGNGVXX: “我的焦虑也没那么严重”\n\n-抖腿\n-不停的舔嘴唇/撕死皮 \n-走得很快\n-新消息立即查看 \n-“他们讨厌我”\n-“我是不是很烦人?”\n-总是感到疲惫"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2363856960",
+        "conversation_id": "2054537395304116247",
+        "created_at": "2026-05-13T12:21:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T13:21:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054537395304116247"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2054537395304116247",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 39,
+          "impression_count": 17340,
+          "like_count": 683,
+          "quote_count": 5,
+          "reply_count": 18,
+          "retweet_count": 91
+        },
+        "reply_settings": "everyone",
+        "text": "“我的焦虑也没那么严重”\n\n-抖腿\n-不停的舔嘴唇/撕死皮 \n-走得很快\n-新消息立即查看 \n-“他们讨厌我”\n-“我是不是很烦人?”\n-总是感到疲惫"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-27T04:17:31.000Z",
+        "description": "⚧️青蛙/咖啡/代词是She或单数They \n🏳️‍⚧️MtX/Pan/酷儿/雌激素服用中\n💍@shudesu00\n👽商科/数学/编程\n💤Overdose\n🧠边缘型人格障碍\n🍥04年生/17年hrt\n⚠️血图/裸图\n🗞️汉语/English/français\n✋顺直男退散",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 47,
+                "username": "shudesu00"
+              }
+            ]
+          }
+        },
+        "id": "1596719791661715458",
+        "name": "CoFfffEeeeE",
+        "pinned_tweet_id": "1906345611391373747",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026209866541604864/gGLpjUl4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 482,
+          "following_count": 731,
+          "like_count": 20677,
+          "listed_count": 1,
+          "media_count": 979,
+          "tweet_count": 5879
+        },
+        "username": "CoFfffEeeeE1",
+        "verified": false
+      },
+      {
+        "created_at": "2014-02-27T08:33:55.000Z",
+        "description": "硬币的第三面是自由，喜欢我可以给我打赏请我吃烧烤",
+        "id": "2363856960",
+        "name": "32号就恋爱",
+        "pinned_tweet_id": "1909834927912202390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847229094007894016/Tl2z00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9424,
+          "following_count": 5,
+          "like_count": 1158,
+          "listed_count": 27,
+          "media_count": 107,
+          "tweet_count": 2279
+        },
+        "username": "NGNGVXX",
+        "verified": false
+      }
+    ]
+  }
+}

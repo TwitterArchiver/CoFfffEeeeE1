@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596719791661715458",
+    "conversation_id": "1862844859851407753",
+    "created_at": "2024-12-03T02:50:27.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-03T03:50:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1863777792443531651"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1836334316789600258",
+          "start": 0,
+          "username": "huang69700"
+        },
+        {
+          "end": 22,
+          "id": "1756676194358177792",
+          "start": 12,
+          "username": "ridanwild"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1863777792443531651",
+    "in_reply_to_user_id": "1836334316789600258",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1863238787356385621",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huang69700 @ridanwild 这是胸肌下束"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596719791661715458",
+        "conversation_id": "1862844859851407753",
+        "created_at": "2024-12-03T02:50:27.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-03T03:50:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1863777792443531651"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1836334316789600258",
+              "start": 0,
+              "username": "huang69700"
+            },
+            {
+              "end": 22,
+              "id": "1756676194358177792",
+              "start": 12,
+              "username": "ridanwild"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1863777792443531651",
+        "in_reply_to_user_id": "1836334316789600258",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1863238787356385621",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huang69700 @ridanwild 这是胸肌下束"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836334316789600258",
+        "conversation_id": "1862844859851407753",
+        "created_at": "2024-12-01T15:08:38.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-01T16:08:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1863238787356385621"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1756676194358177792",
+              "start": 0,
+              "username": "ridanwild"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1863238787356385621",
+        "in_reply_to_user_id": "1756676194358177792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 550,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1862844859851407753",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ridanwild 哥们你胸肌咋就练外侧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-27T04:17:31.000Z",
+        "description": "⚧️青蛙/咖啡/代词是She或单数They \n🏳️‍⚧️MtX/Pan/酷儿/雌激素服用中\n💍天下第一喜欢@shudesu00\n👽商科/数学/编程\n💤Overdose\n🧠边缘型人格障碍\n🍥04年生/17年hrt/19年断药/20年二周目\n⚠️血图/裸图\n🛸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "shudesu00"
+              }
+            ]
+          }
+        },
+        "id": "1596719791661715458",
+        "name": "CoFfffEeeeE",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1856389216047116288/T0Q91ZGq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 464,
+          "following_count": 783,
+          "like_count": 15636,
+          "listed_count": 0,
+          "media_count": 793,
+          "tweet_count": 4605
+        },
+        "username": "CoFfffEeeeE1",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-18T09:20:14.000Z",
+        "description": "",
+        "id": "1836334316789600258",
+        "name": "wuwangcao",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836335218783076352/aIRf2G6Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 29,
+          "like_count": 9,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 76
+        },
+        "username": "huang69700",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-11T13:47:06.000Z",
+        "description": "盗图全家死绝 喜欢就给我打钱",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tw09.chachay.top/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://tw09.chachay.top/#/register?code=wKpWd3Hq",
+                "start": 0,
+                "url": "https://t.co/mEWZNqGA4k"
+              }
+            ]
+          }
+        },
+        "id": "1756676194358177792",
+        "location": "🚪188纯绿不主动陪聊｜自用达蒙VPN⬇️",
+        "name": "芹如菜",
+        "pinned_tweet_id": "1858737810368590127",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1856619875831316481/tFbisinQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6373,
+          "following_count": 24,
+          "like_count": 19376,
+          "listed_count": 37,
+          "media_count": 38,
+          "tweet_count": 9361
+        },
+        "url": "https://t.co/mEWZNqGA4k",
+        "username": "ridanwild",
+        "verified": false
+      }
+    ]
+  }
+}

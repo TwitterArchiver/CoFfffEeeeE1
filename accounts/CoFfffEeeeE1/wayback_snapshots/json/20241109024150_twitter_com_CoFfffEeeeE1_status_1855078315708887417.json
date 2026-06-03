@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596719791661715458",
+    "conversation_id": "1855076626322882996",
+    "created_at": "2024-11-09T02:41:50.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-09T03:41:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1855078315708887417"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1490707122291867648",
+          "start": 0,
+          "username": "ACENANAMI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1855078315708887417",
+    "in_reply_to_user_id": "1490707122291867648",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1855076626322882996",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ACENANAMI 我想吃那个蛋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596719791661715458",
+        "conversation_id": "1855076626322882996",
+        "created_at": "2024-11-09T02:41:50.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-09T03:41:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1855078315708887417"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1490707122291867648",
+              "start": 0,
+              "username": "ACENANAMI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1855078315708887417",
+        "in_reply_to_user_id": "1490707122291867648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1855076626322882996",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ACENANAMI 我想吃那个蛋"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1855076250144169984",
+            "3_1855076250156740608"
+          ]
+        },
+        "author_id": "1490707122291867648",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1855076626322882996",
+        "created_at": "2024-11-09T02:35:08.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-09T03:35:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1855076626322882996"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NgSqIjsJhv",
+              "end": 31,
+              "expanded_url": "https://x.com/ACENANAMI/status/1855076626322882996/photo/1",
+              "media_key": "3_1855076250144169984",
+              "start": 8,
+              "url": "https://t.co/NgSqIjsJhv"
+            },
+            {
+              "display_url": "pic.x.com/NgSqIjsJhv",
+              "end": 31,
+              "expanded_url": "https://x.com/ACENANAMI/status/1855076626322882996/photo/1",
+              "media_key": "3_1855076250156740608",
+              "start": 8,
+              "url": "https://t.co/NgSqIjsJhv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1855076626322882996",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "這一頓才18🤓 https://t.co/NgSqIjsJhv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-27T04:17:31.000Z",
+        "description": "⚧️青蛙/咖啡/代词是She或单数They \n🏳️‍⚧️MtX/Pan/酷儿/雌激素服用中\n🥰天下第一喜欢@shudesu00\n👽商科/数学/编程\n💤Overdose\n😨边缘型人格障碍\n🍥04年生/17年hrt/19年断药/20年二周目\n⚠️血图/裸图\n🛸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "shudesu00"
+              }
+            ]
+          }
+        },
+        "id": "1596719791661715458",
+        "name": "CoFfffEeeeE",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1833443600757362688/WLmVr9SG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 458,
+          "following_count": 784,
+          "like_count": 14777,
+          "listed_count": 0,
+          "tweet_count": 4308
+        },
+        "username": "CoFfffEeeeE1",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-07T15:20:56.000Z",
+        "description": "因為我想將與妳的相識，因為我想將對妳的愛戀一直對此感到驕傲，直到死亡為止\n媽媽吧：@JR_YamanoteE235",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 41,
+                "username": "JR_YamanoteE235"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "black-souls.fandom.com/wiki/Grimm",
+                "end": 23,
+                "expanded_url": "https://black-souls.fandom.com/wiki/Grimm",
+                "start": 0,
+                "url": "https://t.co/5dqeIhztJW"
+              }
+            ]
+          }
+        },
+        "id": "1490707122291867648",
+        "location": "惡靈呦，給我退散",
+        "name": "葉米爾",
+        "pinned_tweet_id": "1842206107001131112",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854746093982302208/RVvvpF4Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 534,
+          "following_count": 626,
+          "like_count": 88473,
+          "listed_count": 3,
+          "tweet_count": 11310
+        },
+        "url": "https://t.co/5dqeIhztJW",
+        "username": "ACENANAMI",
+        "verified": false
+      }
+    ]
+  }
+}

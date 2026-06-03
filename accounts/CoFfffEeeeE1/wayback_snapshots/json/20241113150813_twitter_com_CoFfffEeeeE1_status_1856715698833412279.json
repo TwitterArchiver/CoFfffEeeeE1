@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596719791661715458",
+    "conversation_id": "1856707235176734968",
+    "created_at": "2024-11-13T15:08:13.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-13T16:08:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1856715698833412279"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1856514087632375808",
+          "start": 0,
+          "username": "kwkskkdjd43299"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1856715698833412279",
+    "in_reply_to_user_id": "1856514087632375808",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1856711457804517473",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kwkskkdjd43299 我是什么人种"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596719791661715458",
+        "conversation_id": "1856707235176734968",
+        "created_at": "2024-11-13T15:08:13.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-13T16:08:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1856715698833412279"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1856514087632375808",
+              "start": 0,
+              "username": "kwkskkdjd43299"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1856715698833412279",
+        "in_reply_to_user_id": "1856514087632375808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1856711457804517473",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kwkskkdjd43299 我是什么人种"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1856514087632375808",
+        "conversation_id": "1856707235176734968",
+        "created_at": "2024-11-13T14:51:22.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-13T15:51:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1856711457804517473"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1596719791661715458",
+              "start": 0,
+              "username": "CoFfffEeeeE1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1856711457804517473",
+        "in_reply_to_user_id": "1596719791661715458",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1856707235176734968",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CoFfffEeeeE1 撚樣"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-27T04:17:31.000Z",
+        "description": "⚧️青蛙/咖啡/代词是She或单数They \n🏳️‍⚧️MtX/Pan/酷儿/雌激素服用中\n💍天下第一喜欢@shudesu00\n👽商科/数学/编程\n💤Overdose\n🧠边缘型人格障碍\n🍥04年生/17年hrt/19年断药/20年二周目\n⚠️血图/裸图\n🛸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "shudesu00"
+              }
+            ]
+          }
+        },
+        "id": "1596719791661715458",
+        "name": "CoFfffEeeeE",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1856389216047116288/T0Q91ZGq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 464,
+          "following_count": 782,
+          "like_count": 15038,
+          "listed_count": 0,
+          "tweet_count": 4435
+        },
+        "username": "CoFfffEeeeE1",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-13T01:47:12.000Z",
+        "description": "",
+        "id": "1856514087632375808",
+        "name": "Lil Dick",
+        "pinned_tweet_id": "1856596207130317058",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1856590448111816704/VCRRh5CC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 6,
+          "like_count": 20,
+          "listed_count": 0,
+          "tweet_count": 78
+        },
+        "username": "kwkskkdjd43299",
+        "verified": false
+      }
+    ]
+  }
+}

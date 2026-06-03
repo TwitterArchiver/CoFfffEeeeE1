@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596719791661715458",
+    "conversation_id": "1865310292428886492",
+    "created_at": "2024-12-07T09:41:34.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-07T10:41:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1865330802101498337"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1467368317258248192",
+          "start": 0,
+          "username": "loolzaozmin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1865330802101498337",
+    "in_reply_to_user_id": "1467368317258248192",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1865310292428886492",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@loolzaozmin 不可"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596719791661715458",
+        "conversation_id": "1865310292428886492",
+        "created_at": "2024-12-07T09:41:34.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-07T10:41:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1865330802101498337"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1467368317258248192",
+              "start": 0,
+              "username": "loolzaozmin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1865330802101498337",
+        "in_reply_to_user_id": "1467368317258248192",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1865310292428886492",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@loolzaozmin 不可"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1865310285994823681"
+          ]
+        },
+        "author_id": "1467368317258248192",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1865310292428886492",
+        "created_at": "2024-12-07T08:20:04.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-07T09:20:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1865310292428886492"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pTpXZ7U5eG",
+              "end": 40,
+              "expanded_url": "https://x.com/loolzaozmin/status/1865310292428886492/photo/1",
+              "media_key": "3_1865310285994823681",
+              "start": 17,
+              "url": "https://t.co/pTpXZ7U5eG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1865310292428886492",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 270,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这是干什么的 这种VPN的能接吗 https://t.co/pTpXZ7U5eG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-27T04:17:31.000Z",
+        "description": "⚧️青蛙/咖啡/代词是She或单数They \n🏳️‍⚧️MtX/Pan/酷儿/雌激素服用中\n💍天下第一喜欢@shudesu00\n👽商科/数学/编程\n💤Overdose\n🧠边缘型人格障碍\n🍥04年生/17年hrt/19年断药/20年二周目\n⚠️血图/裸图\n🛸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "shudesu00"
+              }
+            ]
+          }
+        },
+        "id": "1596719791661715458",
+        "name": "CoFfffEeeeE",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863941997414977537/NOGgaInd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 465,
+          "following_count": 782,
+          "like_count": 15792,
+          "listed_count": 0,
+          "media_count": 797,
+          "tweet_count": 4639
+        },
+        "username": "CoFfffEeeeE1",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-05T05:40:54.000Z",
+        "description": "我是藻｜泛性恋｜ 它ta｜非二元性别  🚪88",
+        "id": "1467368317258248192",
+        "location": "宠物藻类",
+        "name": "我胃里面的蝴蝶",
+        "pinned_tweet_id": "1747910290979934278",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863874524279865344/dS5NIgfI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8464,
+          "following_count": 190,
+          "like_count": 522,
+          "listed_count": 10,
+          "media_count": 76,
+          "tweet_count": 186
+        },
+        "username": "loolzaozmin",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596719791661715458",
+    "conversation_id": "2052661835648938227",
+    "created_at": "2026-05-08T12:02:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T13:02:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052720748989706467"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1362960365055668225",
+          "start": 0,
+          "username": "POI74103174"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052720748989706467",
+    "in_reply_to_user_id": "1362960365055668225",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052661835648938227",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@POI74103174 你隐瞒了什么，担心暴露"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596719791661715458",
+        "conversation_id": "2052661835648938227",
+        "created_at": "2026-05-08T12:02:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T13:02:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052720748989706467"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1362960365055668225",
+              "start": 0,
+              "username": "POI74103174"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052720748989706467",
+        "in_reply_to_user_id": "1362960365055668225",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052661835648938227",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@POI74103174 你隐瞒了什么，担心暴露"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1362960365055668225",
+        "conversation_id": "2052661835648938227",
+        "created_at": "2026-05-08T08:08:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T09:08:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052661835648938227"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052661835648938227",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1578,
+          "like_count": 54,
+          "quote_count": 0,
+          "reply_count": 19,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么总是梦见自己莫名其妙在公共场合半裸/全裸……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-27T04:17:31.000Z",
+        "description": "⚧️青蛙/咖啡/代词是She或单数They \n🏳️‍⚧️MtX/Pan/酷儿/雌激素服用中\n💍@shudesu00\n👽商科/数学/编程\n💤Overdose\n🧠边缘型人格障碍\n🍥04年生/17年hrt\n⚠️血图/裸图\n🗞️汉语/English/français\n✋顺直男退散",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 47,
+                "username": "shudesu00"
+              }
+            ]
+          }
+        },
+        "id": "1596719791661715458",
+        "name": "CoFfffEeeeE",
+        "pinned_tweet_id": "1906345611391373747",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026209866541604864/gGLpjUl4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 480,
+          "following_count": 731,
+          "like_count": 20524,
+          "listed_count": 1,
+          "media_count": 979,
+          "tweet_count": 5852
+        },
+        "username": "CoFfffEeeeE1",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-20T03:00:58.000Z",
+        "description": "活了（大概）🐧的饲养员@penguinmomentjp\n日常/小市民",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 11,
+                "username": "penguinmomentjp"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "penguinvisual.jp/zh",
+                "end": 23,
+                "expanded_url": "http://penguinvisual.jp/zh",
+                "start": 0,
+                "url": "https://t.co/XlV7pWwsvr"
+              }
+            ]
+          }
+        },
+        "id": "1362960365055668225",
+        "name": "優杏@Poi🫐",
+        "pinned_tweet_id": "1786390162064433658",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045474696750321664/K_i_d53j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3652,
+          "following_count": 331,
+          "like_count": 67295,
+          "listed_count": 15,
+          "media_count": 2961,
+          "tweet_count": 24876
+        },
+        "url": "https://t.co/XlV7pWwsvr",
+        "username": "POI74103174",
+        "verified": false
+      }
+    ]
+  }
+}

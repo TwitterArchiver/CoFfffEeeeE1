@@ -1,9 +1,9 @@
-## @CoFfffEeeeE 的推文存档
+## @CoFfffEeeeE1 的推文存档
 
-本仓库为 [@CoFfffEeeeE](https://twitter.com/CoFfffEeeeE) 的 Twitter/X 推文存档，
+本仓库为 [@CoFfffEeeeE1](https://twitter.com/CoFfffEeeeE1) 的 Twitter/X 推文存档，
 通过 [Wayback Machine](https://web.archive.org) 抓取，使用 GitHub Pages 自动部署。
 
-🔗 在线阅读：**https://TwitterArchiver.github.io/CoFfffEeeeE/**
+🔗 在线阅读：**https://TwitterArchiver.github.io/CoFfffEeeeE1/**
 
 ---
 

@@ -1,0 +1,164 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596719791661715458",
+    "conversation_id": "1861434570413138201",
+    "created_at": "2024-11-27T05:34:35.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-27T06:34:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1861644770969559206"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1162361622880509954",
+          "start": 0,
+          "username": "cheesesenbeixxd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1861644770969559206",
+    "in_reply_to_user_id": "1162361622880509954",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1861434570413138201",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cheesesenbeixxd 为什么我找不到数学"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1861434570413138201].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1861434570413138201",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1861434570413138201"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596719791661715458",
+        "conversation_id": "1861434570413138201",
+        "created_at": "2024-11-27T05:34:35.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-27T06:34:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1861644770969559206"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1162361622880509954",
+              "start": 0,
+              "username": "cheesesenbeixxd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1861644770969559206",
+        "in_reply_to_user_id": "1162361622880509954",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1861434570413138201",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cheesesenbeixxd 为什么我找不到数学"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-27T04:17:31.000Z",
+        "description": "⚧️青蛙/咖啡/代词是She或单数They \n🏳️‍⚧️MtX/Pan/酷儿/雌激素服用中\n💍天下第一喜欢@shudesu00\n👽商科/数学/编程\n💤Overdose\n🧠边缘型人格障碍\n🍥04年生/17年hrt/19年断药/20年二周目\n⚠️血图/裸图\n🛸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "shudesu00"
+              }
+            ]
+          }
+        },
+        "id": "1596719791661715458",
+        "name": "CoFfffEeeeE",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1856389216047116288/T0Q91ZGq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 465,
+          "following_count": 782,
+          "like_count": 15441,
+          "listed_count": 0,
+          "tweet_count": 4536
+        },
+        "username": "CoFfffEeeeE1",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-16T13:53:13.000Z",
+        "description": "你好，再见",
+        "id": "1162361622880509954",
+        "name": "🌳看见我记得把药吃了ツ",
+        "pinned_tweet_id": "1761438084179390903",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1787453808584351746/2OPh3vAQ_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 830,
+          "following_count": 820,
+          "like_count": 72674,
+          "listed_count": 8,
+          "tweet_count": 7574
+        },
+        "username": "cheesesenbeixxd",
+        "verified": false
+      }
+    ]
+  }
+}

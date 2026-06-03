@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596719791661715458",
+    "conversation_id": "1949182438359384399",
+    "created_at": "2025-07-27T13:52:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-27T14:52:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1949468046789357812"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1629422599376896000",
+          "start": 0,
+          "username": "shithole6699881"
+        },
+        {
+          "end": 26,
+          "id": "281045155",
+          "start": 17,
+          "username": "_vicwong"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949468046789357812",
+    "in_reply_to_user_id": "1629422599376896000",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949418834970226863",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shithole6699881 @_vicwong 现代文明的传入传播和殖民掠夺侵略是两回事"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596719791661715458",
+        "conversation_id": "1949182438359384399",
+        "created_at": "2025-07-27T13:52:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-27T14:52:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949468046789357812"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1629422599376896000",
+              "start": 0,
+              "username": "shithole6699881"
+            },
+            {
+              "end": 26,
+              "id": "281045155",
+              "start": 17,
+              "username": "_vicwong"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949468046789357812",
+        "in_reply_to_user_id": "1629422599376896000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949418834970226863",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shithole6699881 @_vicwong 现代文明的传入传播和殖民掠夺侵略是两回事"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1629422599376896000",
+        "conversation_id": "1949182438359384399",
+        "created_at": "2025-07-27T10:37:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-27T11:37:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949418834970226863"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "281045155",
+              "start": 0,
+              "username": "_vicwong"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949418834970226863",
+        "in_reply_to_user_id": "281045155",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 49,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949182438359384399",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_vicwong 非常不敢苟同，你这个叙事很像王毅啊，他说东南亚的乱也是殖民的原因。不殖民可能有些地方永远都是野蛮的地方。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-27T04:17:31.000Z",
+        "description": "⚧️青蛙/咖啡/代词是She或单数They \n🏳️‍⚧️MtX/Pan/酷儿/雌激素服用中\n💍天下第一喜欢@shudesu00\n👽商科/数学/编程\n💤Overdose\n🧠边缘型人格障碍\n🍥04年生/17年hrt\n⚠️血图/裸图\n🗞️汉语/English/français\n✋顺直男退散",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "shudesu00"
+              }
+            ]
+          }
+        },
+        "id": "1596719791661715458",
+        "name": "CoFfffEeeeE",
+        "pinned_tweet_id": "1906345611391373747",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863941997414977537/NOGgaInd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 454,
+          "following_count": 749,
+          "like_count": 17546,
+          "listed_count": 0,
+          "media_count": 935,
+          "tweet_count": 5139
+        },
+        "username": "CoFfffEeeeE1",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-25T10:06:40.000Z",
+        "description": "",
+        "id": "1629422599376896000",
+        "name": "追寻自由，传播爱，用快乐点亮人生✝️🧡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1681578313733771264/SOVVLZVj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 137,
+          "following_count": 768,
+          "like_count": 3725,
+          "listed_count": 3,
+          "media_count": 27,
+          "tweet_count": 2201
+        },
+        "username": "shithole6699881",
+        "verified": false
+      },
+      {
+        "created_at": "2011-04-12T14:27:54.000Z",
+        "description": "加拿大多伦多人；移民二十八年，无神论者；崇尚“赛先生”和“德先生”； 享受退休生活，喜欢房车音乐。 上推的目的：用以往生活工作经验，帮推友借助科技学习英语，了解西方社会，享受现代生活。 欢迎任何评论，提出你的论点，不接受任何脏话，没时间DM通讯，感谢推友关注。 人工智能创建的网站：https://t.co/9lE8fhlmAa",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "vicwong.com",
+                "end": 164,
+                "expanded_url": "http://vicwong.com",
+                "start": 141,
+                "url": "https://t.co/9lE8fhlmAa"
+              }
+            ]
+          }
+        },
+        "id": "281045155",
+        "location": "Toronto, Ontario",
+        "name": "Vic Wong 黄维克",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1562231842530549760/gakJS4XE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53752,
+          "following_count": 363,
+          "like_count": 49190,
+          "listed_count": 218,
+          "media_count": 7540,
+          "tweet_count": 46250
+        },
+        "username": "_vicwong",
+        "verified": true
+      }
+    ]
+  }
+}

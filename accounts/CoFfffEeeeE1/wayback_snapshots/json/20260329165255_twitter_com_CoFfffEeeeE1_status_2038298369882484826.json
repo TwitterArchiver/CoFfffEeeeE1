@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596719791661715458",
+    "conversation_id": "2038235101738475631",
+    "created_at": "2026-03-29T16:52:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-29T17:52:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038298369882484826"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1759787246587379712",
+          "start": 0,
+          "username": "RainBuild_2025"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038298369882484826",
+    "in_reply_to_user_id": "1759787246587379712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038235101738475631",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RainBuild_2025 自己不现身自己噤声，不要影响别人好吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596719791661715458",
+        "conversation_id": "2038235101738475631",
+        "created_at": "2026-03-29T16:52:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T17:52:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038298369882484826"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1759787246587379712",
+              "start": 0,
+              "username": "RainBuild_2025"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038298369882484826",
+        "in_reply_to_user_id": "1759787246587379712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038235101738475631",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RainBuild_2025 自己不现身自己噤声，不要影响别人好吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1759787246587379712",
+        "conversation_id": "2038235101738475631",
+        "created_at": "2026-03-29T12:41:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T13:41:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038235101738475631"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Pikaunderlight…",
+              "end": 165,
+              "expanded_url": "https://twitter.com/Pikaunderlight/status/2038218437839745244",
+              "start": 142,
+              "url": "https://t.co/ysU1hDXN9n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038235101738475631",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "首先，这种性别认同在大陆普遍是不接受的，包括我自己也这么想，我只会对我信任的人说我的性取向，平常自己出门也是理工男穿搭，为了避免麻烦，我认为这是可以理解的，毕竟墙内不适是 X，接受程度并不高，并且就我接触的很多 xyn来讲，他们在陌生的网络社交中不承认自己是 xyn，还反复试探我对 MTF，看法以及意见，殊不知我自己也是 MTF，现在争论这个事情没有任何意义"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2148,
+          "like_count": 31,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038218437839745244",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "首先，这种性别认同在大陆普遍是不接受的，包括我自己也这么想，我只会对我信任的人说我的性取向，平常自己出门也是理工男穿搭，为了避免麻烦，我认为这是可以理解的，毕竟墙内不适是 X，接受程度并不高，并且就我接触的很多 xyn来讲，他们在陌生的网络社交中不承认自己是 xyn，还反复试探我对 https://t.co/ysU1hDXN9n"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-27T04:17:31.000Z",
+        "description": "⚧️青蛙/咖啡/代词是She或单数They \n🏳️‍⚧️MtX/Pan/酷儿/雌激素服用中\n💍天下第一喜欢 @shudesu00\n👽商科/数学/编程\n💤Overdose\n🧠边缘型人格障碍\n🍥04年生/17年hrt\n⚠️血图/裸图\n🗞️汉语/English/français\n✋顺直男退散",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 54,
+                "username": "shudesu00"
+              }
+            ]
+          }
+        },
+        "id": "1596719791661715458",
+        "name": "CoFfffEeeeE",
+        "pinned_tweet_id": "1906345611391373747",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026209866541604864/gGLpjUl4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 469,
+          "following_count": 722,
+          "like_count": 19758,
+          "listed_count": 1,
+          "media_count": 967,
+          "tweet_count": 5630
+        },
+        "username": "CoFfffEeeeE1",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-20T03:49:18.000Z",
+        "description": "INFP｜MTF｜09 English/日本語/简繁中文 \nXiaomi Promoter UTC+8｜专注次元联合创始人、产品经理、中国区市场部总经理\n独立思考，明辨是非｜\n做自己而不是解释自己｜\n真诚是必杀技｜数码玩家会折腾各种设备｜另一个版本的我(非本人）@RainBuild_2024",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 146,
+                "start": 131,
+                "username": "RainBuild_2024"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mi.com",
+                "end": 23,
+                "expanded_url": "http://mi.com",
+                "start": 0,
+                "url": "https://t.co/8NnopKeAgF"
+              }
+            ]
+          }
+        },
+        "id": "1759787246587379712",
+        "location": "The United States Of America",
+        "name": "高坂穗嘉图",
+        "pinned_tweet_id": "2034673772587098438",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034672368472432640/-AarshaI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1106,
+          "following_count": 1054,
+          "like_count": 1389,
+          "listed_count": 5,
+          "media_count": 197,
+          "tweet_count": 812
+        },
+        "url": "https://t.co/8NnopKeAgF",
+        "username": "RainBuild_2025",
+        "verified": true
+      }
+    ]
+  }
+}

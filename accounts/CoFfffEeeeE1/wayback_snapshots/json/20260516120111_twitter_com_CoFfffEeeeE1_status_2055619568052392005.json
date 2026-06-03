@@ -1,0 +1,319 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596719791661715458",
+    "conversation_id": "2055618941666648224",
+    "created_at": "2026-05-16T12:01:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T13:01:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055619568052392005"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2055619568052392005",
+    "in_reply_to_user_id": "1596719791661715458",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055618941666648224",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "感觉特别萌阿"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2055618926411939840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIcGhb5agAAjwsa.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2055618927221485569",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIcGhe6bMAEbbS4.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2055618932493688832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIcGhyjaoAAQekZ.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2055618933835833344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIcGh3jaIAAGLAs.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596719791661715458",
+        "conversation_id": "2055618941666648224",
+        "created_at": "2026-05-16T12:01:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T13:01:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055619568052392005"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2055619568052392005",
+        "in_reply_to_user_id": "1596719791661715458",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055618941666648224",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "感觉特别萌阿"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055618926411939840",
+            "3_2055618927221485569",
+            "3_2055618932493688832",
+            "3_2055618933835833344"
+          ]
+        },
+        "author_id": "1596719791661715458",
+        "conversation_id": "2055618941666648224",
+        "created_at": "2026-05-16T11:58:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T12:58:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055618941666648224"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 15,
+              "start": 8,
+              "tag": "femboy"
+            },
+            {
+              "end": 20,
+              "start": 16,
+              "tag": "mtx"
+            },
+            {
+              "end": 25,
+              "start": 21,
+              "tag": "mtf"
+            },
+            {
+              "end": 29,
+              "start": 26,
+              "tag": "ts"
+            },
+            {
+              "end": 36,
+              "start": 30,
+              "tag": "trans"
+            },
+            {
+              "end": 43,
+              "start": 37,
+              "tag": "tgirl"
+            },
+            {
+              "end": 48,
+              "start": 44,
+              "tag": "非二元"
+            },
+            {
+              "end": 54,
+              "start": 49,
+              "tag": "小男女孩"
+            },
+            {
+              "end": 58,
+              "start": 55,
+              "tag": "酷儿"
+            },
+            {
+              "end": 63,
+              "start": 60,
+              "tag": "乳房"
+            },
+            {
+              "end": 67,
+              "start": 64,
+              "tag": "乳头"
+            },
+            {
+              "end": 71,
+              "start": 68,
+              "tag": "屁股"
+            },
+            {
+              "end": 75,
+              "start": 72,
+              "tag": "平胸"
+            },
+            {
+              "end": 80,
+              "start": 76,
+              "tag": "暴露癖"
+            },
+            {
+              "end": 84,
+              "start": 81,
+              "tag": "女高"
+            },
+            {
+              "end": 89,
+              "start": 85,
+              "tag": "高中生"
+            },
+            {
+              "end": 94,
+              "start": 90,
+              "tag": "木桶饭"
+            },
+            {
+              "end": 98,
+              "start": 95,
+              "tag": "药娘"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VQU7KxGVbN",
+              "end": 122,
+              "expanded_url": "https://x.com/CoFfffEeeeE1/status/2055618941666648224/photo/1",
+              "media_key": "3_2055618926411939840",
+              "start": 99,
+              "url": "https://t.co/VQU7KxGVbN"
+            },
+            {
+              "display_url": "pic.x.com/VQU7KxGVbN",
+              "end": 122,
+              "expanded_url": "https://x.com/CoFfffEeeeE1/status/2055618941666648224/photo/1",
+              "media_key": "3_2055618927221485569",
+              "start": 99,
+              "url": "https://t.co/VQU7KxGVbN"
+            },
+            {
+              "display_url": "pic.x.com/VQU7KxGVbN",
+              "end": 122,
+              "expanded_url": "https://x.com/CoFfffEeeeE1/status/2055618941666648224/photo/1",
+              "media_key": "3_2055618932493688832",
+              "start": 99,
+              "url": "https://t.co/VQU7KxGVbN"
+            },
+            {
+              "display_url": "pic.x.com/VQU7KxGVbN",
+              "end": 122,
+              "expanded_url": "https://x.com/CoFfffEeeeE1/status/2055618941666648224/photo/1",
+              "media_key": "3_2055618933835833344",
+              "start": 99,
+              "url": "https://t.co/VQU7KxGVbN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055618941666648224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "16岁的时候  #femboy #mtx #mtf #ts #trans #tgirl #非二元 #小男女孩 #酷儿  #乳房 #乳头 #屁股 #平胸 #暴露癖 #女高 #高中生 #木桶饭 #药娘 https://t.co/VQU7KxGVbN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-27T04:17:31.000Z",
+        "description": "⚧️青蛙/咖啡/代词是She或单数They \n🏳️‍⚧️MtX/Pan/酷儿/雌激素服用中\n💍@shudesu00\n👽商科/数学/编程\n💤Overdose\n🧠边缘型人格障碍\n🍥04年生/17年hrt\n⚠️血图/裸图\n🗞️汉语/English/français\n✋顺直男退散",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 47,
+                "username": "shudesu00"
+              }
+            ]
+          }
+        },
+        "id": "1596719791661715458",
+        "name": "CoFfffEeeeE",
+        "pinned_tweet_id": "1906345611391373747",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026209866541604864/gGLpjUl4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 481,
+          "following_count": 730,
+          "like_count": 20699,
+          "listed_count": 0,
+          "media_count": 984,
+          "tweet_count": 5900
+        },
+        "username": "CoFfffEeeeE1",
+        "verified": false
+      }
+    ]
+  }
+}

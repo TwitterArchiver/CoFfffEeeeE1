@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596719791661715458",
+    "conversation_id": "2038257838980817382",
+    "created_at": "2026-03-29T16:41:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-29T17:41:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038295484117528805"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1313383273079345152",
+          "start": 0,
+          "username": "ValeriaEulabeia"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038295484117528805",
+    "in_reply_to_user_id": "1313383273079345152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038257838980817382",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ValeriaEulabeia 左派不支持性少数是个鸡毛左派，，？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596719791661715458",
+        "conversation_id": "2038257838980817382",
+        "created_at": "2026-03-29T16:41:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T17:41:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038295484117528805"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1313383273079345152",
+              "start": 0,
+              "username": "ValeriaEulabeia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038295484117528805",
+        "in_reply_to_user_id": "1313383273079345152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038257838980817382",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ValeriaEulabeia 左派不支持性少数是个鸡毛左派，，？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1313383273079345152",
+        "conversation_id": "2038257838980817382",
+        "created_at": "2026-03-29T14:11:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T15:11:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038257838980817382"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2038257838980817382",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "关于死者的称呼问题，我就一句话：\n\n以斗争求团结则团结存，以退让求团结则团结亡。\n——毛泽东，1940\n\n如果你是一个跨性别者，你团结的所谓“人权斗士”连跨性别群体连最基本的性别认同都不尊重，你凭什么觉得这种人争取到的“人权”是你能够享受到的？\n别觉得左派支持性少数群体是理所当然，工党怎么出卖跨性别群体来讨好女拳和保守派家庭的，某些人是不想看还是看不见？"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1692,
+          "like_count": 60,
+          "quote_count": 3,
+          "reply_count": 4,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "关于死者的称呼问题，我就一句话：\n\n以斗争求团结则团结存，以退让求团结则团结亡。\n——毛泽东，1940\n\n如果你是一个跨性别者，你团结的所谓“人权斗士”连跨性别群体连最基本的性别认同都不尊重，你凭什么觉得这种人争取到的“人权”是你能够享受到的？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-27T04:17:31.000Z",
+        "description": "⚧️青蛙/咖啡/代词是She或单数They \n🏳️‍⚧️MtX/Pan/酷儿/雌激素服用中\n💍天下第一喜欢 @shudesu00\n👽商科/数学/编程\n💤Overdose\n🧠边缘型人格障碍\n🍥04年生/17年hrt\n⚠️血图/裸图\n🗞️汉语/English/français\n✋顺直男退散",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 54,
+                "username": "shudesu00"
+              }
+            ]
+          }
+        },
+        "id": "1596719791661715458",
+        "name": "CoFfffEeeeE",
+        "pinned_tweet_id": "1906345611391373747",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026209866541604864/gGLpjUl4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 469,
+          "following_count": 722,
+          "like_count": 19757,
+          "listed_count": 1,
+          "media_count": 966,
+          "tweet_count": 5627
+        },
+        "username": "CoFfffEeeeE1",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-06T07:39:19.000Z",
+        "description": "È la vita una battaglia,\ne il cammino irto d'inganni,\nma siam forti: abbiam vent'anni,\nl'avvenire non temiam...\n🗡️💣🖤",
+        "id": "1313383273079345152",
+        "location": "Queensland, Australia",
+        "name": "🍥Valeria Eulabeia🏳️‍⚧️",
+        "pinned_tweet_id": "2028669028810838138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010705759475208194/F3qst3e9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6926,
+          "following_count": 3770,
+          "like_count": 152218,
+          "listed_count": 18,
+          "media_count": 2604,
+          "tweet_count": 23931
+        },
+        "username": "ValeriaEulabeia",
+        "verified": true
+      }
+    ]
+  }
+}

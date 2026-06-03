@@ -1,0 +1,241 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1596719791661715458",
+    "conversation_id": "1790995495772463476",
+    "created_at": "2024-05-16T06:39:35.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-16T07:39:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1790995495772463476"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1102444843140182016",
+          "start": 3,
+          "username": "real_kai42"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1790995495772463476",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 60
+    },
+    "referenced_tweets": [
+      {
+        "id": "1788168482280141216",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @real_kai42: 【转发+点赞 抽奖】\n我的小册正式上线啦！\n\n在基础模型的质量、价格和速度已经达到可用程度后，应用将是另一个爆发点，曾经无数难以解决的语义理解、逻辑推断、复杂对话任务，现在通过非常简单的 prompt 就能解决。这给应用层近乎无限的想象力，所有应…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1596719791661715458",
+        "conversation_id": "1790995495772463476",
+        "created_at": "2024-05-16T06:39:35.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-16T07:39:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1790995495772463476"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1102444843140182016",
+              "start": 3,
+              "username": "real_kai42"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1790995495772463476",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 60
+        },
+        "referenced_tweets": [
+          {
+            "id": "1788168482280141216",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @real_kai42: 【转发+点赞 抽奖】\n我的小册正式上线啦！\n\n在基础模型的质量、价格和速度已经达到可用程度后，应用将是另一个爆发点，曾经无数难以解决的语义理解、逻辑推断、复杂对话任务，现在通过非常简单的 prompt 就能解决。这给应用层近乎无限的想象力，所有应…"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1788168071246663680",
+            "3_1788168406551994369",
+            "3_1788168416282791936"
+          ]
+        },
+        "author_id": "1102444843140182016",
+        "conversation_id": "1788168482280141216",
+        "created_at": "2024-05-08T11:26:03.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-08T12:26:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1788168482280141216"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/dMYWphbwAq",
+              "end": 171,
+              "expanded_url": "https://twitter.com/real_kai42/status/1788168482280141216/photo/1",
+              "media_key": "3_1788168071246663680",
+              "start": 148,
+              "url": "https://t.co/dMYWphbwAq"
+            },
+            {
+              "display_url": "pic.twitter.com/dMYWphbwAq",
+              "end": 171,
+              "expanded_url": "https://twitter.com/real_kai42/status/1788168482280141216/photo/1",
+              "media_key": "3_1788168406551994369",
+              "start": 148,
+              "url": "https://t.co/dMYWphbwAq"
+            },
+            {
+              "display_url": "pic.twitter.com/dMYWphbwAq",
+              "end": 171,
+              "expanded_url": "https://twitter.com/real_kai42/status/1788168482280141216/photo/1",
+              "media_key": "3_1788168416282791936",
+              "start": 148,
+              "url": "https://t.co/dMYWphbwAq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1788168482280141216",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 50,
+          "impression_count": 218904,
+          "like_count": 130,
+          "quote_count": 19,
+          "reply_count": 20,
+          "retweet_count": 60
+        },
+        "reply_settings": "everyone",
+        "text": "【转发+点赞 抽奖】\n我的小册正式上线啦！\n\n在基础模型的质量、价格和速度已经达到可用程度后，应用将是另一个爆发点，曾经无数难以解决的语义理解、逻辑推断、复杂对话任务，现在通过非常简单的 prompt 就能解决。这给应用层近乎无限的想象力，所有应用和交互模式都值得用大模型的思考方式重新审视。… https://t.co/dMYWphbwAq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-27T04:17:31.000Z",
+        "description": "⚧️青蛙/咖啡/代词是She或单数They \n🏳️‍⚧️MtF/Pan/酷儿/雌激素服用中\n🥰天下第一喜欢@shudesu00\n👽商科/数学/编程\n💤Overdose\n😨边缘型人格障碍\n🍥04年生/17年hrt/19年断药/20年二周目\n⚠️血图/裸图\n🛸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "shudesu00"
+              }
+            ]
+          }
+        },
+        "id": "1596719791661715458",
+        "name": "CoFfffEeeeE",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1596720023166685185/UoIN_u73_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 359,
+          "following_count": 800,
+          "like_count": 9535,
+          "listed_count": 1,
+          "tweet_count": 2812
+        },
+        "username": "CoFfffEeeeE1",
+        "verified": false
+      },
+      {
+        "created_at": "2019-03-04T05:45:07.000Z",
+        "description": "独立开发者，14k 开源项目 Qwerty Learner 作者，《Web Worker 播客》主播，数码爱好者\n\n仅聊技术和生活，仅代表个人观点，不太擅长文字，但话痨∠(｀ω´*) \n咨询服务: https://t.co/Y6UiLD4AIu\n\nex @BytedanceTalk、@hulu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 141,
+                "start": 127,
+                "username": "BytedanceTalk"
+              },
+              {
+                "end": 147,
+                "start": 142,
+                "username": "hulu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "kaiyi.cool/ama",
+                "end": 122,
+                "expanded_url": "https://kaiyi.cool/ama",
+                "start": 99,
+                "url": "https://t.co/Y6UiLD4AIu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kaiyi.cool",
+                "end": 23,
+                "expanded_url": "https://kaiyi.cool",
+                "start": 0,
+                "url": "https://t.co/ZCsVg4sr1t"
+              }
+            ]
+          }
+        },
+        "id": "1102444843140182016",
+        "name": "Kai",
+        "pinned_tweet_id": "1788168482280141216",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1706347168393764864/DoRcb3kd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16912,
+          "following_count": 911,
+          "like_count": 3712,
+          "listed_count": 110,
+          "tweet_count": 2482
+        },
+        "url": "https://t.co/ZCsVg4sr1t",
+        "username": "real_kai42",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596719791661715458",
+    "conversation_id": "1856540254305714456",
+    "created_at": "2024-11-14T02:37:33.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-14T03:37:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1856889174609334401"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1740188738469367808",
+          "start": 0,
+          "username": "HJS_2403_0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1856889174609334401",
+    "in_reply_to_user_id": "1740188738469367808",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1856540254305714456",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HJS_2403_0 帅"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596719791661715458",
+        "conversation_id": "1856540254305714456",
+        "created_at": "2024-11-14T02:37:33.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-14T03:37:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1856889174609334401"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1740188738469367808",
+              "start": 0,
+              "username": "HJS_2403_0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1856889174609334401",
+        "in_reply_to_user_id": "1740188738469367808",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1856540254305714456",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HJS_2403_0 帅"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1856540250983804930"
+          ]
+        },
+        "author_id": "1740188738469367808",
+        "conversation_id": "1856540254305714456",
+        "created_at": "2024-11-13T03:31:04.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-13T04:31:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1856540254305714456"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ESMvu5DiMo",
+              "end": 126,
+              "expanded_url": "https://x.com/HJS_2403_0/status/1856540254305714456/photo/1",
+              "media_key": "3_1856540250983804930",
+              "start": 103,
+              "url": "https://t.co/ESMvu5DiMo"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "f7c22e0cf7b3af2b"
+        },
+        "id": "1856540254305714456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2989,
+          "like_count": 33,
+          "quote_count": 2,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "「镇静」「幸运」\n❌不要模仿我的行为   我已准备好抗镇静/抗癫痫药物/在安全环境中测试!!!\n\n⚠️\n普瑞巴林4200mg⚠\n文拉法辛300mg\n坦度螺酮2t\n巴氯芬2t\n\n该报告上传至--EOTS-- https://t.co/ESMvu5DiMo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-27T04:17:31.000Z",
+        "description": "⚧️青蛙/咖啡/代词是She或单数They \n🏳️‍⚧️MtX/Pan/酷儿/雌激素服用中\n💍天下第一喜欢@shudesu00\n👽商科/数学/编程\n💤Overdose\n🧠边缘型人格障碍\n🍥04年生/17年hrt/19年断药/20年二周目\n⚠️血图/裸图\n🛸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "shudesu00"
+              }
+            ]
+          }
+        },
+        "id": "1596719791661715458",
+        "name": "CoFfffEeeeE",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1856389216047116288/T0Q91ZGq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 463,
+          "following_count": 780,
+          "like_count": 15051,
+          "listed_count": 0,
+          "tweet_count": 4445
+        },
+        "username": "CoFfffEeeeE1",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-28T01:51:56.000Z",
+        "description": "我是 一些些\n商務合作名:  荒井 肆 (Arai Shi)\n|⚠️| od | shtwt @HJS_2403_1  | 負能碎碎念 | 圖片重加工  | LGBTQ \n虚无主义者 | 理想主义者 | 灰天使 | INFP-A | 🩵🩶 自杀干预供给 \n🏳️‍🌈  🏳️‍⚧️ 🦋 🦴 ❤️‍🩹 ✨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 47,
+                "username": "HJS_2403_1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bio.site/AraiShi",
+                "end": 23,
+                "expanded_url": "https://bio.site/AraiShi",
+                "start": 0,
+                "url": "https://t.co/Z3lsqQxLtB"
+              }
+            ]
+          }
+        },
+        "id": "1740188738469367808",
+        "location": "꒰ঌ♫*'✟:｡-願你退此苦海以至願山-｡.:*♡'*♪໒꒱",
+        "name": "閃閃亮 毛茸茸 可可愛愛的一些些",
+        "pinned_tweet_id": "1847870386798744054",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1794656575375978497/ModXRhcE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1923,
+          "following_count": 270,
+          "like_count": 23613,
+          "listed_count": 4,
+          "tweet_count": 2154
+        },
+        "url": "https://t.co/Z3lsqQxLtB",
+        "username": "HJS_2403_0",
+        "verified": true
+      }
+    ]
+  }
+}

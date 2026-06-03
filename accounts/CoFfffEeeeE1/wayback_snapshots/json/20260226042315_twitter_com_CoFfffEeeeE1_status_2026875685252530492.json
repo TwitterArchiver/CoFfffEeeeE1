@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596719791661715458",
+    "conversation_id": "2026797585084854518",
+    "created_at": "2026-02-26T04:23:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-26T05:23:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026875685252530492"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1928254131782782976",
+          "start": 0,
+          "username": "8zhu9ye6qing4"
+        },
+        {
+          "end": 31,
+          "id": "1549011946871336960",
+          "start": 15,
+          "username": "Alantur57426778"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026875685252530492",
+    "in_reply_to_user_id": "1928254131782782976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026800585471832554",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@8zhu9ye6qing4 @Alantur57426778 图3又不是ta。而且激酷也可以做这种角色扮演去消解性别秩序"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596719791661715458",
+        "conversation_id": "2026797585084854518",
+        "created_at": "2026-02-26T04:23:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T05:23:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026875685252530492"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1928254131782782976",
+              "start": 0,
+              "username": "8zhu9ye6qing4"
+            },
+            {
+              "end": 31,
+              "id": "1549011946871336960",
+              "start": 15,
+              "username": "Alantur57426778"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026875685252530492",
+        "in_reply_to_user_id": "1928254131782782976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026800585471832554",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@8zhu9ye6qing4 @Alantur57426778 图3又不是ta。而且激酷也可以做这种角色扮演去消解性别秩序"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1928254131782782976",
+        "conversation_id": "2026797585084854518",
+        "created_at": "2026-02-25T23:24:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T00:24:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026800585471832554"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1549011946871336960",
+              "start": 0,
+              "username": "Alantur57426778"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026800585471832554",
+        "in_reply_to_user_id": "1549011946871336960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 73,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026797585084854518",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Alantur57426778 我本来想赞你，但是你的图3有我不认同的内容\n男同不是“娘娘腔”，当然也不是“爹爹腔”\n你一个激酷搞这种最基本的性别刻板印象错误合适吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-27T04:17:31.000Z",
+        "description": "⚧️青蛙/咖啡/代词是She或单数They \n🏳️‍⚧️MtX/Pan/酷儿/雌激素服用中\n💍天下第一喜欢 @shudesu00\n👽商科/数学/编程\n💤Overdose\n🧠边缘型人格障碍\n🍥04年生/17年hrt\n⚠️血图/裸图\n🗞️汉语/English/français\n✋顺直男退散",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 54,
+                "username": "shudesu00"
+              }
+            ]
+          }
+        },
+        "id": "1596719791661715458",
+        "name": "CoFfffEeeeE",
+        "pinned_tweet_id": "1906345611391373747",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026209866541604864/gGLpjUl4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 469,
+          "following_count": 726,
+          "like_count": 18747,
+          "listed_count": 1,
+          "media_count": 953,
+          "tweet_count": 5434
+        },
+        "username": "CoFfffEeeeE1",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-30T00:56:35.000Z",
+        "description": "酷本位｜非二元｜无性恋｜敌人来了有蜘蛛切🕷️🚫｜毛泽东思想🚫｜🏳️‍🌈🏳️‍⚧️🏴🏴‍☠️",
+        "id": "1928254131782782976",
+        "location": "距离你89.64米",
+        "name": "竹叶青⛩️🎌",
+        "pinned_tweet_id": "2021261011123073031",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940047964883353601/f3_Wd363_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 191,
+          "like_count": 4785,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 1034
+        },
+        "username": "8zhu9ye6qing4",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-18T12:43:31.000Z",
+        "description": "沢尔请给全体酷儿道歉！",
+        "id": "1549011946871336960",
+        "location": "Hi,there!",
+        "name": "咸福宫日记",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1672247087621197824/st59jOX0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2261,
+          "following_count": 166,
+          "like_count": 11818,
+          "listed_count": 5,
+          "media_count": 555,
+          "tweet_count": 1610
+        },
+        "username": "Alantur57426778",
+        "verified": false
+      }
+    ]
+  }
+}

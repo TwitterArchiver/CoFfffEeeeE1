@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596719791661715458",
+    "conversation_id": "1962859436122485215",
+    "created_at": "2025-09-02T20:41:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-02T21:41:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962979270973902942"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1360161759257104384",
+          "start": 0,
+          "username": "AspiLin0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962979270973902942",
+    "in_reply_to_user_id": "1360161759257104384",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1962859436122485215",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AspiLin0 染色体、性腺、生殖器没有性别，直接叫XXXY卵巢睾丸阴蒂阴茎好吗，而且每项可能情况会更多样"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "社会性别好像定义不是很明确，所以可能不是太严谨",
+        "height": 300,
+        "media_key": "3_1962859430950612992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gz16QLXWMAABD0S.jpg",
+        "width": 533
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596719791661715458",
+        "conversation_id": "1962859436122485215",
+        "created_at": "2025-09-02T20:41:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-02T21:41:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962979270973902942"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1360161759257104384",
+              "start": 0,
+              "username": "AspiLin0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962979270973902942",
+        "in_reply_to_user_id": "1360161759257104384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962859436122485215",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AspiLin0 染色体、性腺、生殖器没有性别，直接叫XXXY卵巢睾丸阴蒂阴茎好吗，而且每项可能情况会更多样"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1962859430950612992"
+          ]
+        },
+        "author_id": "1360161759257104384",
+        "conversation_id": "1962859436122485215",
+        "created_at": "2025-09-02T12:45:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-02T13:45:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1962859436122485215"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1TcDmhlNNi",
+              "end": 139,
+              "expanded_url": "https://x.com/AspiLin0/status/1962859436122485215/photo/1",
+              "media_key": "3_1962859430950612992",
+              "start": 116,
+              "url": "https://t.co/1TcDmhlNNi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962859436122485215",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2566,
+          "like_count": 75,
+          "quote_count": 1,
+          "reply_count": 13,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你的意思是说\n一个MTF将会是:\n染色体性别:男\n性腺性别:女\n生殖器性别:男or女（取决于是否手术）\n社会性别:男or女（取决于是否rle）\n心理性别:女\n法律性别：男or女（取决是否改证）\n\n我一定要创造一个没有任何性别的世界 https://t.co/1TcDmhlNNi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-27T04:17:31.000Z",
+        "description": "⚧️青蛙/咖啡/代词是She或单数They \n🏳️‍⚧️MtX/Pan/酷儿/雌激素服用中\n💍天下第一喜欢@shudesu00\n👽商科/数学/编程\n💤Overdose\n🧠边缘型人格障碍\n🍥04年生/17年hrt\n⚠️血图/裸图\n🗞️汉语/English/français\n✋顺直男退散",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "shudesu00"
+              }
+            ]
+          }
+        },
+        "id": "1596719791661715458",
+        "name": "CoFfffEeeeE",
+        "pinned_tweet_id": "1906345611391373747",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863941997414977537/NOGgaInd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 459,
+          "following_count": 749,
+          "like_count": 17638,
+          "listed_count": 1,
+          "media_count": 937,
+          "tweet_count": 5236
+        },
+        "username": "CoFfffEeeeE1",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-12T09:40:19.000Z",
+        "description": "一种游离于量子之海，感染你微管意识网络的狐狸病毒/人的一生，不过是曲折而复杂的自杀过程",
+        "id": "1360161759257104384",
+        "location": "梦之屿 通天塔图书馆",
+        "name": "阿司匹林片也是阿片",
+        "pinned_tweet_id": "1962503225527156808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951646942662131712/xiPjN7vp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 477,
+          "following_count": 481,
+          "like_count": 12633,
+          "listed_count": 4,
+          "media_count": 261,
+          "tweet_count": 3137
+        },
+        "username": "AspiLin0",
+        "verified": false
+      }
+    ]
+  }
+}

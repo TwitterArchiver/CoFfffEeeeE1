@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596719791661715458",
+    "conversation_id": "2027444838816485546",
+    "created_at": "2026-02-27T18:04:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T19:04:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027444838816485546"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1760680069415174144",
+          "start": 3,
+          "username": "KoitoSiamese"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027444838816485546",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027436094183321667",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @KoitoSiamese: 我可以永远停在这里吗\n还是说当我准备好了，我还需要迈向别处呢\n这里离人好远，好安静"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596719791661715458",
+        "conversation_id": "2027444838816485546",
+        "created_at": "2026-02-27T18:04:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T19:04:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027444838816485546"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1760680069415174144",
+              "start": 3,
+              "username": "KoitoSiamese"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027444838816485546",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027436094183321667",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @KoitoSiamese: 我可以永远停在这里吗\n还是说当我准备好了，我还需要迈向别处呢\n这里离人好远，好安静"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1760680069415174144",
+        "conversation_id": "2027436094183321667",
+        "created_at": "2026-02-27T17:30:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T18:30:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027436094183321667"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2027436094183321667",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我可以永远停在这里吗\n还是说当我准备好了，我还需要迈向别处呢\n这里离人好远，好安静"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-27T04:17:31.000Z",
+        "description": "⚧️青蛙/咖啡/代词是She或单数They \n🏳️‍⚧️MtX/Pan/酷儿/雌激素服用中\n💍天下第一喜欢 @shudesu00\n👽商科/数学/编程\n💤Overdose\n🧠边缘型人格障碍\n🍥04年生/17年hrt\n⚠️血图/裸图\n🗞️汉语/English/français\n✋顺直男退散",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 54,
+                "username": "shudesu00"
+              }
+            ]
+          }
+        },
+        "id": "1596719791661715458",
+        "name": "CoFfffEeeeE",
+        "pinned_tweet_id": "1906345611391373747",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026209866541604864/gGLpjUl4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 471,
+          "following_count": 726,
+          "like_count": 18807,
+          "listed_count": 1,
+          "media_count": 957,
+          "tweet_count": 5485
+        },
+        "username": "CoFfffEeeeE1",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-22T14:57:01.000Z",
+        "description": "纸壳做的猫 / 幸福寻觅中 / 监狱中使用小号 @Koitosiamese1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 24,
+                "username": "Koitosiamese1"
+              }
+            ]
+          }
+        },
+        "id": "1760680069415174144",
+        "location": "猫窝",
+        "name": "番茄暹罗猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1760683093663580160/H-YLCSr4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1958,
+          "following_count": 80,
+          "like_count": 6309,
+          "listed_count": 6,
+          "media_count": 446,
+          "tweet_count": 8357
+        },
+        "username": "KoitoSiamese",
+        "verified": false
+      }
+    ]
+  }
+}

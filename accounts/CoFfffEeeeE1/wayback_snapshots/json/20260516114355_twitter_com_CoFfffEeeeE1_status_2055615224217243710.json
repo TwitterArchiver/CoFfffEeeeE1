@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055615213295259648"
+      ]
+    },
+    "author_id": "1596719791661715458",
+    "conversation_id": "2055615224217243710",
+    "created_at": "2026-05-16T11:43:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T12:43:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055615224217243710"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 8,
+          "start": 5,
+          "tag": "奶子"
+        },
+        {
+          "end": 12,
+          "start": 9,
+          "tag": "乳房"
+        },
+        {
+          "end": 16,
+          "start": 13,
+          "tag": "乳头"
+        },
+        {
+          "end": 20,
+          "start": 17,
+          "tag": "平胸"
+        },
+        {
+          "end": 23,
+          "start": 21,
+          "tag": "胸"
+        },
+        {
+          "end": 26,
+          "start": 24,
+          "tag": "胖"
+        },
+        {
+          "end": 31,
+          "start": 27,
+          "tag": "暴露癖"
+        },
+        {
+          "end": 39,
+          "start": 32,
+          "tag": "femboy"
+        },
+        {
+          "end": 43,
+          "start": 40,
+          "tag": "贫乳"
+        },
+        {
+          "end": 48,
+          "start": 44,
+          "tag": "mtx"
+        },
+        {
+          "end": 55,
+          "start": 49,
+          "tag": "trans"
+        },
+        {
+          "end": 62,
+          "start": 56,
+          "tag": "tgirl"
+        },
+        {
+          "end": 67,
+          "start": 63,
+          "tag": "非二元"
+        },
+        {
+          "end": 73,
+          "start": 68,
+          "tag": "小男女孩"
+        },
+        {
+          "end": 77,
+          "start": 74,
+          "tag": "酷儿"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/q5tPWLkLH6",
+          "end": 101,
+          "expanded_url": "https://x.com/CoFfffEeeeE1/status/2055615224217243710/photo/1",
+          "media_key": "3_2055615213295259648",
+          "start": 78,
+          "url": "https://t.co/q5tPWLkLH6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055615224217243710",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我很满意 #奶子 #乳房 #乳头 #平胸 #胸 #胖 #暴露癖 #femboy #贫乳 #mtx #trans #tgirl #非二元 #小男女孩 #酷儿 https://t.co/q5tPWLkLH6"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2055615224217243710].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2055615224217243710",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2055615224217243710"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2055615213295259648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIcDJTdaUAApyWN.jpg",
+        "width": 2048
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-27T04:17:31.000Z",
+        "description": "⚧️青蛙/咖啡/代词是She或单数They \n🏳️‍⚧️MtX/Pan/酷儿/雌激素服用中\n💍@shudesu00\n👽商科/数学/编程\n💤Overdose\n🧠边缘型人格障碍\n🍥04年生/17年hrt\n⚠️血图/裸图\n🗞️汉语/English/français\n✋顺直男退散",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 47,
+                "username": "shudesu00"
+              }
+            ]
+          }
+        },
+        "id": "1596719791661715458",
+        "name": "CoFfffEeeeE",
+        "pinned_tweet_id": "1906345611391373747",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026209866541604864/gGLpjUl4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 481,
+          "following_count": 730,
+          "like_count": 20699,
+          "listed_count": 0,
+          "media_count": 983,
+          "tweet_count": 5898
+        },
+        "username": "CoFfffEeeeE1",
+        "verified": false
+      }
+    ]
+  }
+}

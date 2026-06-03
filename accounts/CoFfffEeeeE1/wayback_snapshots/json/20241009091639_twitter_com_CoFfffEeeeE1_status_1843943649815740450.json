@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596719791661715458",
+    "conversation_id": "1843903304654565486",
+    "created_at": "2024-10-09T09:16:39.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-09T10:16:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1843943649815740450"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1833669600724324352",
+          "start": 0,
+          "username": "LisaMalenykaya"
+        },
+        {
+          "end": 32,
+          "id": "1462419807173677059",
+          "start": 16,
+          "username": "arctan3_1415926"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1843943649815740450",
+    "in_reply_to_user_id": "1833669600724324352",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1843904051114848415",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LisaMalenykaya @arctan3_1415926 可以去拿诺贝尔物理学奖，基于人脑想象的传播算法优化，很好的神经网络研究方向🤓"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596719791661715458",
+        "conversation_id": "1843903304654565486",
+        "created_at": "2024-10-09T09:16:39.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-09T10:16:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1843943649815740450"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1833669600724324352",
+              "start": 0,
+              "username": "LisaMalenykaya"
+            },
+            {
+              "end": 32,
+              "id": "1462419807173677059",
+              "start": 16,
+              "username": "arctan3_1415926"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1843943649815740450",
+        "in_reply_to_user_id": "1833669600724324352",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1843904051114848415",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LisaMalenykaya @arctan3_1415926 可以去拿诺贝尔物理学奖，基于人脑想象的传播算法优化，很好的神经网络研究方向🤓"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1833669600724324352",
+        "conversation_id": "1843903304654565486",
+        "created_at": "2024-10-09T06:39:18.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-09T07:39:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1843904051114848415"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1462419807173677059",
+              "start": 0,
+              "username": "arctan3_1415926"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1843904051114848415",
+        "in_reply_to_user_id": "1462419807173677059",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 49,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1843903304654565486",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@arctan3_1415926 那学生物的怎么办😭😭😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-27T04:17:31.000Z",
+        "description": "⚧️青蛙/咖啡/代词是She或单数They \n🏳️‍⚧️MtF/Pan/酷儿/雌激素服用中\n🥰天下第一喜欢@shudesu00\n👽商科/数学/编程\n💤Overdose\n😨边缘型人格障碍\n🍥04年生/17年hrt/19年断药/20年二周目\n⚠️血图/裸图\n🛸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "shudesu00"
+              }
+            ]
+          }
+        },
+        "id": "1596719791661715458",
+        "name": "CoFfffEeeeE",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1833443600757362688/WLmVr9SG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 438,
+          "following_count": 768,
+          "like_count": 13433,
+          "listed_count": 0,
+          "tweet_count": 3801
+        },
+        "username": "CoFfffEeeeE1",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-11T00:51:24.000Z",
+        "description": "Slavic Languages & Cultures | Romance Languages & Cultures | Politics and Society of Latin Europe Countries | Feminism and Queer Study  ⬅️以上和本人现在从事的工作毫无关联",
+        "id": "1833669600724324352",
+        "location": "Blagoevgrad, Bulgaria",
+        "name": "Kuma Lisa",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1833669686107779072/Mz1lyy5x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 91,
+          "like_count": 1098,
+          "listed_count": 1,
+          "tweet_count": 297
+        },
+        "username": "LisaMalenykaya",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-21T13:58:25.000Z",
+        "description": "abandoned",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tw04.damoplane1.com/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://tw04.damoplane1.com/#/register?code=khRH22kV",
+                "start": 0,
+                "url": "https://t.co/CQ0rWuJGb1"
+              }
+            ]
+          }
+        },
+        "id": "1462419807173677059",
+        "location": "自用梯子🪜",
+        "name": "Moran🌈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1834778659720511488/8yJFtB2__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7587,
+          "following_count": 1765,
+          "like_count": 6433,
+          "listed_count": 18,
+          "tweet_count": 7198
+        },
+        "url": "https://t.co/CQ0rWuJGb1",
+        "username": "arctan3_1415926",
+        "verified": false
+      }
+    ]
+  }
+}

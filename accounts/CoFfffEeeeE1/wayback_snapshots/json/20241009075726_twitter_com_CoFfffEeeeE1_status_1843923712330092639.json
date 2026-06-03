@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596719791661715458",
+    "conversation_id": "1843678995629678933",
+    "created_at": "2024-10-09T07:57:26.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-09T08:57:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1843923712330092639"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1747138924450029568",
+          "start": 0,
+          "username": "od_wiki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1843923712330092639",
+    "in_reply_to_user_id": "1747138924450029568",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1843678995629678933",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@od_wiki 部署的谁家的模型"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596719791661715458",
+        "conversation_id": "1843678995629678933",
+        "created_at": "2024-10-09T07:57:26.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-09T08:57:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1843923712330092639"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1747138924450029568",
+              "start": 0,
+              "username": "od_wiki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1843923712330092639",
+        "in_reply_to_user_id": "1747138924450029568",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1843678995629678933",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@od_wiki 部署的谁家的模型"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1843678988411211776",
+            "3_1843678988411252738"
+          ]
+        },
+        "author_id": "1747138924450029568",
+        "conversation_id": "1843678995629678933",
+        "created_at": "2024-10-08T15:45:01.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-08T16:45:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1843678995629678933"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AS7yaOPiwx",
+              "end": 71,
+              "expanded_url": "https://x.com/od_wiki/status/1843678995629678933/photo/1",
+              "media_key": "3_1843678988411211776",
+              "start": 48,
+              "url": "https://t.co/AS7yaOPiwx"
+            },
+            {
+              "display_url": "pic.x.com/AS7yaOPiwx",
+              "end": 71,
+              "expanded_url": "https://x.com/od_wiki/status/1843678995629678933/photo/1",
+              "media_key": "3_1843678988411252738",
+              "start": 48,
+              "url": "https://t.co/AS7yaOPiwx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1843678995629678933",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 2118,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "随着人工智能的发展，给网站写了一个gpt，但是好像有点问题…\nCatGpt 目前处在测试阶段… https://t.co/AS7yaOPiwx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-27T04:17:31.000Z",
+        "description": "⚧️青蛙/咖啡/代词是She或单数They \n🏳️‍⚧️MtF/Pan/酷儿/雌激素服用中\n🥰天下第一喜欢@shudesu00\n👽商科/数学/编程\n💤Overdose\n😨边缘型人格障碍\n🍥04年生/17年hrt/19年断药/20年二周目\n⚠️血图/裸图\n🛸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "shudesu00"
+              }
+            ]
+          }
+        },
+        "id": "1596719791661715458",
+        "name": "CoFfffEeeeE",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1833443600757362688/WLmVr9SG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 438,
+          "following_count": 768,
+          "like_count": 13422,
+          "listed_count": 0,
+          "tweet_count": 3790
+        },
+        "username": "CoFfffEeeeE1",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-16T06:09:23.000Z",
+        "description": "个人博客：https://t.co/jzBbyyNnJF\n赌狗俱乐部：https://t.co/VGq4FK04Cv",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "hiv.icu",
+                "end": 28,
+                "expanded_url": "https://hiv.icu/",
+                "start": 5,
+                "url": "https://t.co/jzBbyyNnJF"
+              },
+              {
+                "display_url": "t.me/dugoujulebu",
+                "end": 58,
+                "expanded_url": "https://t.me/dugoujulebu",
+                "start": 35,
+                "url": "https://t.co/VGq4FK04Cv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "od-wiki.com",
+                "end": 23,
+                "expanded_url": "https://www.od-wiki.com/",
+                "start": 0,
+                "url": "https://t.co/YHP0zrJSxF"
+              }
+            ]
+          }
+        },
+        "id": "1747138924450029568",
+        "location": "東京 港区",
+        "name": "胖猫🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1843322174725292528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821511007279206400/sD9YYCcq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13689,
+          "following_count": 5798,
+          "like_count": 5720,
+          "listed_count": 11,
+          "tweet_count": 4501
+        },
+        "url": "https://t.co/YHP0zrJSxF",
+        "username": "od_wiki",
+        "verified": false
+      }
+    ]
+  }
+}

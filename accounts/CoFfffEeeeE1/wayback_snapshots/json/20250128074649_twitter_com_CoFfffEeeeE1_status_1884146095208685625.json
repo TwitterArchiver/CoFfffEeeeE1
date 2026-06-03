@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596719791661715458",
+    "conversation_id": "1884085834988847172",
+    "created_at": "2025-01-28T07:46:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-28T08:46:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1884146095208685625"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1655466649540075520",
+          "start": 0,
+          "username": "Z1JCK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1884146095208685625",
+    "in_reply_to_user_id": "1655466649540075520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1884085834988847172",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Z1JCK 要多放点硬的细的成团团进去"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596719791661715458",
+        "conversation_id": "1884085834988847172",
+        "created_at": "2025-01-28T07:46:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-28T08:46:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1884146095208685625"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1655466649540075520",
+              "start": 0,
+              "username": "Z1JCK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884146095208685625",
+        "in_reply_to_user_id": "1655466649540075520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1884085834988847172",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Z1JCK 要多放点硬的细的成团团进去"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1884085825388044289"
+          ]
+        },
+        "author_id": "1655466649540075520",
+        "conversation_id": "1884085834988847172",
+        "created_at": "2025-01-28T03:47:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-28T04:47:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1884085834988847172"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xloKnRzw2J",
+              "end": 37,
+              "expanded_url": "https://x.com/Z1JCK/status/1884085834988847172/photo/1",
+              "media_key": "3_1884085825388044289",
+              "start": 14,
+              "url": "https://t.co/xloKnRzw2J"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884085834988847172",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 8874,
+          "like_count": 129,
+          "quote_count": 0,
+          "reply_count": 16,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "算了…和你们城里人说不清楚 https://t.co/xloKnRzw2J"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-27T04:17:31.000Z",
+        "description": "⚧️青蛙/咖啡/代词是She或单数They \n🏳️‍⚧️MtX/Pan/酷儿/雌激素服用中\n💍天下第一喜欢@shudesu00\n👽商科/数学/编程\n💤Overdose\n🧠边缘型人格障碍\n🍥04年生/17年hrt/19年断药/20年二周目\n⚠️血图/裸图\n🗞️汉语/English/français\n🛸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "shudesu00"
+              }
+            ]
+          }
+        },
+        "id": "1596719791661715458",
+        "name": "CoFfffEeeeE",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863941997414977537/NOGgaInd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 465,
+          "following_count": 781,
+          "like_count": 16377,
+          "listed_count": 0,
+          "media_count": 837,
+          "tweet_count": 4790
+        },
+        "username": "CoFfffEeeeE1",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-08T06:56:30.000Z",
+        "description": "ESFJ｜巨蟹｜02｜南京人｜直男｜在石家庄学摄影的｜常住在上海｜热爱生活｜喜欢分享自己的日常｜欢迎找我聊天｜男同请远离我｜推荐我自己使用的VPN加速器🚀 高速 稳定https://t.co/5PObg7tEO4",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "wwwwwl.sogood9.com/#/register?cod…",
+                "end": 106,
+                "expanded_url": "https://wwwwwl.sogood9.com/#/register?code=NABpEruA",
+                "start": 83,
+                "url": "https://t.co/5PObg7tEO4"
+              }
+            ]
+          }
+        },
+        "id": "1655466649540075520",
+        "location": "距离你0.3km",
+        "name": "Criminal📷",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863108201777958912/5KSgFl0I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9789,
+          "following_count": 448,
+          "like_count": 23269,
+          "listed_count": 8,
+          "media_count": 111,
+          "tweet_count": 4519
+        },
+        "username": "Z1JCK",
+        "verified": false
+      }
+    ]
+  }
+}

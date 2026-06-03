@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596719791661715458",
+    "conversation_id": "2041435518517326333",
+    "created_at": "2026-04-07T10:59:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T11:59:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041470798972715192"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1339446920511569920",
+          "start": 0,
+          "username": "shudesu00"
+        },
+        {
+          "end": 20,
+          "id": "2007465888438706176",
+          "start": 11,
+          "username": "Kakuko42"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041470798972715192",
+    "in_reply_to_user_id": "1339446920511569920",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041452385973989784",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shudesu00 @Kakuko42 瑞鹤白普噢一西！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596719791661715458",
+        "conversation_id": "2041435518517326333",
+        "created_at": "2026-04-07T10:59:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T11:59:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041470798972715192"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1339446920511569920",
+              "start": 0,
+              "username": "shudesu00"
+            },
+            {
+              "end": 20,
+              "id": "2007465888438706176",
+              "start": 11,
+              "username": "Kakuko42"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041470798972715192",
+        "in_reply_to_user_id": "1339446920511569920",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041452385973989784",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shudesu00 @Kakuko42 瑞鹤白普噢一西！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1339446920511569920",
+        "conversation_id": "2041435518517326333",
+        "created_at": "2026-04-07T09:45:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T10:45:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041452385973989784"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2007465888438706176",
+              "start": 0,
+              "username": "Kakuko42"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041452385973989784",
+        "in_reply_to_user_id": "2007465888438706176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 37,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041435518517326333",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kakuko42 我感觉瑞鹤的好吃！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-27T04:17:31.000Z",
+        "description": "⚧️青蛙/咖啡/代词是She或单数They \n🏳️‍⚧️MtX/Pan/酷儿/雌激素服用中\n💍天下第一喜欢 @shudesu00\n👽商科/数学/编程\n💤Overdose\n🧠边缘型人格障碍\n🍥04年生/17年hrt\n⚠️血图/裸图\n🗞️汉语/English/français\n✋顺直男退散",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 54,
+                "username": "shudesu00"
+              }
+            ]
+          }
+        },
+        "id": "1596719791661715458",
+        "name": "CoFfffEeeeE",
+        "pinned_tweet_id": "1906345611391373747",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026209866541604864/gGLpjUl4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 468,
+          "following_count": 724,
+          "like_count": 19840,
+          "listed_count": 1,
+          "media_count": 971,
+          "tweet_count": 5653
+        },
+        "username": "CoFfffEeeeE1",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-17T05:46:58.000Z",
+        "description": "ftx__They/He/it_习惯性点赞_强迫症_bp-过量_aspd/ADHD_别来说教易爆炸_👾…🐱愛🩵👭 💕✝️想骂我先找@CoFfffEeeeE1 @Miekoudesu @Jscjnb 然后我们一起骂你",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 65,
+                "username": "CoFfffEeeeE1"
+              },
+              {
+                "end": 90,
+                "start": 79,
+                "username": "Miekoudesu"
+              },
+              {
+                "end": 98,
+                "start": 91,
+                "username": "Jscjnb"
+              }
+            ]
+          }
+        },
+        "id": "1339446920511569920",
+        "name": "小树🌲_MaruyamaTachiki",
+        "pinned_tweet_id": "1792758274967953516",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031122814372294656/GXY7w6V2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4757,
+          "following_count": 2324,
+          "like_count": 116427,
+          "listed_count": 9,
+          "media_count": 1948,
+          "tweet_count": 19573
+        },
+        "username": "shudesu00",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-03T14:55:51.000Z",
+        "description": "=核子/Kakuko｜20⬆️｜enby｜飛び込んでみたいと 思う｜不在国内不卖药｜Lay Back and Dive.",
+        "id": "2007465888438706176",
+        "location": "眠れない 午前二時",
+        "name": "核子融合炉 #室宿一",
+        "pinned_tweet_id": "2026304498721865911",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017663558406873088/puT6sL5a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 167,
+          "like_count": 1830,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 121
+        },
+        "username": "Kakuko42",
+        "verified": false
+      }
+    ]
+  }
+}

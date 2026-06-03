@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1861641206037651457",
+        "3_1861641206662664192"
+      ]
+    },
+    "author_id": "1596719791661715458",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1861641238228935136",
+    "created_at": "2024-11-27T05:20:33.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-27T06:20:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1861641238228935136"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZXvQkNw9nA",
+          "end": 26,
+          "expanded_url": "https://x.com/CoFfffEeeeE1/status/1861641238228935136/photo/1",
+          "media_key": "3_1861641206037651457",
+          "start": 3,
+          "url": "https://t.co/ZXvQkNw9nA"
+        },
+        {
+          "display_url": "pic.x.com/ZXvQkNw9nA",
+          "end": 26,
+          "expanded_url": "https://x.com/CoFfffEeeeE1/status/1861641238228935136/photo/1",
+          "media_key": "3_1861641206662664192",
+          "start": 3,
+          "url": "https://t.co/ZXvQkNw9nA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1861641238228935136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "谁懂 https://t.co/ZXvQkNw9nA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1861641206037651457",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GdXg0EEaoAEq91X.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1861641206662664192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GdXg0GZbkAA00vS.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1861641206037651457",
+            "3_1861641206662664192"
+          ]
+        },
+        "author_id": "1596719791661715458",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1861641238228935136",
+        "created_at": "2024-11-27T05:20:33.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-27T06:20:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1861641238228935136"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZXvQkNw9nA",
+              "end": 26,
+              "expanded_url": "https://x.com/CoFfffEeeeE1/status/1861641238228935136/photo/1",
+              "media_key": "3_1861641206037651457",
+              "start": 3,
+              "url": "https://t.co/ZXvQkNw9nA"
+            },
+            {
+              "display_url": "pic.x.com/ZXvQkNw9nA",
+              "end": 26,
+              "expanded_url": "https://x.com/CoFfffEeeeE1/status/1861641238228935136/photo/1",
+              "media_key": "3_1861641206662664192",
+              "start": 3,
+              "url": "https://t.co/ZXvQkNw9nA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1861641238228935136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谁懂 https://t.co/ZXvQkNw9nA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-27T04:17:31.000Z",
+        "description": "⚧️青蛙/咖啡/代词是She或单数They \n🏳️‍⚧️MtX/Pan/酷儿/雌激素服用中\n💍天下第一喜欢@shudesu00\n👽商科/数学/编程\n💤Overdose\n🧠边缘型人格障碍\n🍥04年生/17年hrt/19年断药/20年二周目\n⚠️血图/裸图\n🛸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "shudesu00"
+              }
+            ]
+          }
+        },
+        "id": "1596719791661715458",
+        "name": "CoFfffEeeeE",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1856389216047116288/T0Q91ZGq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 465,
+          "following_count": 783,
+          "like_count": 15441,
+          "listed_count": 0,
+          "tweet_count": 4535
+        },
+        "username": "CoFfffEeeeE1",
+        "verified": false
+      }
+    ]
+  }
+}

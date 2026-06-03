@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596719791661715458",
+    "conversation_id": "1963316281484189877",
+    "created_at": "2025-09-04T14:17:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-04T15:17:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1963607445810679947"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1960026902418321408",
+          "start": 0,
+          "username": "Drugs_Kitten"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1963607445810679947",
+    "in_reply_to_user_id": "1960026902418321408",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1963316281484189877",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Drugs_Kitten 也要先有此念头才能在药效里这样说，除非此人平时就以玩弄他人感情为乐，没事不要和不知根知底的人一起嗑药"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596719791661715458",
+        "conversation_id": "1963316281484189877",
+        "created_at": "2025-09-04T14:17:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-04T15:17:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963607445810679947"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1960026902418321408",
+              "start": 0,
+              "username": "Drugs_Kitten"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963607445810679947",
+        "in_reply_to_user_id": "1960026902418321408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963316281484189877",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Drugs_Kitten 也要先有此念头才能在药效里这样说，除非此人平时就以玩弄他人感情为乐，没事不要和不知根知底的人一起嗑药"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1960026902418321408",
+        "conversation_id": "1963316281484189877",
+        "created_at": "2025-09-03T19:00:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-03T20:00:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1963316281484189877"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1963316281484189877",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1886,
+          "like_count": 58,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "你们知道吗？吸毒的人说的话是最不可信的...“我爱你”“我恨你”都只不过是药效的开始与结束罢了......我爱你 我很愿意相信我是真的爱你 但我也清楚我在药效里 我没法真正地去表达、去爱。我很抱歉。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-27T04:17:31.000Z",
+        "description": "⚧️青蛙/咖啡/代词是She或单数They \n🏳️‍⚧️MtX/Pan/酷儿/雌激素服用中\n💍天下第一喜欢@shudesu00\n👽商科/数学/编程\n💤Overdose\n🧠边缘型人格障碍\n🍥04年生/17年hrt\n⚠️血图/裸图\n🗞️汉语/English/français\n✋顺直男退散",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "shudesu00"
+              }
+            ]
+          }
+        },
+        "id": "1596719791661715458",
+        "name": "CoFfffEeeeE",
+        "pinned_tweet_id": "1906345611391373747",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863941997414977537/NOGgaInd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 462,
+          "following_count": 748,
+          "like_count": 17690,
+          "listed_count": 1,
+          "media_count": 937,
+          "tweet_count": 5253
+        },
+        "username": "CoFfffEeeeE1",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-25T17:10:16.000Z",
+        "description": "💖你好，这里是小猫。｜药物百科副Wiki主｜有任何药物相关问题都可以私信免费咨询哦💕｜ 私信回fo｜谨慎关注里推:@CuteKittenO3O会有大量负能/药物使用",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 57,
+                "username": "CuteKittenO3O"
+              }
+            ]
+          }
+        },
+        "id": "1960026902418321408",
+        "name": "💊MediKitty🌌",
+        "pinned_tweet_id": "1960031991401005577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960036096215224320/DqeocQbY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 413,
+          "following_count": 134,
+          "like_count": 371,
+          "listed_count": 1,
+          "media_count": 4,
+          "tweet_count": 158
+        },
+        "username": "Drugs_Kitten",
+        "verified": false
+      }
+    ]
+  }
+}

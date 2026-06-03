@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596719791661715458",
+    "conversation_id": "2050947826935611606",
+    "created_at": "2026-05-03T15:20:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T16:20:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050958770164109337"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1594280404504444931",
+          "start": 0,
+          "username": "LichitLich"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050958770164109337",
+    "in_reply_to_user_id": "1594280404504444931",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050947826935611606",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LichitLich 1"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596719791661715458",
+        "conversation_id": "2050947826935611606",
+        "created_at": "2026-05-03T15:20:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T16:20:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050958770164109337"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1594280404504444931",
+              "start": 0,
+              "username": "LichitLich"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050958770164109337",
+        "in_reply_to_user_id": "1594280404504444931",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050947826935611606",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LichitLich 1"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1594280404504444931",
+        "conversation_id": "2050947826935611606",
+        "created_at": "2026-05-03T14:37:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T15:37:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050947826935611606"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2050947826935611606",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 44,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谁请我抽包烟\n心情萎靡"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-27T04:17:31.000Z",
+        "description": "⚧️青蛙/咖啡/代词是She或单数They \n🏳️‍⚧️MtX/Pan/酷儿/雌激素服用中\n💍@shudesu00\n👽商科/数学/编程\n💤Overdose\n🧠边缘型人格障碍\n🍥04年生/17年hrt\n⚠️血图/裸图\n🗞️汉语/English/français\n✋顺直男退散",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 47,
+                "username": "shudesu00"
+              }
+            ]
+          }
+        },
+        "id": "1596719791661715458",
+        "name": "CoFfffEeeeE",
+        "pinned_tweet_id": "1906345611391373747",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026209866541604864/gGLpjUl4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 480,
+          "following_count": 730,
+          "like_count": 20333,
+          "listed_count": 1,
+          "media_count": 978,
+          "tweet_count": 5817
+        },
+        "username": "CoFfffEeeeE1",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-20T10:44:50.000Z",
+        "description": "male//泛性恋//麦当劳薯饼//减肥//#东方project//没脾气//纯良//好色//fallout//试着戒烟//碎碎念//收集喜欢的文字//我的爱人是 @R18Giano",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 32,
+                "start": 22,
+                "tag": "东方project"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 91,
+                "start": 82,
+                "username": "R18Giano"
+              }
+            ]
+          }
+        },
+        "id": "1594280404504444931",
+        "name": "Lich🐱🙏守卫信仰，救助苦难",
+        "pinned_tweet_id": "2040511334354485327",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042425919135223808/Qp2rYOg8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 974,
+          "following_count": 2742,
+          "like_count": 29172,
+          "listed_count": 6,
+          "media_count": 1223,
+          "tweet_count": 9537
+        },
+        "username": "LichitLich",
+        "verified": false
+      }
+    ]
+  }
+}

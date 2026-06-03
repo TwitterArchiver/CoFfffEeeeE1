@@ -1,0 +1,232 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1596719791661715458",
+    "conversation_id": "1811428974352007443",
+    "created_at": "2024-07-12T00:32:48.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-12T01:32:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1811559299610726488"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1714894056986460160",
+          "start": 0,
+          "username": "89JinPing64"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1811559299610726488",
+    "in_reply_to_user_id": "1714894056986460160",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1811428974352007443",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@89JinPing64 行业明灯"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1596719791661715458",
+        "conversation_id": "1811428974352007443",
+        "created_at": "2024-07-12T00:32:48.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-12T01:32:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1811559299610726488"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1714894056986460160",
+              "start": 0,
+              "username": "89JinPing64"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1811559299610726488",
+        "in_reply_to_user_id": "1714894056986460160",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1811428974352007443",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@89JinPing64 行业明灯"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1811428967842562048"
+          ]
+        },
+        "author_id": "1714894056986460160",
+        "conversation_id": "1811428974352007443",
+        "created_at": "2024-07-11T15:54:56.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-11T16:54:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1811428974352007443"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/C95N7qchI7",
+              "end": 37,
+              "expanded_url": "https://twitter.com/89JinPing64/status/1811428974352007443/photo/1",
+              "media_key": "3_1811428967842562048",
+              "start": 14,
+              "url": "https://t.co/C95N7qchI7"
+            },
+            {
+              "display_url": "x.com/89jinping64/st…",
+              "end": 61,
+              "expanded_url": "https://twitter.com/89jinping64/status/1810651432523383083",
+              "start": 38,
+              "url": "https://t.co/sKyXBrGGbr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1811428974352007443",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 16953,
+          "like_count": 90,
+          "quote_count": 1,
+          "reply_count": 27,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1810651432523383083",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "诶哟我真的是操了你们🐎了😃 https://t.co/C95N7qchI7 https://t.co/sKyXBrGGbr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-27T04:17:31.000Z",
+        "description": "⚧️青蛙/咖啡/代词是She或单数They \n🏳️‍⚧️MtF/Pan/酷儿/雌激素服用中\n🥰天下第一喜欢@shudesu00\n👽商科/数学/编程\n💤Overdose\n😨边缘型人格障碍\n🍥04年生/17年hrt/19年断药/20年二周目\n⚠️血图/裸图\n🛸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "shudesu00"
+              }
+            ]
+          }
+        },
+        "id": "1596719791661715458",
+        "name": "CoFfffEeeeE",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1596720023166685185/UoIN_u73_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 411,
+          "following_count": 792,
+          "like_count": 11606,
+          "listed_count": 0,
+          "tweet_count": 3253
+        },
+        "username": "CoFfffEeeeE1",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-19T06:40:00.000Z",
+        "description": "2420年、品人の頭はまだ冷やされていない。民主の女神:@Liyu0109 優しい元カノ:@Suyutong 会いたい人:@wakeup_arrow 🚪：One share of Nvidia stock. 只要你主动，我们就会有故事。 博客 https://t.co/ZZsthj06Du",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 28,
+                "username": "Liyu0109"
+              },
+              {
+                "end": 54,
+                "start": 45,
+                "username": "Suyutong"
+              },
+              {
+                "end": 74,
+                "start": 61,
+                "username": "wakeup_arrow"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "jyajyananalee.blogspot.com",
+                "end": 145,
+                "expanded_url": "https://jyajyananalee.blogspot.com",
+                "start": 122,
+                "url": "https://t.co/ZZsthj06Du"
+              }
+            ]
+          }
+        },
+        "id": "1714894056986460160",
+        "location": "Carp Entertainment Co., Ltd",
+        "name": "李奈々です",
+        "pinned_tweet_id": "1714895367370866803",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1718640683857448960/lYs7DLuo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3742,
+          "following_count": 753,
+          "like_count": 57152,
+          "listed_count": 17,
+          "tweet_count": 10769
+        },
+        "username": "89JinPing64",
+        "verified": false
+      }
+    ]
+  }
+}
